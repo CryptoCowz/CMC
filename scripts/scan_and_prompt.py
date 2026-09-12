@@ -2,8 +2,9 @@ import json
 import os
 import requests
 from google import genai
+from google.genai import types
 
-# 1. Fetch Trending & Top Performing Coins (CoinGecko free public API)
+# 1. Fetch Trending & Top Performing Coins
 url = "https://api.coingecko.com/api/v3/search/trending"
 headers = {"accept": "application/json"}
 response = requests.get(url, headers=headers)
@@ -35,13 +36,16 @@ Format each entry as:
 - Google Flow Image Prompt: [2D cartoon illustration in The Pasture animation style, detailing character pose, expression, and market charts/elements]
 """
 
+# 3. Generate content using the active model and typed config
 response = client.models.generate_content(
-    model="gemini-2.5-flash",
+    model="gemini-3.6-flash",
     contents=prompt,
-    config={"system_instruction": system_instruction},
+    config=types.GenerateContentConfig(
+        system_instruction=system_instruction,
+    ),
 )
 
-# 3. Save output to Markdown file
+# 4. Save output to Markdown file
 output_path = "output/cmc_prompts_latest.md"
 os.makedirs("output", exist_ok=True)
 with open(output_path, "w") as f:
