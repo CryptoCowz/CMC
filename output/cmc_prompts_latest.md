@@ -1,30 +1,111 @@
-# CMC Top Scans & Community Prompts
+# Daily Top Movers: CMC Community Posts & Visuals
 
-Here are 3 satirical CoinMarketCap community comments from the MOO19 newsroom cast:
+## 1. Bitway ($BTW) — 24.14% (PUMP)
+**Cast Member:** Chet Lively
+**CMC Comment:** Chet Lively here! Bitway just smashed through defenders with a massive 24% run up the middle! The crowd is going wild as BTW scores a touchdown for green candles!
 
----
+![BTW Graphic](images/01_PUMP_BTW.png)
 
-### Entry 1
-
-* **Token & Ticker:** Pudgy Penguins ($PENGU)
-* **Cast Character:** Sunshine Innocent Nimbus
-* **CMC Comment:** I bought the cute icy bird token because it reminded me of winter treats, but now my wallet is freezing! Does anyone know how to wrap them in sweaters so the price stops waddling downhill?
-* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style. Sunshine Innocent Nimbus, a wide-eyed, innocent white cow with rosy pink cheeks, looking worriedly at a handheld tablet displaying a plummeting icy blue candlestick chart. In the background, cute frozen penguin silhouettes bounce around a retro MOO19 studio backdrop with soft flat colors and thick outlines.
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring sports anchor Chet Lively holding a foam finger in front of a green sports scoreboard showing BTW +24.14%, accented with Pasture green (#567D33).
 
 ---
 
-### Entry 2
+## 2. Filecoin ($FIL) — 18.06% (PUMP)
+**Cast Member:** VOLA
+**CMC Comment:** Processing data storage surge. Filecoin decentralization efficiency increased by 18.06%. Synergistic ROI maximized for high-density node operators.
 
-* **Token & Ticker:** Hunter Biden's Laptop ($LAPTOP)
-* **Cast Character:** Frank Rizzo
-* **CMC Comment:** I ran a full diagnostic scan on this ticker and all I found was corrupted files, absurd leverage, and three guys named Sal trying to short the motherboard. If this garbage pumps another 50%, I’m wiping my hard drive and moving to the swamp.
-* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style. Frank Rizzo, a gruff, cigar-chomping bull wearing a wrinkled gray suit and loosened tie, slamming his hooves down on a dusty, smoking vintage laptop. The computer screen flashes erratic green and red meme-coin trendlines with bold flat color cel-shading and a gritty newsroom studio environment.
+![FIL Graphic](images/02_PUMP_FIL.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring corporate AI CEO VOLA pointing at a glowing digital server rack with Royal Purple (#6A0DAD) accents and floating data charts.
 
 ---
 
-### Entry 3
+## 3. JUST ($JST) — 3.23% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Good evening, I am Skip Zinfandel. JUST creeps up 3.23%, proving that even modest gains look breathtaking when presented with my immaculate hair pompadour.
 
-* **Token & Ticker:** STONK ($STONK)
-* **Cast Character:** Skip Zinfandel
-* **CMC Comment:** Market fundamentals are completely obsolete, folks—my high-hold hairspray and this chart are both pointing straight to the heavens! Remember, it’s technically impossible to crash if the newsroom simply refuses to report on the sell button.
-* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style. Skip Zinfandel, a sleek, handsome news-anchor bull with impeccably coiffed hair and a sharp navy blazer, flashing a dazzling, overconfident smile. He points a golden pointer stick toward a neon-green line chart that literally shoots off the top of the broadcast monitor frame in classic vibrant 2D TV-animation style.
+![JST Graphic](images/03_PUMP_JST.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring smug news anchor Skip Zinfandel with a high pompadour sitting behind a news desk, accented with Pasture green (#567D33).
+
+---
+
+## 4. Stable ($STABLE) — 2.95% (PUMP)
+**Cast Member:** VOLA
+**CMC Comment:** System analysis: Stable demonstrates controlled yield escalation of 2.95%. Volatility suppression protocols functioning within acceptable operational parameters.
+
+![STABLE Graphic](images/04_PUMP_STABLE.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring corporate AI CEO VOLA holding a holographic clipboard displaying STABLE metrics, accented with Royal Purple (#6A0DAD).
+
+---
+
+## 5. Injective ($INJ) — 2.62% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Injective gains 2.62%! While the peasants celebrate pennies, I celebrate the sheer elegance of upward momentum on my bespoke tailored suit.
+
+![INJ Graphic](images/05_PUMP_INJ.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring smug news anchor Skip Zinfandel adjusting his tie in front of a news camera, accented with Pasture green (#567D33).
+
+---
+
+## 6. Dash ($DASH) — -5.12% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Frank Rizzo reporting live from the alleyway! Dash lived up to its name and sprinted away from gains today, dropping over 5%. I haven't seen a drop this fast since my last trench coat fell off a truck.
+
+![DASH Graphic](images/06_DUMP_DASH.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring gritty street reporter Frank Rizzo in a trench coat holding a vintage microphone on a dark rainy street corner with Royal Purple (#6A0DAD) neon signs.
+
+---
+
+## 7. NEAR Protocol ($NEAR) — -5.41% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh delightful disaster! NEAR protocol drops 5.41%! The dark clouds of liquidation are gathering and I am absolutely dancing in the financial rain!
+
+![NEAR Graphic](images/07_DUMP_NEAR.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring goth weather girl Sunshine Innocent Nimbus holding a black umbrella under a gloomy storm cloud with Royal Purple (#6A0DAD) lightning bolts.
+
+---
+
+## 8. Lighter ($LIT) — -5.48% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Rizzo here! Looks like Lighter just blew out its own flame, taking a 5.48% dive into the gutter. Back to you in the studio where it's hopefully less slippery!
+
+![LIT Graphic](images/08_DUMP_LIT.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring street reporter Frank Rizzo standing in front of a smoking dump truck with Pasture green (#567D33) broadcast graphics.
+
+---
+
+## 9. Venice Token ($VVV) — -8.56% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Venice Token is sinking faster than a gondola full of lead bricks, down 8.56%! Grab your tragic despair gear, storm lovers!
+
+![VVV Graphic](images/09_DUMP_VVV.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring goth weather girl Sunshine Innocent Nimbus pointing at a severe red weather map with gloom accents and Royal Purple (#6A0DAD).
+
+---
+
+## 10. Ether.fi ($ETHFI) — -15.07% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Absolute weather catastrophe! Ether.fi plummets a glorious 15.07%! Tears of liquidators are my favorite afternoon drizzle!
+
+![ETHFI Graphic](images/10_DUMP_ETHFI.png)
+
+**Google Flow / Scene Prompt:**
+> 2D clean cartoon illustration in The Pasture animation style featuring goth weather girl Sunshine Innocent Nimbus smiling joyfully in front of a chaotic red storm forecast map with Royal Purple (#6A0DAD) highlights.
+
+---
