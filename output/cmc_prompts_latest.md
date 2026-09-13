@@ -1,27 +1,30 @@
 # CMC Top Scans & Community Prompts
 
-Here are 3 satirical CoinMarketCap community comments and image prompts straight from the MOO19 Newsroom floor:
+Here are 3 satirical CoinMarketCap community comments from the MOO19 newsroom cast:
 
 ---
 
-### **Entry 1**
+### Entry 1
+
 * **Token & Ticker:** Pudgy Penguins ($PENGU)
 * **Cast Character:** Sunshine Innocent Nimbus
-* **CMC Comment:** I bought $PENGU because the waddle-to-earn tokenomics reminded me of my morning stroll to the pasture! Sure, my life savings are melting faster than the ice caps, but look how cute their little digital parkas are! 🐧❄️✨
-* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style featuring Sunshine Innocent Nimbus, a cute, wide-eyed Holstein cow wearing flower hair clips. She is squealing with joy and clutching a glowing holographic penguin, completely oblivious to the giant red downward candle on the $PENGU market chart behind her. Bright pastel color palette, bold outlines, vibrant MOO19 news studio background with floating snowflake emojis.
+* **CMC Comment:** I bought the cute icy bird token because it reminded me of winter treats, but now my wallet is freezing! Does anyone know how to wrap them in sweaters so the price stops waddling downhill?
+* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style. Sunshine Innocent Nimbus, a wide-eyed, innocent white cow with rosy pink cheeks, looking worriedly at a handheld tablet displaying a plummeting icy blue candlestick chart. In the background, cute frozen penguin silhouettes bounce around a retro MOO19 studio backdrop with soft flat colors and thick outlines.
 
 ---
 
-### **Entry 2**
-* **Token & Ticker:** Artificial Inu ($AI)
-* **Cast Character:** Professor Hartmut
-* **CMC Comment:** My quantum-bovine algorithms confirm $AI masterfully fuses the two core pillars of modern finance: buzzword bingo and terminal canine brainrot. If the bag dumps, we simply blame the smart contract's hallucination parameters! 🧬🐕📉
-* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style featuring Professor Hartmut, an eccentric bull scientist with messy white fur hair, thick brass goggles, and a white lab coat. He is frantically pointing a glowing laser pointer at a chalkboard covered in chaotic math equations, shiba inu scribbles, and a volatile green $AI ticker chart. Glowing blue plasma sparks bounce off his high-tech newsroom workstation, flat vector art style.
+### Entry 2
 
----
-
-### **Entry 3**
-* **Token & Ticker:** STONK ($STONK)
+* **Token & Ticker:** Hunter Biden's Laptop ($LAPTOP)
 * **Cast Character:** Frank Rizzo
-* **CMC Comment:** Back in my day, a "stonk" was what happened to your gut after eating spoiled cud, not a zero-utility coin holding down rank #160. Enjoy your green candles, rookies, because the slaughterhouse doesn't take 100x leverage. 🥩📉😤
-* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style featuring Frank Rizzo, a gruff, heavily scarred brown bull wearing a wrinkled yellow tie and red suspenders. He has a furious expression, aggressively slamming his hoof on the MOO19 news desk as a cigar smolders in his mouth. In the background, a massive screen displays the $STONK chart violently pumping directly into a giant red skull icon. Satirical 2D broadcast animation aesthetic, thick outlines, dramatic lighting.
+* **CMC Comment:** I ran a full diagnostic scan on this ticker and all I found was corrupted files, absurd leverage, and three guys named Sal trying to short the motherboard. If this garbage pumps another 50%, I’m wiping my hard drive and moving to the swamp.
+* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style. Frank Rizzo, a gruff, cigar-chomping bull wearing a wrinkled gray suit and loosened tie, slamming his hooves down on a dusty, smoking vintage laptop. The computer screen flashes erratic green and red meme-coin trendlines with bold flat color cel-shading and a gritty newsroom studio environment.
+
+---
+
+### Entry 3
+
+* **Token & Ticker:** STONK ($STONK)
+* **Cast Character:** Skip Zinfandel
+* **CMC Comment:** Market fundamentals are completely obsolete, folks—my high-hold hairspray and this chart are both pointing straight to the heavens! Remember, it’s technically impossible to crash if the newsroom simply refuses to report on the sell button.
+* **Google Flow Image Prompt:** 2D cartoon illustration in The Pasture animation style. Skip Zinfandel, a sleek, handsome news-anchor bull with impeccably coiffed hair and a sharp navy blazer, flashing a dazzling, overconfident smile. He points a golden pointer stick toward a neon-green line chart that literally shoots off the top of the broadcast monitor frame in classic vibrant 2D TV-animation style.
