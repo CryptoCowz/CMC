@@ -2,9 +2,10 @@ import io
 import json
 import os
 import requests
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 from google import genai
 from google.genai import types
+from pydantic import BaseModel, Field
 
 # ----------------------------------------------------
 # 1. Fetch Top 5 Gainers & Top 5 Losers (CoinGecko)
@@ -22,8 +23,7 @@ url = (
 response = requests.get(url, headers=headers)
 data = response.json()
 
-# Filter coins with valid 24h price change
-valid_coins = [c for c in data if c.get("price_change_percentage_24h") is not None]
+valid_coins = [c for c in data if isinstance(c, dict) and c.get("price_change_percentage_24h") is not None]
 sorted_by_change = sorted(valid_coins, key=lambda x: x["price_change_percentage_24h"], reverse=True)
 
 top_gainers = sorted_by_change[:5]
@@ -48,83 +48,110 @@ for c in top_losers:
     })
 
 # ----------------------------------------------------
-# 2. Generate Satirical Commentary & Prompts via Gemini
+# 2. Strict Structured Schema for Gemini Commentary
 # ----------------------------------------------------
+class MoverItem(BaseModel):
+    symbol: str
+    name: str
+    direction: str
+    change_24h: float
+    character: str
+    comment: str
+    image_prompt: str
+
+class MarketResponse(BaseModel):
+    items: list[MoverItem]
+
 client = genai.Client()
 
 system_instruction = """
 You are the creative director for The Pasture / CryptoCowz (MOO19 Newsroom).
-For each coin provided, generate:
-1. Assigned MOO19 Character:
-   - For PUMP: Skip Zinfandel (smug anchor with pompadour), Chet Lively (clueless sports anchor), or VOLA (corporate AI CEO).
-   - For DUMP: Sunshine Innocent Nimbus (goth weather girl who rejoices in disaster) or Frank Rizzo (cynical street reporter in trench coat).
-2. CMC Comment: Max 2 sharp, satirical sentences suitable for the CoinMarketCap community section.
-3. Image Prompt: Detailed prompt for a 2D clean cartoon illustration matching The Pasture brand guidelines:
-   - Species: Anthropomorphic cow/bull.
-   - Style: Clean bold 2D lines, flat vector cell shading, no hyper-realism.
-   - Branding: Pasture green (#567D33), Royal Purple (#6A0DAD), or Corporate Lavender (#9F86C0).
-   - Scene: Anchor desks, weather radars, or street corners with green/red candlestick charts and token logos.
-
-Respond ONLY with a valid JSON array containing exactly 10 objects with keys:
-"symbol", "name", "direction", "change_24h", "character", "comment", "image_prompt"
+For each coin provided, select an appropriate cast character and write a satirical CoinMarketCap comment:
+- For PUMP: Skip Zinfandel (smug anchor with pompadour), Chet Lively (sports anchor), or VOLA (corporate AI CEO).
+- For DUMP: Sunshine Innocent Nimbus (goth weather girl celebrating disaster) or Frank Rizzo (gritty street reporter in a trench coat).
+Write a 2D clean cartoon illustration prompt in The Pasture animation style with Pasture green (#567D33) or Royal Purple (#6A0DAD) accents.
 """
 
-prompt = f"Selected Movers (Top 5 Gainers & Top 5 Losers):\n{json.dumps(selected_pulls, indent=2)}"
+prompt = f"Movers Data:\n{json.dumps(selected_pulls, indent=2)}"
 
 chat_response = client.models.generate_content(
     model="gemini-3.6-flash",
     contents=prompt,
     config=types.GenerateContentConfig(
         system_instruction=system_instruction,
-        response_mime_type="application/json"
+        response_mime_type="application/json",
+        response_schema=MarketResponse,
     )
 )
 
-items = json.loads(chat_response.text)
+parsed_payload = MarketResponse.model_validate_json(chat_response.text)
+movers_list = parsed_payload.items
 
 # ----------------------------------------------------
-# 3. Generate & Resize 1200x675 Images
+# 3. Image Generation & 1200x675 Canvas Formatting
 # ----------------------------------------------------
 os.makedirs("output/images", exist_ok=True)
 markdown_lines = ["# Daily Top Movers: CMC Community Posts & Visuals\n"]
 
-for idx, item in enumerate(items, 1):
-    symbol = item["symbol"]
-    direction = item["direction"]
-    char = item["character"]
-    comment = item["comment"]
-    img_prompt = item["image_prompt"]
+def generate_branded_placeholder(filename: str, symbol: str, direction: str, char: str, change: float):
+    """Generates a 1200x675 branded fallback card using CryptoCowz brand colors."""
+    bg_color = (86, 125, 51) if direction == "PUMP" else (106, 13, 173)  # Pasture green or Royal purple
+    img = Image.new("RGB", (1200, 675), color=bg_color)
+    draw = ImageDraw.Draw(img)
+    
+    # Outer Border
+    draw.rectangle([(20, 20), (1180, 655)], outline=(255, 255, 255), width=4)
+    
+    # Text metadata
+    draw.text((60, 60), "MOO19 NEWS | THE PASTURE", fill=(255, 211, 0))
+    draw.text((60, 160), f"${symbol}  ({'+' if change > 0 else ''}{change}%)", fill=(255, 255, 255))
+    draw.text((60, 260), f"Status: {direction}", fill=(255, 255, 255))
+    draw.text((60, 360), f"On Scene: {char}", fill=(220, 220, 220))
+    draw.text((60, 560), "CryptoCowz Edutainment Universe", fill=(200, 200, 200))
+    
+    img.save(filename, "PNG")
+
+for idx, item in enumerate(movers_list, 1):
+    symbol = item.symbol
+    direction = item.direction
+    char = item.character
+    comment = item.comment
+    img_prompt = item.image_prompt
     filename = f"output/images/{idx:02d}_{direction}_{symbol}.png"
 
-    print(f"Generating image {idx}/10: {symbol} ({direction}) with {char}...")
+    print(f"Generating visual {idx}/10: {symbol} ({direction}) with {char}...")
 
+    image_saved = False
     try:
-        img_res = client.models.generate_images(
-            model="imagen-4.0-generate-001",
-            prompt=img_prompt,
-            config=types.GenerateImagesConfig(
-                number_of_images=1,
-                aspect_ratio="16:9"
+        img_res = client.models.generate_content(
+            model="gemini-2.5-flash-image",
+            contents=img_prompt,
+            config=types.GenerateContentConfig(
+                response_modalities=["IMAGE"],
             )
         )
-        
-        # Load image bytes and resize strictly to 1200x675
-        img_bytes = img_res.generated_images[0].image.image_bytes
-        img = Image.open(io.BytesIO(img_bytes))
-        img = img.resize((1200, 675), Image.Resampling.LANCZOS)
-        img.save(filename, "PNG")
-
-        markdown_lines.append(f"## {idx}. {item['name']} (${symbol}) — {item['change_24h']}% ({direction})")
-        markdown_lines.append(f"**Cast Member:** {char}")
-        markdown_lines.append(f"**CMC Comment:** {comment}\n")
-        markdown_lines.append(f"![{symbol} Graphic](images/{os.path.basename(filename)})\n")
-        markdown_lines.append(f"**Google Flow / Engine Prompt:**\n> {img_prompt}\n")
-        markdown_lines.append("---\n")
+        for part in img_res.candidates[0].content.parts:
+            if part.inline_data is not None:
+                raw_bytes = part.inline_data.data
+                img = Image.open(io.BytesIO(raw_bytes))
+                img = img.resize((1200, 675), Image.Resampling.LANCZOS)
+                img.save(filename, "PNG")
+                image_saved = True
+                break
     except Exception as e:
-        print(f"Failed image for {symbol}: {e}")
-        markdown_lines.append(f"## {idx}. {item['name']} (${symbol}) — Error generating image: {e}\n")
+        print(f"Native image generation unavailable for {symbol}: {e}")
+
+    if not image_saved:
+        generate_branded_placeholder(filename, symbol, direction, char, item.change_24h)
+
+    markdown_lines.append(f"## {idx}. {item.name} (${symbol}) — {item.change_24h}% ({direction})")
+    markdown_lines.append(f"**Cast Member:** {char}")[cite: 1]
+    markdown_lines.append(f"**CMC Comment:** {comment}\n")
+    markdown_lines.append(f"![{symbol} Graphic](images/{os.path.basename(filename)})\n")
+    markdown_lines.append(f"**Google Flow / Scene Prompt:**\n> {img_prompt}\n")[cite: 2]
+    markdown_lines.append("---\n")
 
 with open("output/cmc_prompts_latest.md", "w") as f:
     f.write("\n".join(markdown_lines))
 
-print("All 10 graphics processed and saved successfully.")
+print("All 10 assets and markdown reports compiled successfully.")
