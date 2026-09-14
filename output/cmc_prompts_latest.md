@@ -1,111 +1,111 @@
 # Daily Top Movers: CMC Community Posts & Visuals
 
-## 1. Bitway ($BTW) — 24.14% (PUMP)
+## 1. NEAR Protocol ($NEAR) — 9.53% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** NEAR is pumping +9.53%! My hair gel hasn't had this much hold since the 2021 bull run, folks! Sharding never looked so stylish.
+
+![NEAR Candlestick Chart](images/01_PUMP_NEAR.png)
+
+**Google Flow / Scene Prompt:**
+> 2D vector animation style with bold outlines, flat cel shading. Skip Zinfandel, a smug news anchor with a massive pompadour hairstyle, smiling in front of a giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line, with the token symbol NEAR and a green arrow pointing up. Palette includes pasture green #567D33 and royal purple #6A0DAD.
+
+---
+
+## 2. Stellar ($XLM) — 9.44% (PUMP)
 **Cast Member:** Chet Lively
-**CMC Comment:** Chet Lively here! Bitway just smashed through defenders with a massive 24% run up the middle! The crowd is going wild as BTW scores a touchdown for green candles!
+**CMC Comment:** Stellar rockets up 9.44%! That's a textbook breakaway play, sports fans! XLM is sprinting past defenders straight into the endzone!
 
-![BTW Graphic](images/01_PUMP_BTW.png)
+![XLM Candlestick Chart](images/02_PUMP_XLM.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring sports anchor Chet Lively holding a foam finger in front of a green sports scoreboard showing BTW +24.14%, accented with Pasture green (#567D33).
+> 2D vector animation style with bold outlines, flat cel shading. Chet Lively, an enthusiastic sports anchor with a headset, gesturing wildly in front of a giant high-tech broadcast screen displaying tall, glowing green candlestick bars breaking upward through a resistance line with the token symbol XLM and a green arrow pointing up. Palette features royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
 
-## 2. Filecoin ($FIL) — 18.06% (PUMP)
+## 3. PancakeSwap ($CAKE) — 7.66% (PUMP)
 **Cast Member:** VOLA
-**CMC Comment:** Processing data storage surge. Filecoin decentralization efficiency increased by 18.06%. Synergistic ROI maximized for high-density node operators.
+**CMC Comment:** CAKE yield protocol efficiency increased by +7.66%. Processing optimal syrup distribution metrics. Eat the gains, human units.
 
-![FIL Graphic](images/02_PUMP_FIL.png)
+![CAKE Candlestick Chart](images/03_PUMP_CAKE.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring corporate AI CEO VOLA pointing at a glowing digital server rack with Royal Purple (#6A0DAD) accents and floating data charts.
+> 2D vector animation style with bold outlines, flat cel shading. VOLA, a corporate AI CEO with a sleek glowing robotic face, standing beside a giant high-tech broadcast screen displaying tall, glowing green candlestick bars breaking upward through a resistance line with the token symbol CAKE and a green upward arrow. Palette includes pasture green #567D33 and corporate lavender #9F86C0.
 
 ---
 
-## 3. JUST ($JST) — 3.23% (PUMP)
+## 4. XRP ($XRP) — 5.97% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Good evening, I am Skip Zinfandel. JUST creeps up 3.23%, proving that even modest gains look breathtaking when presented with my immaculate hair pompadour.
+**CMC Comment:** XRP up nearly 6%! The lawyers are popping champagne and my pompadour is standing tall! Legal clarity tastes like fine victory, viewers.
 
-![JST Graphic](images/03_PUMP_JST.png)
+![XRP Candlestick Chart](images/04_PUMP_XRP.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring smug news anchor Skip Zinfandel with a high pompadour sitting behind a news desk, accented with Pasture green (#567D33).
+> 2D vector animation style with bold outlines, flat cel shading. Skip Zinfandel, a smug anchor with a pompadour, pointing to a giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line with the token symbol XRP and a green arrow pointing up. Palette features pasture green #567D33 and royal purple #6A0DAD.
 
 ---
 
-## 4. Stable ($STABLE) — 2.95% (PUMP)
-**Cast Member:** VOLA
-**CMC Comment:** System analysis: Stable demonstrates controlled yield escalation of 2.95%. Volatility suppression protocols functioning within acceptable operational parameters.
+## 5. Lighter ($LIT) — 4.17% (PUMP)
+**Cast Member:** Chet Lively
+**CMC Comment:** LIT living up to its name with a solid +4.17% gain! A clutch performance in the fourth quarter for the Lighter squad!
 
-![STABLE Graphic](images/04_PUMP_STABLE.png)
+![LIT Candlestick Chart](images/05_PUMP_LIT.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring corporate AI CEO VOLA holding a holographic clipboard displaying STABLE metrics, accented with Royal Purple (#6A0DAD).
+> 2D vector animation style with bold outlines, flat cel shading. Chet Lively, a high-energy sports anchor, holding a foam finger in front of a giant high-tech broadcast screen displaying tall, glowing green candlestick bars breaking upward through a resistance line with the token symbol LIT and a green arrow pointing up. Palette features royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
 
-## 5. Injective ($INJ) — 2.62% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Injective gains 2.62%! While the peasants celebrate pennies, I celebrate the sheer elegance of upward momentum on my bespoke tailored suit.
+## 6. Kaspa ($KAS) — -1.77% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** A delicate -1.77% drizzle on Kaspa today! Isn't the slow descent into dark red so beautiful, dark, and romantic?
 
-![INJ Graphic](images/05_PUMP_INJ.png)
+![KAS Candlestick Chart](images/06_DUMP_KAS.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring smug news anchor Skip Zinfandel adjusting his tie in front of a news camera, accented with Pasture green (#567D33).
+> 2D vector animation style with bold outlines, flat cel shading. Sunshine Innocent Nimbus, a goth weather girl with dark lipstick and umbrella, standing in front of a weather map radar screen showing tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and stormy graphics with token symbol KAS. Palette includes royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
 
-## 6. Dash ($DASH) — -5.12% (DUMP)
+## 7. Cosmos Hub ($ATOM) — -2.2% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Frank Rizzo reporting live from the alleyway! Dash lived up to its name and sprinted away from gains today, dropping over 5%. I haven't seen a drop this fast since my last trench coat fell off a truck.
+**CMC Comment:** Cosmos is down -2.2%. Out here in the streets, gravity always wins, pal. The hub is leaking grease on the pavement.
 
-![DASH Graphic](images/06_DUMP_DASH.png)
+![ATOM Candlestick Chart](images/07_DUMP_ATOM.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring gritty street reporter Frank Rizzo in a trench coat holding a vintage microphone on a dark rainy street corner with Royal Purple (#6A0DAD) neon signs.
+> 2D vector animation style with bold outlines, flat cel shading. Frank Rizzo, a gritty street reporter in a worn trench coat holding a vintage microphone, standing in a dimly lit alley terminal showing tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and token symbol ATOM. Palette features pasture green #567D33 and corporate lavender #9F86C0.
 
 ---
 
-## 7. NEAR Protocol ($NEAR) — -5.41% (DUMP)
+## 8. MemeCore ($M) — -3.51% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh delightful disaster! NEAR protocol drops 5.41%! The dark clouds of liquidation are gathering and I am absolutely dancing in the financial rain!
+**CMC Comment:** MemeCore drops -3.51%! Watch the memes wilt like poisoned roses in a lightning storm. Perfection!
 
-![NEAR Graphic](images/07_DUMP_NEAR.png)
+![M Candlestick Chart](images/08_DUMP_M.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring goth weather girl Sunshine Innocent Nimbus holding a black umbrella under a gloomy storm cloud with Royal Purple (#6A0DAD) lightning bolts.
+> 2D vector animation style with bold outlines, flat cel shading. Sunshine Innocent Nimbus, a goth weather girl, pointing happily at a weather map radar display showing tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and stormy graphics featuring token symbol M. Palette includes royal purple #6A0DAD and pasture green #567D33.
 
 ---
 
-## 8. Lighter ($LIT) — -5.48% (DUMP)
+## 9. Monero ($XMR) — -3.9% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Rizzo here! Looks like Lighter just blew out its own flame, taking a 5.48% dive into the gutter. Back to you in the studio where it's hopefully less slippery!
+**CMC Comment:** Monero slumps -3.9%. Even the privacy guys can't hide from this beatdown in the dark alleys of the blockchain, boss.
 
-![LIT Graphic](images/08_DUMP_LIT.png)
+![XMR Candlestick Chart](images/09_DUMP_XMR.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring street reporter Frank Rizzo standing in front of a smoking dump truck with Pasture green (#567D33) broadcast graphics.
+> 2D vector animation style with bold outlines, flat cel shading. Frank Rizzo, a gritty street reporter in a trench coat, standing in front of an alley terminal displaying tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and token symbol XMR. Palette includes corporate lavender #9F86C0 and pasture green #567D33.
 
 ---
 
-## 9. Venice Token ($VVV) — -8.56% (DUMP)
+## 10. Rain ($RAIN) — -6.49% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Venice Token is sinking faster than a gondola full of lead bricks, down 8.56%! Grab your tragic despair gear, storm lovers!
+**CMC Comment:** Rain living up to its name with a lovely -6.49% torrential downpour! Put on your black raincoats, the despair is exquisite!
 
-![VVV Graphic](images/09_DUMP_VVV.png)
+![RAIN Candlestick Chart](images/10_DUMP_RAIN.png)
 
 **Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring goth weather girl Sunshine Innocent Nimbus pointing at a severe red weather map with gloom accents and Royal Purple (#6A0DAD).
-
----
-
-## 10. Ether.fi ($ETHFI) — -15.07% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Absolute weather catastrophe! Ether.fi plummets a glorious 15.07%! Tears of liquidators are my favorite afternoon drizzle!
-
-![ETHFI Graphic](images/10_DUMP_ETHFI.png)
-
-**Google Flow / Scene Prompt:**
-> 2D clean cartoon illustration in The Pasture animation style featuring goth weather girl Sunshine Innocent Nimbus smiling joyfully in front of a chaotic red storm forecast map with Royal Purple (#6A0DAD) highlights.
+> 2D vector animation style with bold outlines, flat cel shading. Sunshine Innocent Nimbus, a goth weather girl, holding a black lace umbrella in front of a weather map radar showing tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and stormy graphics featuring token symbol RAIN. Palette features royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
