@@ -1,111 +1,111 @@
 # Daily Top Movers: CMC Community Posts & Visuals
 
-## 1. Marscat Token ($MCAT) — 203.43% (PUMP)
+## 1. NEAR Protocol ($NEAR) — 24.89% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Meow! MCAT is blasting to Mars faster than a laser pointer dot! My pompadour is standing on end just watching this vertical green candle rocket into orbit!
+**CMC Comment:** Hold onto your toupees, folks! NEAR is pumping so hard my hair gel can barely handle the aerodynamic drag! +24% in a day!
 
-![MCAT Candlestick Chart](images/01_PUMP_MCAT.png)
+![NEAR Candlestick Chart](images/01_PUMP_NEAR.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Smug news anchor Skip Zinfandel with a massive coiffed pompadour standing in front of a giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line for MCAT, with a bold green arrow pointing up. Bold outlines, flat cel shading, featuring CryptoCowz brand colors pasture green #567D33 and royal purple #6A0DAD.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color pasture green #567D33. Skip Zinfandel, a smug news anchor with a massive pompadour hairstyle and a crisp suit, holding a microphone in the MOO19 newsroom. Behind him is a giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line, with the symbol NEAR and a massive green arrow pointing up.
 
 ---
 
-## 2. Uniswap ($UNI) — 18.47% (PUMP)
-**Cast Member:** VOLA
-**CMC Comment:** Analyzing UNI trajectory: automated market making protocols operating at peak efficiency. Liquidity pools surging by 18.47 percent. Profit projection optimal.
-
-![UNI Candlestick Chart](images/02_PUMP_UNI.png)
-
-**Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. VOLA, a sleek corporate AI CEO hologram, standing in a futuristic newsroom beside a giant high-tech broadcast screen displaying tall, glowing green candlestick bars for UNI breaking through resistance with an upward pointing arrow. Bold outlines, flat cel shading, corporate lavender #9F86C0 and pasture green #567D33.
-
----
-
-## 3. NEAR Protocol ($NEAR) — 18.35% (PUMP)
+## 2. Akedo ($AKE) — 24.19% (PUMP)
 **Cast Member:** Chet Lively
-**CMC Comment:** Touchdown NEAR! They just smashed through defense line 2.94 with an 18 percent breakaway gain! The crowd is going wild in the crypto stadium!
+**CMC Comment:** BOOM! Akedo comes out of the dugout with a massive +24% grand slam! That's what I call high-octane crypto athleticism!
 
-![NEAR Candlestick Chart](images/03_PUMP_NEAR.png)
+![AKE Candlestick Chart](images/02_PUMP_AKE.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Enthusiastic sports anchor Chet Lively holding a foam finger and microphone in front of a giant high-tech broadcast screen showing tall, glowing green candlestick bars for NEAR surging upward with a green arrow. Bold outlines, flat cel shading, royal purple #6A0DAD and pasture green #567D33.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color royal purple #6A0DAD. Chet Lively, an overly enthusiastic sports anchor in a bright blazer with a foam finger, shouting into a desk mic. In the background, a giant high-tech stadium broadcast screen displays tall, glowing green candlestick bars breaking upward through a resistance line, with the symbol AKE and a green arrow pointing up.
 
 ---
 
-## 4. Zcash ($ZEC) — 15.78% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Zcash proves privacy is pricey! $1,465 and pumping hard! My smile is as bright as this green mega-candle breaking through resistance!
-
-![ZEC Candlestick Chart](images/04_PUMP_ZEC.png)
-
-**Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Smug anchor Skip Zinfandel grinning brilliantly next to a giant high-tech broadcast screen showing tall, glowing green candlestick bars for ZEC breaking upward through resistance lines. Bold outlines, flat cel shading, pasture green #567D33 and corporate lavender #9F86C0.
-
----
-
-## 5. Dash ($DASH) — 13.64% (PUMP)
+## 3. Arbitrum ($ARB) — 22.51% (PUMP)
 **Cast Member:** VOLA
-**CMC Comment:** DASH velocity increased by 13.64 percent. Corporate forecast indicates high-frequency transaction dominance. Excellent performance metric.
+**CMC Comment:** ALGORITHM UPDATE: Arbitrum liquidity metrics have expanded by +22.51%. Corporate efficiency optimized. Human emotion deemed irrelevant.
 
-![DASH Candlestick Chart](images/05_PUMP_DASH.png)
+![ARB Candlestick Chart](images/03_PUMP_ARB.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. VOLA the AI CEO standing in a studio beside a giant high-tech digital display screen showing tall, glowing green candlestick bars for DASH breaking through resistance lines with an upward green arrow. Bold outlines, flat cel shading, corporate lavender #9F86C0 and pasture green #567D33.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color corporate lavender #9F86C0. VOLA, a sleek corporate AI CEO persona represented as a glowing holographic silhouette at a glass boardroom podium. A giant high-tech corporate broadcast screen behind displays tall, glowing green candlestick bars breaking upward through a resistance line, marked with the symbol ARB and an upward green arrow.
 
 ---
 
-## 6. TRON ($TRX) — -0.56% (DUMP)
+## 4. Uniswap ($UNI) — 21.43% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Uniswap swapping its way to the top of the charts! +21% and looking as handsome as my studio lighting setup!
+
+![UNI Candlestick Chart](images/04_PUMP_UNI.png)
+
+**Google Flow / Scene Prompt:**
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color pasture green #567D33. Skip Zinfandel, a smug news anchor pointing a polished finger at the camera with a flashing smile in a broadcast studio. A giant high-tech broadcast screen in the studio displays tall, glowing green candlestick bars breaking upward through a resistance line, featuring the UNI symbol and a bright green arrow pointing up.
+
+---
+
+## 5. Sky ($SKY) — 18.74% (PUMP)
+**Cast Member:** Chet Lively
+**CMC Comment:** Sky is reaching for the stratosphere! Up nearly 19% on the scoreboard! Keep your eyes on the replay, folks!
+
+![SKY Candlestick Chart](images/05_PUMP_SKY.png)
+
+**Google Flow / Scene Prompt:**
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color royal purple #6A0DAD. Chet Lively, an energetic sports news anchor leaning over his desk with excitement. Behind him, a giant high-tech broadcast screen features tall, glowing green candlestick bars breaking upward through a resistance line, accompanied by the token symbol SKY and an arrow pointing up.
+
+---
+
+## 6. PAX Gold ($PAXG) — -0.32% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh look, a gentle dark cloud over TRON! Just a soft 0.56 percent drop, but I can feel the storm brewing underneath! Rain down on us, sweet red candles!
+**CMC Comment:** Even precious shiny gold is feeling the sweet kiss of darkness today... a soft, tragic bleed into the abyss. Gorgeous.
 
-![TRX Candlestick Chart](images/06_DUMP_TRX.png)
+![PAXG Candlestick Chart](images/06_DUMP_PAXG.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Goth weather girl Sunshine Innocent Nimbus standing in front of a weather map radar screen showing tall, plunging red candlestick bars for TRX dropping off a cliff with stormy graphics and red crash percentages. Bold outlines, flat cel shading, royal purple #6A0DAD and pasture green #567D33.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color corporate lavender #9F86C0. Sunshine Innocent Nimbus, a pale goth weather presenter wearing black lace and dark lipstick, standing cheerfully in front of a weather map radar display. The radar screen displays tall, plunging red candlestick bars dropping off a cliff, with red crash percentages (-0.32%) and stormy rain graphics overlaid with the token symbol PAXG.
 
 ---
 
-## 7. Pi Network ($PI) — -0.68% (DUMP)
+## 7. LEO Token ($LEO) — -0.52% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** I am standing here in the rain, folks. Pi Network is leaking red on the pavement. Not a huge drop yet, but the street smells like impending panic!
+**CMC Comment:** Reporting live from the rain-soaked pavement. LEO took a light hit on the streets today. Nothing a cold coffee can't fix.
 
-![PI Candlestick Chart](images/07_DUMP_PI.png)
+![LEO Candlestick Chart](images/07_DUMP_LEO.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Gritty street reporter Frank Rizzo in a beige trench coat standing beside a flickering alley terminal screen showing tall, plunging red candlestick bars for PI dropping off a cliff with red crash percentage numbers. Bold outlines, flat cel shading, royal purple #6A0DAD and pasture green #567D33.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color pasture green #567D33. Frank Rizzo, a gritty street reporter wearing a wrinkled trench coat, holding a vintage microphone in a dark alley. On a flickering wall terminal display in the alley, tall, plunging red candlestick bars drop off a cliff, showing red crash percentages (-0.52%) and stormy graphics alongside the LEO symbol.
 
 ---
 
-## 8. Rain ($RAIN) — -1.72% (DUMP)
+## 8. JUST ($JST) — -1.34% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Rain token is living up to its name! A lovely little downpour of red candles! I hope it turns into a total hurricane financial apocalypse!
+**CMC Comment:** JUST is dripping downward like beautiful cold rain on a foggy window. Embrace the gloom, my dear bagholders.
 
-![RAIN Candlestick Chart](images/08_DUMP_RAIN.png)
+![JST Candlestick Chart](images/08_DUMP_JST.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Goth weather girl Sunshine Innocent Nimbus smiling excitedly next to a weather radar screen showing tall, plunging red candlestick bars for RAIN dropping off a cliff with stormy rain clouds and crash graphics. Bold outlines, flat cel shading, corporate lavender #9F86C0 and royal purple #6A0DAD.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color royal purple #6A0DAD. Sunshine Innocent Nimbus, a goth weather girl with dark braided hair and a sinister smile, gesturing to a weather map radar screen. The screen shows tall, plunging red candlestick bars dropping off a cliff with stormy storm cloud graphics and red percentages showing -1.34% alongside the symbol JST.
 
 ---
 
-## 9. Bitway ($BTW) — -7.86% (DUMP)
+## 9. Dash ($DASH) — -1.6% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Bitway is taking a real beating! Down almost 8 percent! I am on the corner of Dump Street and Capitulation Avenue, and it ain't pretty!
+**CMC Comment:** Dash ain't dashing anywhere fast right now. The charts are cold and the asphalt is slippery. Back to you in the studio.
 
-![BTW Candlestick Chart](images/09_DUMP_BTW.png)
+![DASH Candlestick Chart](images/09_DUMP_DASH.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Gritty street reporter Frank Rizzo holding a microphone near a weather radar alley terminal displaying tall, plunging red candlestick bars for BTW dropping off a cliff with red crash percentages. Bold outlines, flat cel shading, royal purple #6A0DAD and pasture green #567D33.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color corporate lavender #9F86C0. Frank Rizzo, a tired street reporter in a trench coat standing under a flickering street lamp. A nearby gritty alley terminal screen displays tall, plunging red candlestick bars dropping off a cliff with red crash percentage metrics (-1.60%) and stormy graphics for DASH.
 
 ---
 
-## 10. ​​Stable ($STABLE) — -10.78% (DUMP)
+## 10. Bitway ($BTW) — -6.19% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Ironically named STABLE is down nearly 11 percent! Absolute chaos and beautiful disaster! The red candles are melting so gorgeously!
+**CMC Comment:** Down over six percent! Oh, the sheer melancholy of Bitway slipping down the storm drain! I love this forecast!
 
-![STABLE Candlestick Chart](images/10_DUMP_STABLE.png)
+![BTW Candlestick Chart](images/10_DUMP_BTW.png)
 
 **Google Flow / Scene Prompt:**
-> Clean 2D vector animation style. Goth weather girl Sunshine Innocent Nimbus clapping cheerfully in front of a stormy weather map screen showing tall, plunging red candlestick bars for STABLE falling off a cliff with big red crash stats. Bold outlines, flat cel shading, corporate lavender #9F86C0 and royal purple #6A0DAD.
+> Clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand color pasture green #567D33. Sunshine Innocent Nimbus, a goth weather presenter holding a black umbrella indoors, smiling delightedly in front of a weather map radar display. The broadcast display features tall, plunging red candlestick bars dropping off a cliff with dark thunderbolt graphics, red crash percentages (-6.19%), and the symbol BTW.
 
 ---
