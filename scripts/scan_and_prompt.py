@@ -16,9 +16,8 @@ IMAGE_DIR = "output/images"
 os.makedirs(IMAGE_DIR, exist_ok=True)
 
 def cleanup_old_images(directory: str, days: int = 3):
-    """Deletes images from the target directory older than specified days."""
     now = time.time()
-    cutoff_seconds = days * 86400  # 3 days in seconds
+    cutoff_seconds = days * 86400
 
     for filename in os.listdir(directory):
         filepath = os.path.join(directory, filename)
@@ -34,7 +33,52 @@ def cleanup_old_images(directory: str, days: int = 3):
 cleanup_old_images(IMAGE_DIR, days=3)
 
 # ----------------------------------------------------
-# 1. Fetch Top 5 Gainers & Top 5 Losers (CoinGecko)
+# 1. Global Asset Discovery Engine
+# ----------------------------------------------------
+# Scans the entire repo tree once to locate assets regardless of where they are saved
+REPO_ASSET_MAP = {}
+print("Indexing repository image assets...")
+for root, dirs, files in os.walk("."):
+    # Skip git and output folders
+    if ".git" in root or "output" in root:
+        continue
+    for file in files:
+        stem, ext = os.path.splitext(file)
+        if ext.lower() in [".png", ".jpg", ".jpeg"]:
+            # Store lowercase key mapping to absolute path
+            REPO_ASSET_MAP[stem.lower()] = os.path.join(root, file)
+
+print(f"Found {len(REPO_ASSET_MAP)} indexed asset(s): {list(REPO_ASSET_MAP.keys())}")
+
+def load_asset_image(stem_name: str) -> Image.Image:
+    """Loads an asset, handling transparent PNGs or black-backed JPEGs automatically."""
+    path = REPO_ASSET_MAP.get(stem_name.lower())
+    if not path or not os.path.exists(path):
+        print(f"[!] Asset '{stem_name}' not found anywhere in repo.")
+        return None
+
+    img = Image.open(path).convert("RGBA")
+
+    # If it's a JPEG or solid background image, key out dark background (< 15 RGB)
+    datas = img.getdata()
+    new_data = []
+    has_alpha = False
+    for item in datas:
+        if item[3] < 240:
+            has_alpha = True
+            new_data.append(item)
+        elif item[0] < 15 and item[1] < 15 and item[2] < 15:
+            new_data.append((255, 255, 255, 0))
+        else:
+            new_data.append(item)
+
+    if not has_alpha:
+        img.putdata(new_data)
+
+    return img
+
+# ----------------------------------------------------
+# 2. Fetch Top 5 Gainers & Top 5 Losers (CoinGecko)
 # ----------------------------------------------------
 headers = {"accept": "application/json"}
 cg_api_key = os.getenv("COINGECKO_API_KEY")
@@ -74,7 +118,7 @@ for c in top_losers:
     })
 
 # ----------------------------------------------------
-# 2. Gemini Commentary for CoinMarketCap Community
+# 3. Gemini Commentary for CoinMarketCap Community
 # ----------------------------------------------------
 class MoverItem(BaseModel):
     symbol: str
@@ -113,11 +157,8 @@ parsed_payload = MarketResponse.model_validate_json(chat_response.text)
 movers_dict = {item.symbol: item for item in parsed_payload.items}
 
 # ----------------------------------------------------
-# 3. Canvas Construction (Matching Reference Layout)
+# 4. Canvas Drawing Engine (1200 x 675 px)
 # ----------------------------------------------------
-markdown_lines = ["# Daily Top Movers: CMC Community Visuals & Posts\n"]
-
-# Font handling: Look for bold sans-serif fonts in GitHub Linux runner environments
 font_title = None
 for path in [
     "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
@@ -126,7 +167,7 @@ for path in [
 ]:
     if os.path.exists(path):
         try:
-            font_title = ImageFont.truetype(path, 54)
+            font_title = ImageFont.truetype(path, 42)
             break
         except Exception:
             pass
@@ -134,34 +175,30 @@ for path in [
 if font_title is None:
     font_title = ImageFont.load_default()
 
-def find_asset(name_without_ext):
-    """Finds image files matching .png, .jpg, or .jpeg in assets/."""
-    for ext in [".png", ".jpg", ".jpeg"]:
-        target = os.path.join("assets", f"{name_without_ext}{ext}")
-        if os.path.exists(target):
-            return target
-    return None
-
 def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, change: float, direction: str):
-    # 1. Base 1200x675 White Canvas
     img = Image.new("RGBA", (1200, 675), color=(255, 255, 255, 255))
     draw = ImageDraw.Draw(img)
 
-    # 2. Upper Headers (Exact placement matching reference)
+    # 1. Header Placement
+    # Truncate long token names if needed to prevent overlap
+    display_name = f"{name.upper()} ({symbol})"
+    if len(display_name) > 18:
+        display_name = f"{name[:15].upper()}... ({symbol})"
+
     price_str = f"${price:,.4f}" if price < 1 else f"${price:,.2f}"
     change_str = f"{'+' if change > 0 else ''}{change}% 24h"
 
-    draw.text((58, 48), f"{name.upper()} ({symbol})", fill=(0, 0, 0), font=font_title)
-    draw.text((508, 48), price_str, fill=(0, 0, 0), font=font_title)
-    draw.text((850, 48), change_str, fill=(0, 0, 0), font=font_title)
+    # Precise column spacing
+    draw.text((60, 48), display_name, fill=(0, 0, 0), font=font_title)
+    draw.text((550, 48), price_str, fill=(0, 0, 0), font=font_title)
+    draw.text((880, 48), change_str, fill=(0, 0, 0), font=font_title)
 
-    # 3. 14 Candlesticks Scaled to Reference Arc
+    # 2. 14 Candlesticks Arc
     num_candles = 14
     candle_w = 46
     candle_spacing = 71
     start_x = 88
     
-    # Exact RGB tones from reference
     teal = (51, 153, 142, 255)
     coral = (235, 91, 86, 255)
 
@@ -177,7 +214,6 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
         x = start_x + (i * candle_spacing)
         y = start_y + (i * y_step) + random.randint(-6, 6)
 
-        # High probability matching current trend
         is_green = (direction == "PUMP") if (random.random() > 0.22) else (direction != "PUMP")
         color = teal if is_green else coral
 
@@ -187,41 +223,52 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
         top_b = y - (body_h // 2)
         bot_b = y + (body_h // 2)
 
-        # Thin center wick
         center_x = x + (candle_w // 2)
         draw.line([(center_x, top_b - wick_h), (center_x, bot_b + wick_h)], fill=color, width=4)
-
-        # Candle body
         draw.rectangle([(x, top_b), (x + candle_w, bot_b)], fill=color)
 
-    # 4. Lower-Left Logo (CC_logo.png scaled to ~250px wide)
-    logo_path = find_asset("CC_logo")
-    if logo_path:
-        logo = Image.open(logo_path).convert("RGBA")
-        logo.thumbnail((250, 100), Image.Resampling.LANCZOS)
-        # Position with ~55px left margin and ~35px bottom margin
-        img.paste(logo, (55, 675 - logo.height - 35), logo)
+    # 3. Lower-Left Logo (CC_logo.png)
+    logo_img = load_asset_image("cc_logo")
+    if logo_img:
+        logo_img.thumbnail((250, 100), Image.Resampling.LANCZOS)
+        img.paste(logo_img, (55, 675 - logo_img.height - 35), mask=logo_img)
+    else:
+        print("[!] cc_logo could not be pasted.")
 
-    # 5. Lower-Right Character (Scaled to ~315px tall, flush to bottom-right)
-    char_prefix = "p" if direction == "PUMP" else "n"
-    chosen_code = f"{char_prefix}{random.choice([1, 2, 3])}"
-    char_path = find_asset(chosen_code)
+    # 4. Lower-Right Character (p1, p2, p3, or 3 for PUMP; n1, n2, n3 for DUMP)[cite: 14, 15, 16, 17, 18, 19]
+    if direction == "PUMP":
+        candidates = ["p1", "p2", "p3", "3"]
+    else:
+        candidates = ["n1", "n2", "n3"]
 
-    if char_path:
-        char_img = Image.open(char_path).convert("RGBA")
-        # Scale to match reference height (~46% of 675px canvas)
+    random.shuffle(candidates)
+    char_img = None
+    chosen_name = None
+    for cand in candidates:
+        char_img = load_asset_image(cand)
+        if char_img:
+            chosen_name = cand
+            break
+
+    if char_img:
+        # Scale to match reference height (~46% of 675px canvas)[cite: 20]
         char_img.thumbnail((300, 315), Image.Resampling.LANCZOS)
         char_x = 1200 - char_img.width
         char_y = 675 - char_img.height
-        img.paste(char_img, (char_x, char_y), char_img)
+        img.paste(char_img, (char_x, char_y), mask=char_img)
+        print(f"[✓] Pasted character '{chosen_name}' for {symbol}")
+    else:
+        print(f"[!] No character image found from options: {candidates}")
 
-    # Flatten and save
+    # Save final flattened image
     final_output = img.convert("RGB")
     final_output.save(filename, "PNG")
 
 # ----------------------------------------------------
-# 4. Execution Loop
+# 5. Execution Loop
 # ----------------------------------------------------
+markdown_lines = ["# Daily Top Movers: CMC Community Visuals & Posts\n"]
+
 for idx, coin in enumerate(selected_pulls, 1):
     symbol = coin["symbol"]
     direction = coin["direction"]
@@ -231,7 +278,7 @@ for idx, coin in enumerate(selected_pulls, 1):
 
     mover_meta = movers_dict.get(symbol)
     comment = mover_meta.comment if mover_meta else f"${symbol} is on the move today."
-    character = mover_meta.character if mover_meta else "Skip Zinfandel"
+    character = mover_meta.character if mover_meta else "Skip Zinfandel"[cite: 1]
 
     filename = os.path.join(IMAGE_DIR, f"{idx:02d}_{direction}_{symbol}.png")
     print(f"Generating graphic {idx}/10: {symbol} ({direction})...")
@@ -239,7 +286,7 @@ for idx, coin in enumerate(selected_pulls, 1):
     draw_sample_style_card(filename, name, symbol, price, change, direction)
 
     markdown_lines.append(f"## {idx}. {name} (${symbol}) — {'+' if change > 0 else ''}{change}% ({direction})")
-    markdown_lines.append(f"**Cast Member:** {character}")
+    markdown_lines.append(f"**Cast Member:** {character}")[cite: 1]
     markdown_lines.append(f"**CMC Comment:** {comment}\n")
     markdown_lines.append(f"![{symbol} Graphic](images/{os.path.basename(filename)})\n")
     markdown_lines.append("---\n")
@@ -247,4 +294,4 @@ for idx, coin in enumerate(selected_pulls, 1):
 with open("output/cmc_prompts_latest.md", "w") as f:
     f.write("\n".join(markdown_lines))
 
-print("All 10 graphics generated and expired files cleaned.")
+print("All 10 graphics generated successfully.")
