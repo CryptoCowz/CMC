@@ -2,11 +2,36 @@ import io
 import json
 import os
 import random
+import time
 import requests
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 from google import genai
 from google.genai import types
 from pydantic import BaseModel
+
+# ----------------------------------------------------
+# 0. Delete Images Older Than 3 Days
+# ----------------------------------------------------
+IMAGE_DIR = "output/images"
+os.makedirs(IMAGE_DIR, exist_ok=True)
+
+def cleanup_old_images(directory: str, days: int = 3):
+    """Deletes images from the target directory older than specified days."""
+    now = time.time()
+    cutoff_seconds = days * 86400  # 3 days in seconds
+
+    for filename in os.listdir(directory):
+        filepath = os.path.join(directory, filename)
+        if os.path.isfile(filepath) and filename.lower().endswith((".png", ".jpg", ".jpeg")):
+            file_age = now - os.path.getmtime(filepath)
+            if file_age > cutoff_seconds:
+                try:
+                    os.remove(filepath)
+                    print(f"Removed expired image (>3 days old): {filename}")
+                except Exception as e:
+                    print(f"Error removing {filename}: {e}")
+
+cleanup_old_images(IMAGE_DIR, days=3)
 
 # ----------------------------------------------------
 # 1. Fetch Top 5 Gainers & Top 5 Losers (CoinGecko)
@@ -49,7 +74,7 @@ for c in top_losers:
     })
 
 # ----------------------------------------------------
-# 2. Strict Structured Schema for Gemini Commentary
+# 2. Gemini Commentary for CoinMarketCap Community
 # ----------------------------------------------------
 class MoverItem(BaseModel):
     symbol: str
@@ -58,7 +83,6 @@ class MoverItem(BaseModel):
     change_24h: float
     character: str
     comment: str
-    image_prompt: str
 
 class MarketResponse(BaseModel):
     items: list[MoverItem]
@@ -66,19 +90,14 @@ class MarketResponse(BaseModel):
 client = genai.Client()
 
 system_instruction = """
-You are the creative director for The Pasture / CryptoCowz (MOO19 Newsroom).
-For each coin provided, select an appropriate cast character and write a satirical CoinMarketCap comment:
-- For PUMP: Skip Zinfandel (smug anchor with pompadour), Chet Lively (sports anchor), or VOLA (corporate AI CEO).
-- For DUMP: Sunshine Innocent Nimbus (goth weather girl celebrating disaster) or Frank Rizzo (gritty street reporter in trench coat).
-
-MANDATORY FOR IMAGE PROMPT:
-Every image prompt MUST include a large, prominent digital candlestick chart display in the scene:
-- For PUMP: A giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line, with the token symbol and an arrow pointing up.
-- For DUMP: A weather map radar or gritty alley terminal showing tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and stormy graphics.
-The aesthetic must be clean 2D vector animation style with bold outlines, flat cel shading, and CryptoCowz brand colors (pasture green #567D33, royal purple #6A0DAD, or corporate lavender #9F86C0).
+You are the creative director for The Pasture / CryptoCowz.
+Generate a sharp, 1-2 sentence satirical CoinMarketCap community comment for each coin:
+- For PUMP: Witty commentary on greed, sudden wealth, or bullish mania.
+- For DUMP: Deadpan commentary on panic selling, bagholding, or market disaster.
+Assign an on-brand MOO19 character (Skip Zinfandel, Sunshine Innocent Nimbus, Frank Rizzo, or Professor Hartmut).
 """
 
-prompt = f"Movers Data:\n{json.dumps(selected_pulls, indent=2)}"
+prompt = f"Selected Movers:\n{json.dumps(selected_pulls, indent=2)}"
 
 chat_response = client.models.generate_content(
     model="gemini-3.6-flash",
@@ -91,137 +110,141 @@ chat_response = client.models.generate_content(
 )
 
 parsed_payload = MarketResponse.model_validate_json(chat_response.text)
-movers_list = parsed_payload.items
+movers_dict = {item.symbol: item for item in parsed_payload.items}
 
 # ----------------------------------------------------
-# 3. Canvas Candlestick Chart Fallback Generator
+# 3. Canvas Construction (Matching Reference Layout)
 # ----------------------------------------------------
-os.makedirs("output/images", exist_ok=True)
-markdown_lines = ["# Daily Top Movers: CMC Community Posts & Visuals\n"]
+markdown_lines = ["# Daily Top Movers: CMC Community Visuals & Posts\n"]
 
-def draw_candlestick_chart(filename: str, symbol: str, direction: str, char: str, change: float, price: float):
-    """Draws a complete 1200x675 branded candlestick chart graphic with gridlines and candles."""
-    img = Image.new("RGB", (1200, 675), color=(18, 20, 24))
+# Font handling: Look for bold sans-serif fonts in GitHub Linux runner environments
+font_title = None
+for path in [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+    "DejaVuSans-Bold.ttf"
+]:
+    if os.path.exists(path):
+        try:
+            font_title = ImageFont.truetype(path, 54)
+            break
+        except Exception:
+            pass
+
+if font_title is None:
+    font_title = ImageFont.load_default()
+
+def find_asset(name_without_ext):
+    """Finds image files matching .png, .jpg, or .jpeg in assets/."""
+    for ext in [".png", ".jpg", ".jpeg"]:
+        target = os.path.join("assets", f"{name_without_ext}{ext}")
+        if os.path.exists(target):
+            return target
+    return None
+
+def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, change: float, direction: str):
+    # 1. Base 1200x675 White Canvas
+    img = Image.new("RGBA", (1200, 675), color=(255, 255, 255, 255))
     draw = ImageDraw.Draw(img)
 
-    # Header Panel
-    header_color = (86, 125, 51) if direction == "PUMP" else (106, 13, 173)
-    draw.rectangle([(0, 0), (1200, 110)], fill=header_color)
-    draw.rectangle([(0, 106), (1200, 110)], fill=(255, 211, 0))
+    # 2. Upper Headers (Exact placement matching reference)
+    price_str = f"${price:,.4f}" if price < 1 else f"${price:,.2f}"
+    change_str = f"{'+' if change > 0 else ''}{change}% 24h"
 
-    draw.text((40, 25), f"MOO19 NEWS | THE PASTURE", fill=(255, 211, 0))
-    draw.text((40, 58), f"${symbol}/USDT  •  24H {direction}", fill=(255, 255, 255))
-    draw.text((850, 25), f"Price: ${price:,.4f}" if price < 1 else f"Price: ${price:,.2f}", fill=(255, 255, 255))
-    draw.text((850, 58), f"24h Change: {'+' if change > 0 else ''}{change}%", fill=(0, 255, 128) if change > 0 else (255, 80, 80))
+    draw.text((58, 48), f"{name.upper()} ({symbol})", fill=(0, 0, 0), font=font_title)
+    draw.text((508, 48), price_str, fill=(0, 0, 0), font=font_title)
+    draw.text((850, 48), change_str, fill=(0, 0, 0), font=font_title)
 
-    # Chart Grid
-    chart_x1, chart_y1, chart_x2, chart_y2 = 60, 150, 1140, 560
-    draw.rectangle([(chart_x1, chart_y1), (chart_x2, chart_y2)], fill=(24, 27, 33), outline=(50, 56, 68), width=2)
-
-    for y in range(chart_y1 + 50, chart_y2, 70):
-        draw.line([(chart_x1, y), (chart_x2, y)], fill=(38, 43, 54), width=1)
-
-    # Generate Synthetic Candlestick Series
+    # 3. 14 Candlesticks Scaled to Reference Arc
     num_candles = 14
-    candle_width = 44
-    gap = (chart_x2 - chart_x1 - (num_candles * candle_width)) // (num_candles + 1)
-    green_color = (38, 166, 154)
-    red_color = (239, 83, 80)
+    candle_w = 46
+    candle_spacing = 71
+    start_x = 88
+    
+    # Exact RGB tones from reference
+    teal = (51, 153, 142, 255)
+    coral = (235, 91, 86, 255)
 
-    # Base price trajectory
-    current_y = 440 if direction == "PUMP" else 220
+    if direction == "PUMP":
+        start_y = 425
+        y_step = -18
+    else:
+        start_y = 195
+        y_step = 18
+
     random.seed(hash(symbol))
-
     for i in range(num_candles):
-        x = chart_x1 + gap + i * (candle_width + gap)
+        x = start_x + (i * candle_spacing)
+        y = start_y + (i * y_step) + random.randint(-6, 6)
 
-        if direction == "PUMP":
-            is_green = True if i > (num_candles - 5) else (random.random() > 0.35)
-            step = random.randint(10, 35) if is_green else random.randint(-15, 10)
-            open_y = current_y
-            close_y = max(chart_y1 + 30, open_y - step) if is_green else min(chart_y2 - 30, open_y + step)
-        else:
-            is_green = False if i > (num_candles - 5) else (random.random() > 0.65)
-            step = random.randint(10, 35) if not is_green else random.randint(-10, 15)
-            open_y = current_y
-            close_y = min(chart_y2 - 30, open_y + step) if not is_green else max(chart_y1 + 30, open_y - step)
+        # High probability matching current trend
+        is_green = (direction == "PUMP") if (random.random() > 0.22) else (direction != "PUMP")
+        color = teal if is_green else coral
 
-        current_y = close_y
-        high_y = max(chart_y1 + 20, min(open_y, close_y) - random.randint(5, 25))
-        low_y = min(chart_y2 - 20, max(open_y, close_y) + random.randint(5, 25))
+        body_h = random.randint(24, 44)
+        wick_h = random.randint(12, 22)
 
-        color = green_color if close_y < open_y else red_color
+        top_b = y - (body_h // 2)
+        bot_b = y + (body_h // 2)
 
-        # Draw Wick
-        wick_x = x + (candle_width // 2)
-        draw.line([(wick_x, high_y), (wick_x, low_y)], fill=color, width=3)
+        # Thin center wick
+        center_x = x + (candle_w // 2)
+        draw.line([(center_x, top_b - wick_h), (center_x, bot_b + wick_h)], fill=color, width=4)
 
-        # Draw Body
-        top_body = min(open_y, close_y)
-        bottom_body = max(open_y, close_y)
-        if bottom_body - top_body < 4:
-            bottom_body = top_body + 4
-        draw.rectangle([(x, top_body), (x + candle_width, bottom_body)], fill=color)
+        # Candle body
+        draw.rectangle([(x, top_b), (x + candle_w, bot_b)], fill=color)
 
-    # Footer Reporter Badge
-    draw.rectangle([(0, 595), (1200, 675)], fill=(12, 14, 18))
-    draw.text((60, 620), f"MOO19 CORRESPONDENT: {char.upper()}", fill=(255, 211, 0))
-    draw.text((800, 620), "CryptoCowz • The Pasture Edutainment", fill=(160, 160, 160))
+    # 4. Lower-Left Logo (CC_logo.png scaled to ~250px wide)
+    logo_path = find_asset("CC_logo")
+    if logo_path:
+        logo = Image.open(logo_path).convert("RGBA")
+        logo.thumbnail((250, 100), Image.Resampling.LANCZOS)
+        # Position with ~55px left margin and ~35px bottom margin
+        img.paste(logo, (55, 675 - logo.height - 35), logo)
 
-    img.save(filename, "PNG")
+    # 5. Lower-Right Character (Scaled to ~315px tall, flush to bottom-right)
+    char_prefix = "p" if direction == "PUMP" else "n"
+    chosen_code = f"{char_prefix}{random.choice([1, 2, 3])}"
+    char_path = find_asset(chosen_code)
+
+    if char_path:
+        char_img = Image.open(char_path).convert("RGBA")
+        # Scale to match reference height (~46% of 675px canvas)
+        char_img.thumbnail((300, 315), Image.Resampling.LANCZOS)
+        char_x = 1200 - char_img.width
+        char_y = 675 - char_img.height
+        img.paste(char_img, (char_x, char_y), char_img)
+
+    # Flatten and save
+    final_output = img.convert("RGB")
+    final_output.save(filename, "PNG")
 
 # ----------------------------------------------------
-# 4. Image Generation Loop
+# 4. Execution Loop
 # ----------------------------------------------------
-for idx, item in enumerate(movers_list, 1):
-    symbol = item.symbol
-    direction = item.direction
-    char = item.character
-    comment = item.comment
-    img_prompt = item.image_prompt
-    price = item.change_24h
-    filename = f"output/images/{idx:02d}_{direction}_{symbol}.png"
+for idx, coin in enumerate(selected_pulls, 1):
+    symbol = coin["symbol"]
+    direction = coin["direction"]
+    name = coin["name"]
+    price = coin["price"]
+    change = coin["change_24h"]
 
-    print(f"Generating chart visual {idx}/10: {symbol} ({direction}) with {char}...")
+    mover_meta = movers_dict.get(symbol)
+    comment = mover_meta.comment if mover_meta else f"${symbol} is on the move today."
+    character = mover_meta.character if mover_meta else "Skip Zinfandel"
 
-    image_saved = False
-    try:
-        img_res = client.models.generate_images(
-            model="imagen-3.0-generate-002",
-            prompt=img_prompt,
-            config=types.GenerateImagesConfig(
-                number_of_images=1,
-                aspect_ratio="16:9"
-            )
-        )
-        if img_res.generated_images:
-            raw_bytes = img_res.generated_images[0].image.image_bytes
-            img = Image.open(io.BytesIO(raw_bytes))
-            img = img.resize((1200, 675), Image.Resampling.LANCZOS)
-            img.save(filename, "PNG")
-            image_saved = True
-    except Exception as e:
-        print(f"Imagen generation unavailable for {symbol}: {e}")
+    filename = os.path.join(IMAGE_DIR, f"{idx:02d}_{direction}_{symbol}.png")
+    print(f"Generating graphic {idx}/10: {symbol} ({direction})...")
 
-    # Fallback to precise custom candlestick chart if AI image generation fails
-    if not image_saved:
-        draw_candlestick_chart(
-            filename=filename,
-            symbol=symbol,
-            direction=direction,
-            char=char,
-            change=item.change_24h,
-            price=next((p["price"] for p in selected_pulls if p["symbol"] == symbol), 0.0)
-        )
+    draw_sample_style_card(filename, name, symbol, price, change, direction)
 
-    markdown_lines.append(f"## {idx}. {item.name} (${symbol}) — {item.change_24h}% ({direction})")
-    markdown_lines.append(f"**Cast Member:** {char}")
+    markdown_lines.append(f"## {idx}. {name} (${symbol}) — {'+' if change > 0 else ''}{change}% ({direction})")
+    markdown_lines.append(f"**Cast Member:** {character}")
     markdown_lines.append(f"**CMC Comment:** {comment}\n")
-    markdown_lines.append(f"![{symbol} Candlestick Chart](images/{os.path.basename(filename)})\n")
-    markdown_lines.append(f"**Google Flow / Scene Prompt:**\n> {img_prompt}\n")
+    markdown_lines.append(f"![{symbol} Graphic](images/{os.path.basename(filename)})\n")
     markdown_lines.append("---\n")
 
 with open("output/cmc_prompts_latest.md", "w") as f:
     f.write("\n".join(markdown_lines))
 
-print("Completed: All 10 candlestick charts and reports compiled.")
+print("All 10 graphics generated and expired files cleaned.")
