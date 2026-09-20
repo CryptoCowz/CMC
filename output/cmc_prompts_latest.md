@@ -1,111 +1,111 @@
 # Daily Top Movers: CMC Community Posts & Visuals
 
-## 1. Akedo ($AKE) — 138.64% (PUMP)
+## 1. Bitway ($BTW) — 26.61% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Akedo is up a staggering 138%! My hairspray couldn't even hold a pump this massive, ladies and gentlemen!
+**CMC Comment:** Bitway is charging up the charts +26.61%! I haven't seen green this lush since my last hairpiece adjustment. Stay smug, folks!
 
-![AKE Candlestick Chart](images/01_PUMP_AKE.png)
+![BTW Candlestick Chart](images/01_PUMP_BTW.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style drawing with bold outlines and flat cel shading featuring Skip Zinfandel, a smug news anchor with a magnificent pompadour, standing in the MOO19 newsroom studio. In the background, a giant high-tech broadcast screen shows tall, glowing green candlestick bars breaking upward through a resistance line, with the token symbol AKE and an arrow pointing up. The scene incorporates CryptoCowz brand colors like pasture green #567D33 and royal purple #6A0DAD.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Skip Zinfandel, a smug news anchor with a giant pompadour, standing in front of a giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line, displaying the $BTW symbol with a bright green arrow pointing up. Palette features pasture green #567D33 and royal purple #6A0DAD.
 
 ---
 
-## 2. Ethena ($ENA) — 20.36% (PUMP)
-**Cast Member:** VOLA
-**CMC Comment:** Processing Ethena gains at +20.36%. Corporate efficiency metrics dictate immediate algorithmic optimization of synthetic yields.
-
-![ENA Candlestick Chart](images/02_PUMP_ENA.png)
-
-**Google Flow / Scene Prompt:**
-> A clean 2D vector animation style illustration with bold outlines and flat cel shading featuring VOLA, a sleek corporate AI CEO character in a futuristic newsroom. Beside her, a giant high-tech broadcast screen shows tall, glowing green candlestick bars breaking upward through a resistance line, with the token symbol ENA and a massive green arrow pointing up. Palette features pasture green #567D33 and corporate lavender #9F86C0.
-
----
-
-## 3. Avalanche ($AVAX) — 15.53% (PUMP)
+## 2. Avalanche ($AVAX) — 19.48% (PUMP)
 **Cast Member:** Chet Lively
-**CMC Comment:** Avalanche is sliding up the mountain by 15.53%! That's what I call an inverted landslide, sports fans!
+**CMC Comment:** Avalanche just scored a massive +19.48% breakaway goal! The crowd is going wild as AVAX blitzes straight past defense!
 
-![AVAX Candlestick Chart](images/03_PUMP_AVAX.png)
+![AVAX Candlestick Chart](images/02_PUMP_AVAX.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style image with bold outlines and flat cel shading showing Chet Lively, an enthusiastic sports anchor with a microphone in the MOO19 news studio. In the background, a huge digital broadcast screen displays tall, glowing green candlestick bars breaking upward through a resistance line, labeled with the token symbol AVAX and an upward green arrow. Styled in pasture green #567D33 and royal purple #6A0DAD.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Chet Lively, an energetic sports anchor holding a microphone, pointing excitedly at a giant high-tech broadcast screen showing tall, glowing green candlestick bars breaking upward through a resistance line, displaying the $AVAX symbol with a green up arrow. Palette features pasture green #567D33 and corporate lavender #9F86C0.
 
 ---
 
-## 4. Injective ($INJ) — 14.28% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Injective is injecting pure adrenaline into portfolio balances today! Absolutely pristine green gains!
-
-![INJ Candlestick Chart](images/04_PUMP_INJ.png)
-
-**Google Flow / Scene Prompt:**
-> A clean 2D vector animation style drawing with bold outlines and flat cel shading of Skip Zinfandel flashing a confident smile in a newsroom setting. Behind him, a large, prominent digital candlestick chart display showcases tall, glowing green candlestick bars breaking upward through a resistance line, marked with the INJ token symbol and a rising arrow. Styled with royal purple #6A0DAD and pasture green #567D33.
-
----
-
-## 5. Morpho ($MORPHO) — 11.82% (PUMP)
+## 3. MemeCore ($M) — 18.61% (PUMP)
 **Cast Member:** VOLA
-**CMC Comment:** Morpho protocol scaling detected at +11.82%. Re-allocating yield parameters for maximum corporate synergy.
+**CMC Comment:** Efficiency optimization complete: MemeCore yield maximized at +18.61%. Corporate synergy with memes yields optimal quarterly profits.
 
-![MORPHO Candlestick Chart](images/05_PUMP_MORPHO.png)
+![M Candlestick Chart](images/03_PUMP_M.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style graphic with bold outlines and flat cel shading featuring VOLA in a high-tech corporate news studio. Next to her, a giant broadcast screen displays tall, glowing green candlestick bars breaking upward through a resistance line with the MORPHO symbol and a bright green arrow pointing up. Styled in corporate lavender #9F86C0 and pasture green #567D33.
+> Clean 2D vector animation style, flat cel shading with bold outlines. VOLA, a sleek corporate AI CEO with glowing holographic elements, in a futuristic news studio next to a giant high-tech broadcast screen displaying tall, glowing green candlestick bars breaking upward through a resistance line, featuring $M symbol and a green upward arrow. Palette features royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
 
-## 6. Sky ($SKY) — -2.79% (DUMP)
+## 4. Algorand ($ALGO) — 11.89% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Algorand flexing +11.89%! Proof that pure elegance and my hair gel always prevail in the end.
+
+![ALGO Candlestick Chart](images/04_PUMP_ALGO.png)
+
+**Google Flow / Scene Prompt:**
+> Clean 2D vector animation style, flat cel shading with bold outlines. Skip Zinfandel with his signature pompadour adjusting his tie beside a giant high-tech broadcast screen featuring tall, glowing green candlestick bars breaking upward through a resistance line, showing $ALGO symbol and a green up arrow. Colors include pasture green #567D33 and royal purple #6A0DAD.
+
+---
+
+## 5. Hedera ($HBAR) — 6.61% (PUMP)
+**Cast Member:** Chet Lively
+**CMC Comment:** Hedera grinding out a steady +6.61% gain! That's disciplined teamwork right there on the ledger field!
+
+![HBAR Candlestick Chart](images/05_PUMP_HBAR.png)
+
+**Google Flow / Scene Prompt:**
+> Clean 2D vector animation style, flat cel shading with bold outlines. Chet Lively gesturing enthusiastically toward a giant high-tech broadcast screen displaying tall, glowing green candlestick bars breaking upward through a resistance line, marked with $HBAR symbol and a green arrow pointing up. Palette includes pasture green #567D33 and corporate lavender #9F86C0.
+
+---
+
+## 6. Bittensor ($TAO) — -6.51% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** A gentle drizzle of red for Sky today! Oh, I do love when the heavens fall just a tiny bit!
+**CMC Comment:** A lovely dark cloud hangs over Bittensor down -6.51%! The rain of liquidation is music to my gothic soul.
 
-![SKY Candlestick Chart](images/06_DUMP_SKY.png)
+![TAO Candlestick Chart](images/06_DUMP_TAO.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style illustration with bold outlines and flat cel shading depicting Sunshine Innocent Nimbus, a gothic weather presenter with dark hair and pale skin, smiling cheerfully. Behind her, a weather map radar screen displays tall, plunging red candlestick bars dropping off a cliff with SKY symbol, red crash percentages, and stormy graphics. Styled in royal purple #6A0DAD and dark accents.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Sunshine Innocent Nimbus, a goth weather girl with a dark umbrella, standing in front of a weather map radar showing tall, plunging red candlestick bars dropping off a cliff, with red crash percentages and stormy graphics for $TAO. Palette features royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
 
-## 7. NEAR Protocol ($NEAR) — -3.44% (DUMP)
+## 7. Morpho ($MORPHO) — -7.04% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** NEAR took a hit on the block today down 3.44%. The streets don't give a damn about your smart contracts, pal.
+**CMC Comment:** Reporting live from the gutters where Morpho slipped -7.04%. Watch your step, folks, it's slick down here!
 
-![NEAR Candlestick Chart](images/07_DUMP_NEAR.png)
+![MORPHO Candlestick Chart](images/07_DUMP_MORPHO.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style drawing with bold outlines and flat cel shading featuring Frank Rizzo, a gritty street reporter in a worn trench coat holding a vintage microphone in a rainy alleyway. Next to him, a gritty alley terminal shows tall, plunging red candlestick bars dropping off a cliff, complete with NEAR token text, red crash percentages, and stormy graphics. Uses pasture green #567D33 and royal purple #6A0DAD.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Frank Rizzo, a gritty street reporter in a worn trench coat holding a microphone in a dark alley, next to a gritty alley terminal showing tall, plunging red candlestick bars dropping off a cliff, displaying $MORPHO with red crash percentages. Palette includes royal purple #6A0DAD and pasture green #567D33.
 
 ---
 
-## 8. MemeCore ($M) — -3.74% (DUMP)
+## 8. Dash ($DASH) — -8.21% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** MemeCore is wilting! Watching the memes crumble brings such a delightful chill to my gloomy heart!
+**CMC Comment:** Dash plunges -8.21%! Delicious misery washes over the market like a beautiful midnight thunderstorm.
 
-![M Candlestick Chart](images/08_DUMP_M.png)
+![DASH Candlestick Chart](images/08_DUMP_DASH.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style picture with bold outlines and flat cel shading showing Sunshine Innocent Nimbus pointing joyfully at a storm radar screen. The display features tall, plunging red candlestick bars dropping off a cliff with the token symbol M, negative percentage indicators, and dark stormy weather icons. Rendered in corporate lavender #9F86C0 and deep purple tones.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Sunshine Innocent Nimbus pointing gleefully at a weather map radar screen showing tall, plunging red candlestick bars dropping off a cliff with stormy lightning graphics and $DASH symbol down arrows. Colors feature royal purple #6A0DAD and corporate lavender #9F86C0.
 
 ---
 
-## 9. Pump.fun ($PUMP) — -4.12% (DUMP)
+## 9. Lighter ($LIT) — -9.59% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Irony on the asphalt! Pump.fun is dumping 4.12%. You can't make this stuff up out here in the gutter!
+**CMC Comment:** Lighter's flame got blown right out, dropping -9.59%! I've seen back alleys brighter than this chart!
 
-![PUMP Candlestick Chart](images/09_DUMP_PUMP.png)
+![LIT Candlestick Chart](images/09_DUMP_LIT.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style art piece with bold outlines and flat cel shading featuring Frank Rizzo standing on a wet city street corner. Beside him, a street terminal monitor exhibits tall, plunging red candlestick bars dropping off a cliff, labeled PUMP with red crash percentages and stormy graphics. Styled in pasture green #567D33 and royal purple #6A0DAD.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Frank Rizzo in his trench coat scribbling on a notepad beside a gritty alley terminal showing tall, plunging red candlestick bars dropping off a cliff with red crash percentage numbers and $LIT symbol. Palette incorporates pasture green #567D33 and royal purple #6A0DAD.
 
 ---
 
-## 10. Bitway ($BTW) — -14.85% (DUMP)
+## 10. Akedo ($AKE) — -13.07% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Bitway dropped nearly 15%! What a glorious, pitch-black catastrophe! I'm absolutely dancing in this monsoon!
+**CMC Comment:** Akedo plummets a glorious -13.07%! Pure aesthetic despair... absolute perfection.
 
-![BTW Candlestick Chart](images/10_DUMP_BTW.png)
+![AKE Candlestick Chart](images/10_DUMP_AKE.png)
 
 **Google Flow / Scene Prompt:**
-> A clean 2D vector animation style illustration with bold outlines and flat cel shading of Sunshine Innocent Nimbus twirling happily in front of a giant weather radar broadcast screen. The screen shows tall, plunging red candlestick bars dropping off a cliff with BTW symbol, -14.85% crash graphics, and violent lightning icons. Palette uses royal purple #6A0DAD and dark shades.
+> Clean 2D vector animation style, flat cel shading with bold outlines. Sunshine Innocent Nimbus smiling serenely before a weather map radar screen displaying tall, plunging red candlestick bars dropping off a cliff, complete with dark storm graphics and $AKE crash metrics. Palette features royal purple #6A0DAD, pasture green #567D33, and corporate lavender #9F86C0.
 
 ---
