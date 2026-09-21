@@ -1,80 +1,80 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +27.83% (PUMP)
+## 1. Bitway ($BTW) — +24.51% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway is up nearly thirty percent and my third yacht is already paid for in spirit! Generational wealth is just one green candle away, keep buying!
+**CMC Comment:** Just quit my job as a barista because my BTW bag pumped 24 percent, time to lease a Lambo in electric lime.
 
 ![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. Avalanche ($AVAX) — +14.93% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Avalanche jumps fifteen percent, which means a bunch of toddlers in hoodies think they invented high finance again.
-
-![AVAX Graphic](images/02_PUMP_AVAX.png)
-
----
-
-## 3. NEAR Protocol ($NEAR) — +13.72% (PUMP)
+## 2. NEAR Protocol ($NEAR) — +20.6% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** NEAR is floating super high into the sky, which is lovely because that is where all the pretty digital butterflies live!
+**CMC Comment:** The universe is aligning and NEAR is shooting straight to the sky, sending pure green candle blessings to all of us!
 
-![NEAR Graphic](images/03_PUMP_NEAR.png)
+![NEAR Graphic](images/02_PUMP_NEAR.png)
 
 ---
 
-## 4. Venice Token ($VVV) — +11.7% (PUMP)
+## 3. Avalanche ($AVAX) — +16.62% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Listen to me, you buy AVAX right now or you sit there crying while I eat caviar on my new speedboat.
+
+![AVAX Graphic](images/03_PUMP_AVAX.png)
+
+---
+
+## 4. Venice Token ($VVV) — +15.93% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The recent appreciation in Venice Token merely illustrates a brief window of irrational exuberance within localized liquidity pools.
+**CMC Comment:** Empirical observation confirms that VVV is undergoing an acute episode of parabolic retail mania defying logical asset valuation.
 
 ![VVV Graphic](images/04_PUMP_VVV.png)
 
 ---
 
-## 5. Render ($RENDER) — +10.64% (PUMP)
+## 5. Jupiter ($JUP) — +11.96% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Render is printing pure heat right now, if you are not leveraged 100x on this chart you clearly hate winning!
+**CMC Comment:** JUP is escaping planetary gravity today boys, we are all about to buy our own private islands!
 
-![RENDER Graphic](images/05_PUMP_RENDER.png)
+![JUP Graphic](images/05_PUMP_JUP.png)
 
 ---
 
-## 6. VeChain ($VET) — -2.61% (DUMP)
+## 6. Aster ($ASTER) — -1.55% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** VeChain slips again, proving that supply chain logistics are great until you realize you are the one holding the heavy freight.
+**CMC Comment:** Down over one percent and people are already dumping like the sky is falling, absolute pathetic cowards.
 
-![VET Graphic](images/06_DUMP_VET.png)
-
----
-
-## 7. Aster ($ASTER) — -2.72% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh no, Aster dropped a teeny bit, but red is just green's cozy bedtime clothes before it goes back to the moon!
-
-![ASTER Graphic](images/07_DUMP_ASTER.png)
+![ASTER Graphic](images/06_DUMP_ASTER.png)
 
 ---
 
-## 8. Injective ($INJ) — -3.73% (DUMP)
+## 7. VeChain ($VET) — -1.65% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Injective's negative trajectory demonstrates classic retail capitulation driven by macro-economic volatility and systemic leverage decay.
+**CMC Comment:** Statistical analysis indicates VET bagholders are entering phase two of market grief, commonly known as acute denial.
 
-![INJ Graphic](images/08_DUMP_INJ.png)
-
----
-
-## 9. JUST ($JST) — -5.0% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** JUST down five percent today, proving once again that buying tokens named like emotional pleas never ends well for your wallet.
-
-![JST Graphic](images/09_DUMP_JST.png)
+![VET Graphic](images/07_DUMP_VET.png)
 
 ---
 
-## 10. Akedo ($AKE) — -8.2% (DUMP)
+## 8. JUST ($JST) — -2.53% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** This little downward slope on JST is just the market giving us a gentle cosmic hug to test our inner strength.
+
+![JST Graphic](images/08_DUMP_JST.png)
+
+---
+
+## 9. Injective ($INJ) — -3.4% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Akedo is down eight percent which is just an elite fire-sale discount for absolute chad-level dip buyers!
+**CMC Comment:** Panic sold my INJ bag at a loss so I can make rent on my studio apartment this month.
+
+![INJ Graphic](images/09_DUMP_INJ.png)
+
+---
+
+## 10. Akedo ($AKE) — -18.19% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Eighteen percent down in twenty four hours is not a correction, it is a certified financial disaster scene.
 
 ![AKE Graphic](images/10_DUMP_AKE.png)
 
