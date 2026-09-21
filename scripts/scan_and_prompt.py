@@ -35,23 +35,31 @@ cleanup_old_images(IMAGE_DIR, days=3)
 # ----------------------------------------------------
 # 1. Global Asset Discovery Engine
 # ----------------------------------------------------
-# Scans the entire repo tree once to locate assets regardless of where they are saved
 REPO_ASSET_MAP = {}
 print("Indexing repository image assets...")
-for root, dirs, files in os.walk("."):
-    # Skip git and output folders
-    if ".git" in root or "output" in root:
-        continue
-    for file in files:
-        stem, ext = os.path.splitext(file)
-        if ext.lower() in [".png", ".jpg", ".jpeg"]:
-            # Store lowercase key mapping to absolute path
-            REPO_ASSET_MAP[stem.lower()] = os.path.join(root, file)
+
+# Search both current working directory and the parent of scripts/
+search_roots = [os.getcwd(), os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))]
+search_roots = list(set(search_roots))
+
+for base in search_roots:
+    for root, dirs, files in os.walk(base):
+        # Skip git and output folders
+        if ".git" in root or "output" in root:
+            continue
+        for file in files:
+            stem, ext = os.path.splitext(file)
+            if ext.lower() in [".png", ".jpg", ".jpeg"]:
+                key = stem.lower()
+                full_path = os.path.join(root, file)
+                # Store if not already mapped or if in assets folder
+                if key not in REPO_ASSET_MAP or "assets" in full_path.lower():
+                    REPO_ASSET_MAP[key] = full_path
 
 print(f"Found {len(REPO_ASSET_MAP)} indexed asset(s): {list(REPO_ASSET_MAP.keys())}")
 
 def load_asset_image(stem_name: str) -> Image.Image:
-    """Loads an asset, handling transparent PNGs or black-backed JPEGs automatically."""
+    """Loads an asset, handling transparent PNGs or dark-backed JPEGs automatically."""
     path = REPO_ASSET_MAP.get(stem_name.lower())
     if not path or not os.path.exists(path):
         print(f"[!] Asset '{stem_name}' not found anywhere in repo.")
@@ -180,7 +188,6 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
     draw = ImageDraw.Draw(img)
 
     # 1. Header Placement
-    # Truncate long token names if needed to prevent overlap
     display_name = f"{name.upper()} ({symbol})"
     if len(display_name) > 18:
         display_name = f"{name[:15].upper()}... ({symbol})"
@@ -188,7 +195,6 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
     price_str = f"${price:,.4f}" if price < 1 else f"${price:,.2f}"
     change_str = f"{'+' if change > 0 else ''}{change}% 24h"
 
-    # Precise column spacing
     draw.text((60, 48), display_name, fill=(0, 0, 0), font=font_title)
     draw.text((550, 48), price_str, fill=(0, 0, 0), font=font_title)
     draw.text((880, 48), change_str, fill=(0, 0, 0), font=font_title)
@@ -235,7 +241,7 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
     else:
         print("[!] cc_logo could not be pasted.")
 
-    # 4. Lower-Right Character (p1, p2, p3, or 3 for PUMP; n1, n2, n3 for DUMP)[cite: 14, 15, 16, 17, 18, 19]
+    # 4. Lower-Right Character
     if direction == "PUMP":
         candidates = ["p1", "p2", "p3", "3"]
     else:
@@ -251,7 +257,6 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
             break
 
     if char_img:
-        # Scale to match reference height (~46% of 675px canvas)[cite: 20]
         char_img.thumbnail((300, 315), Image.Resampling.LANCZOS)
         char_x = 1200 - char_img.width
         char_y = 675 - char_img.height
@@ -260,7 +265,6 @@ def draw_sample_style_card(filename: str, name: str, symbol: str, price: float, 
     else:
         print(f"[!] No character image found from options: {candidates}")
 
-    # Save final flattened image
     final_output = img.convert("RGB")
     final_output.save(filename, "PNG")
 
@@ -278,7 +282,7 @@ for idx, coin in enumerate(selected_pulls, 1):
 
     mover_meta = movers_dict.get(symbol)
     comment = mover_meta.comment if mover_meta else f"${symbol} is on the move today."
-    character = mover_meta.character if mover_meta else "Skip Zinfandel"[cite: 1]
+    character = mover_meta.character if mover_meta else "Skip Zinfandel"
 
     filename = os.path.join(IMAGE_DIR, f"{idx:02d}_{direction}_{symbol}.png")
     print(f"Generating graphic {idx}/10: {symbol} ({direction})...")
@@ -286,7 +290,7 @@ for idx, coin in enumerate(selected_pulls, 1):
     draw_sample_style_card(filename, name, symbol, price, change, direction)
 
     markdown_lines.append(f"## {idx}. {name} (${symbol}) — {'+' if change > 0 else ''}{change}% ({direction})")
-    markdown_lines.append(f"**Cast Member:** {character}")[cite: 1]
+    markdown_lines.append(f"**Cast Member:** {character}")
     markdown_lines.append(f"**CMC Comment:** {comment}\n")
     markdown_lines.append(f"![{symbol} Graphic](images/{os.path.basename(filename)})\n")
     markdown_lines.append("---\n")
