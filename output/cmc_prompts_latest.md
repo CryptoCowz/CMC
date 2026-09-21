@@ -1,80 +1,80 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +24.51% (PUMP)
+## 1. Bitway ($BTW) — +29.69% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Just quit my job as a barista because my BTW bag pumped 24 percent, time to lease a Lambo in electric lime.
+**CMC Comment:** Bitway is pumping so hard I just remortgaged my third yacht to double down. If you are not all-in right now, do you even care about generational wealth?
 
 ![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. NEAR Protocol ($NEAR) — +20.6% (PUMP)
+## 2. Pepe ($PEPE) — +22.72% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is aligning and NEAR is shooting straight to the sky, sending pure green candle blessings to all of us!
+**CMC Comment:** The holy green frog spirit has blessed my sacred wallet with cosmic abundance today! I can finally afford organic grass-fed stardust for my moon rituals.
 
-![NEAR Graphic](images/02_PUMP_NEAR.png)
+![PEPE Graphic](images/02_PUMP_PEPE.png)
 
 ---
 
-## 3. Avalanche ($AVAX) — +16.62% (PUMP)
+## 3. Dogecoin ($DOGE) — +11.76% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Listen to me, you buy AVAX right now or you sit there crying while I eat caviar on my new speedboat.
+**CMC Comment:** Listen up, ya bums! The dog is barking again and my cousin Vinny just put his entire retirement fund into it. To the moon or the soup kitchen!
 
-![AVAX Graphic](images/03_PUMP_AVAX.png)
+![DOGE Graphic](images/03_PUMP_DOGE.png)
 
 ---
 
-## 4. Venice Token ($VVV) — +15.93% (PUMP)
+## 4. Sui ($SUI) — +11.03% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Empirical observation confirms that VVV is undergoing an acute episode of parabolic retail mania defying logical asset valuation.
+**CMC Comment:** Statistically speaking, this sudden upward momentum correlates directly with retail euphoria overtaking basic mathematical logic. Naturally, I am allocating more capital.
 
-![VVV Graphic](images/04_PUMP_VVV.png)
+![SUI Graphic](images/04_PUMP_SUI.png)
 
 ---
 
-## 5. Jupiter ($JUP) — +11.96% (PUMP)
+## 5. Venice Token ($VVV) — +9.85% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** JUP is escaping planetary gravity today boys, we are all about to buy our own private islands!
+**CMC Comment:** Venice Token is floating straight to the top of the luxury canal! I am already picking out the custom leather interior for my new amphibious supercar.
 
-![JUP Graphic](images/05_PUMP_JUP.png)
+![VVV Graphic](images/05_PUMP_VVV.png)
 
 ---
 
-## 6. Aster ($ASTER) — -1.55% (DUMP)
+## 6. MemeCore ($M) — -2.39% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down over one percent and people are already dumping like the sky is falling, absolute pathetic cowards.
+**CMC Comment:** MemeCore is sliding faster than a wet bar of soap on a slick tile floor. You want me to hold the bag? Get outta here!
 
-![ASTER Graphic](images/06_DUMP_ASTER.png)
+![M Graphic](images/06_DUMP_M.png)
 
 ---
 
-## 7. VeChain ($VET) — -1.65% (DUMP)
+## 7. World Liberty Financial ($WLFI) — -2.56% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Statistical analysis indicates VET bagholders are entering phase two of market grief, commonly known as acute denial.
+**CMC Comment:** A quantifiable decline in market cap, yet a massive spike in psychological trauma for investors who failed to hedge properly. A fascinating study in human error.
 
-![VET Graphic](images/07_DUMP_VET.png)
+![WLFI Graphic](images/07_DUMP_WLFI.png)
 
 ---
 
-## 8. JUST ($JST) — -2.53% (DUMP)
+## 8. NEAR Protocol ($NEAR) — -4.14% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** This little downward slope on JST is just the market giving us a gentle cosmic hug to test our inner strength.
+**CMC Comment:** NEAR is feeling a bit far from harmony right now, but the universe is simply cleansing our chakras of quick gains. Just breathe through the red candles, star-children!
 
-![JST Graphic](images/08_DUMP_JST.png)
-
----
-
-## 9. Injective ($INJ) — -3.4% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Panic sold my INJ bag at a loss so I can make rent on my studio apartment this month.
-
-![INJ Graphic](images/09_DUMP_INJ.png)
+![NEAR Graphic](images/08_DUMP_NEAR.png)
 
 ---
 
-## 10. Akedo ($AKE) — -18.19% (DUMP)
+## 9. Ethena ($ENA) — -8.43% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Eighteen percent down in twenty four hours is not a correction, it is a certified financial disaster scene.
+**CMC Comment:** Ethena is taking a absolute nose dive and my brother-in-law is crying in the garage. Someone pass me a cannoli and unplug the router!
+
+![ENA Graphic](images/09_DUMP_ENA.png)
+
+---
+
+## 10. Akedo ($AKE) — -15.82% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down nearly sixteen percent? That is not a disaster, that is just an exclusive opportunity for the lower class to buy out my remaining bags!
 
 ![AKE Graphic](images/10_DUMP_AKE.png)
 
