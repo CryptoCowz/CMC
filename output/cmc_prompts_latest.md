@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +29.69% (PUMP)
+## 1. Bitcoin Cash ($BCH) — +21.95% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway is pumping so hard I just remortgaged my third yacht to double down. If you are not all-in right now, do you even care about generational wealth?
+**CMC Comment:** Satoshi's real vision just paid for my second jet ski, complete with extra cup holders for core maxi tears.
 
-![BTW Graphic](images/01_PUMP_BTW.png)
-
----
-
-## 2. Pepe ($PEPE) — +22.72% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The holy green frog spirit has blessed my sacred wallet with cosmic abundance today! I can finally afford organic grass-fed stardust for my moon rituals.
-
-![PEPE Graphic](images/02_PUMP_PEPE.png)
+![BCH Graphic](images/01_PUMP_BCH.png)
 
 ---
 
-## 3. Dogecoin ($DOGE) — +11.76% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Listen up, ya bums! The dog is barking again and my cousin Vinny just put his entire retirement fund into it. To the moon or the soup kitchen!
-
-![DOGE Graphic](images/03_PUMP_DOGE.png)
-
----
-
-## 4. Sui ($SUI) — +11.03% (PUMP)
+## 2. NEAR Protocol ($NEAR) — +8.5% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Statistically speaking, this sudden upward momentum correlates directly with retail euphoria overtaking basic mathematical logic. Naturally, I am allocating more capital.
+**CMC Comment:** The algorithmic alignment of user-friendly sharding is finally yielding retail exuberance, or perhaps just another irrational spike.
 
-![SUI Graphic](images/04_PUMP_SUI.png)
-
----
-
-## 5. Venice Token ($VVV) — +9.85% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Venice Token is floating straight to the top of the luxury canal! I am already picking out the custom leather interior for my new amphibious supercar.
-
-![VVV Graphic](images/05_PUMP_VVV.png)
+![NEAR Graphic](images/02_PUMP_NEAR.png)
 
 ---
 
-## 6. MemeCore ($M) — -2.39% (DUMP)
+## 3. Quant ($QNT) — +8.04% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** MemeCore is sliding faster than a wet bar of soap on a slick tile floor. You want me to hold the bag? Get outta here!
+**CMC Comment:** Interoperability sounds real fancy, but all I know is my leverage position isn't blowing up today.
 
-![M Graphic](images/06_DUMP_M.png)
-
----
-
-## 7. World Liberty Financial ($WLFI) — -2.56% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A quantifiable decline in market cap, yet a massive spike in psychological trauma for investors who failed to hedge properly. A fascinating study in human error.
-
-![WLFI Graphic](images/07_DUMP_WLFI.png)
+![QNT Graphic](images/03_PUMP_QNT.png)
 
 ---
 
-## 8. NEAR Protocol ($NEAR) — -4.14% (DUMP)
+## 4. Bittensor ($TAO) — +7.31% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** NEAR is feeling a bit far from harmony right now, but the universe is simply cleansing our chakras of quick gains. Just breathe through the red candles, star-children!
+**CMC Comment:** The AI cows are singing in perfect harmony, bringing decentralized intelligence and sweet green candles to the pasture!
 
-![NEAR Graphic](images/08_DUMP_NEAR.png)
-
----
-
-## 9. Ethena ($ENA) — -8.43% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Ethena is taking a absolute nose dive and my brother-in-law is crying in the garage. Someone pass me a cannoli and unplug the router!
-
-![ENA Graphic](images/09_DUMP_ENA.png)
+![TAO Graphic](images/04_PUMP_TAO.png)
 
 ---
 
-## 10. Akedo ($AKE) — -15.82% (DUMP)
+## 5. Ethereum Classic ($ETC) — +4.6% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down nearly sixteen percent? That is not a disaster, that is just an exclusive opportunity for the lower class to buy out my remaining bags!
+**CMC Comment:** Code is law, and the law clearly states I am legally required to pop champagne on every four percent pump.
 
-![AKE Graphic](images/10_DUMP_AKE.png)
+![ETC Graphic](images/05_PUMP_ETC.png)
+
+---
+
+## 6. Arbitrum ($ARB) — -6.29% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Layer 2 transaction speed doesn't help when your portfolio value drops straight to zero in record time.
+
+![ARB Graphic](images/06_DUMP_ARB.png)
+
+---
+
+## 7. Ether.fi ($ETHFI) — -6.37% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Liquid restaking appears to have restaked itself directly into liquid insolvency for late adopters.
+
+![ETHFI Graphic](images/07_DUMP_ETHFI.png)
+
+---
+
+## 8. Sky ($SKY) — -6.92% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** The sky isn't falling, it's just offering us a discount on cloud-based hopes and peaceful dreams!
+
+![SKY Graphic](images/08_DUMP_SKY.png)
+
+---
+
+## 9. Akedo ($AKE) — -11.09% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down double digits again, time to tell my landlord I am in it strictly for the revolutionary gaming utility.
+
+![AKE Graphic](images/09_DUMP_AKE.png)
+
+---
+
+## 10. MemeCore ($M) — -11.9% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Turns out buying a coin named after a single letter was slightly less sophisticated than my financial advisor advised.
+
+![M Graphic](images/10_DUMP_M.png)
 
 ---
