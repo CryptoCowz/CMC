@@ -1,80 +1,80 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Lighter ($LIT) — +13.33% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Up 13% and I've already put a down payment on a second jet ski I don't know how to ride. Never selling, generational wealth is literally days away!
-
-![LIT Graphic](images/01_PUMP_LIT.png)
-
----
-
-## 2. Bitway ($BTW) — +10.94% (PUMP)
+## 1. Ondo ($ONDO) — +25.43% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway is pumping so hard my second mortgage is starting to look like a stroke of sheer financial genius. We are taking this rocket straight to the top, boys!
+**CMC Comment:** Just refinanced the farm to ape into ONDO because institutional yield sounds like something my accountant wouldn't yell at me for. Up 25% today and I'm already shopping for luxury tractor accessories!
 
-![BTW Graphic](images/02_PUMP_BTW.png)
+![ONDO Graphic](images/01_PUMP_ONDO.png)
 
 ---
 
-## 3. Sky ($SKY) — +9.13% (PUMP)
+## 2. Litecoin ($LTC) — +23.67% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Litecoin rising from the dead like my ex-wife's lawyer requesting another audit! Digital silver is pumping, so I'm cashing out before the grandkids realize I spent their inheritance.
+
+![LTC Graphic](images/02_PUMP_LTC.png)
+
+---
+
+## 3. Quant ($QNT) — +18.08% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** An unexpected 9% surge in SKY, clearly validating my algorithmic thesis that irrational exuberance always triumphs over basic arithmetic.
+**CMC Comment:** Interoperability theory dictates that an 18% surge is statistically indicative of speculative mania overriding rational valuations. Naturally, I am now double-leveraged.
 
-![SKY Graphic](images/03_PUMP_SKY.png)
+![QNT Graphic](images/03_PUMP_QNT.png)
 
 ---
 
-## 4. Pudgy Penguins ($PENGU) — +8.68% (PUMP)
+## 4. Ethereum Classic ($ETC) — +13.73% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Look at the cute little flightless birds going up! I bought ten thousand of them because penguins are nice and now we're all going to be rich forever!
+**CMC Comment:** Code is law, sweet babies, and the universe says we are going to the moon on vintage Ethereum! Sending positive aura energy to everyone who held this since 2016!
 
-![PENGU Graphic](images/04_PUMP_PENGU.png)
+![ETC Graphic](images/04_PUMP_ETC.png)
 
 ---
 
-## 5. Bitcoin Cash ($BCH) — +7.44% (PUMP)
+## 5. Injective ($INJ) — +12.13% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitcoin Cash back in green, proved all the haters wrong for the forty-seventh time this year! Time to order the top-shelf champagne!
+**CMC Comment:** Injective is injecting pure adrenaline directly into my liquidity pool! Who needs risk management when green candles look this gorgeous on a chart?
 
-![BCH Graphic](images/05_PUMP_BCH.png)
+![INJ Graphic](images/05_PUMP_INJ.png)
 
 ---
 
-## 6. Avalanche ($AVAX) — -7.31% (DUMP)
+## 6. Pi Network ($PI) — -1.63% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down 7% on Avalanche and my wife's lawyer just called. It's fine, it's just a healthy consolidation down into a completely empty bank account.
+**CMC Comment:** You spent three years tapping a button on your phone every morning for a coin dumping today? My guy, even my local bodega runs a better loyalty program.
 
-![AVAX Graphic](images/06_DUMP_AVAX.png)
-
----
-
-## 7. Worldcoin ($WLD) — -7.49% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Scanning your eyeballs for a token that loses 7% of its value in a day seems like an inefficient trade off for human dignity.
-
-![WLD Graphic](images/07_DUMP_WLD.png)
+![PI Graphic](images/06_DUMP_PI.png)
 
 ---
 
-## 8. Pepe ($PEPE) — -8.73% (DUMP)
+## 7. Rain ($RAIN) — -2.83% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The sad green frog is falling again, but I'm holding his hand all the way down to zero because true friendship isn't about profit.
+**CMC Comment:** Oh no, RAIN is falling and it washed away our yield farm profits! Don't worry sweet soul, every storm clears eventually even if your portfolio is a puddle.
 
-![PEPE Graphic](images/08_DUMP_PEPE.png)
-
----
-
-## 9. Pump.fun ($PUMP) — -8.91% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Irony at its finest: Pump.fun dumps 9% and now my fun is completely ruined along with my credit score.
-
-![PUMP Graphic](images/09_DUMP_PUMP.png)
+![RAIN Graphic](images/07_DUMP_RAIN.png)
 
 ---
 
-## 10. Akedo ($AKE) — -14.88% (DUMP)
+## 8. Pump.fun ($PUMP) — -2.96% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A 14% drop in Akedo provides an empirical demonstration of gravitational collapse applied to speculative internet coupons.
+**CMC Comment:** The irony of a token explicitly named PUMP experiencing a downward trajectory is a fascinating study in market psychology. Participants remain thoroughly disappointed.
+
+![PUMP Graphic](images/08_DUMP_PUMP.png)
+
+---
+
+## 9. Bitcoin Cash ($BCH) — -3.47% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Bitcoin Cash dropping again? I told Tony down at the docks that Satoshi's real vision wasn't bagholding through a red Wednesday!
+
+![BCH Graphic](images/09_DUMP_BCH.png)
+
+---
+
+## 10. Akedo ($AKE) — -6.93% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down nearly 7% in a single day? Looks like my high-conviction Akedo play just instantly pivoted into a long-term tax-loss harvesting strategy!
 
 ![AKE Graphic](images/10_DUMP_AKE.png)
 
