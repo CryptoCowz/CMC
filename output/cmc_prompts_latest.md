@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Ethena ($ENA) — +19.23% (PUMP)
+## 1. Quant ($QNT) — +20.62% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Just refinanced my barn to ape into synthetic yield because line only goes up. Generational wealth is officially secured, boys!
+**CMC Comment:** Up 20% because enterprise interoperability sounds expensive enough to be valuable! Time to leverage my retirement fund and buy a third yacht.
 
-![ENA Graphic](images/01_PUMP_ENA.png)
-
----
-
-## 2. Aerodrome Finance ($AERO) — +18.62% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** I don't know what an aerodrome is, but I'm throwing my mother-in-law's pension into it immediately. Keep flying, baby!
-
-![AERO Graphic](images/02_PUMP_AERO.png)
+![QNT Graphic](images/01_PUMP_QNT.png)
 
 ---
 
-## 3. Quant ($QNT) — +16.58% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Interoperability theory dictates that a sixteen percent pump completely validates my three-hundred page whitepaper on farmyard liquidity.
-
-![QNT Graphic](images/03_PUMP_QNT.png)
-
----
-
-## 4. Bitway ($BTW) — +15.99% (PUMP)
+## 2. Worldcoin ($WLD) — +18.94% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The cosmos is sending golden vibrations straight into our digital wallets today! Hug your local validator!
+**CMC Comment:** Selling my iris data for an 18% gain feels so spiritually aligning! Who needs personal privacy when the universe gifts you green candles?
 
-![BTW Graphic](images/04_PUMP_BTW.png)
-
----
-
-## 5. Canton ($CC) — +10.45% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Selling my wife's prized heifers to double down on Canton before the normies wake up. To the moon!
-
-![CC Graphic](images/05_PUMP_CC.png)
+![WLD Graphic](images/02_PUMP_WLD.png)
 
 ---
 
-## 6. Injective ($INJ) — -5.15% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down five percent? Great, now I gotta explain to the family why we are eating expired hay for dinner again.
-
-![INJ Graphic](images/06_DUMP_INJ.png)
-
----
-
-## 7. MemeCore ($M) — -5.16% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** My aura is feeling heavily damaged by this red candle, but perhaps the red is just market love in disguise?
-
-![M Graphic](images/07_DUMP_M.png)
-
----
-
-## 8. Litecoin ($LTC) — -5.86% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Digital silver is behaving like digital lead again. Guess I'll just hold these vintage 2017 bags until retirement.
-
-![LTC Graphic](images/08_DUMP_LTC.png)
-
----
-
-## 9. Lighter ($LIT) — -10.2% (DUMP)
+## 3. Filecoin ($FIL) — +17.16% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A ten percent devaluation clearly demonstrates the psychological fragility of retail investors facing structural entropy.
+**CMC Comment:** Paying decentralized hard drive hoarders double digits to store JPEGs is the pinnacle of monetary progress. The charts clearly indicate pure, unadulterated euphoria.
 
-![LIT Graphic](images/09_DUMP_LIT.png)
+![FIL Graphic](images/03_PUMP_FIL.png)
 
 ---
 
-## 10. Akedo ($AKE) — -13.73% (DUMP)
+## 4. Kaspa ($KAS) — +14.59% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Somebody call the sheriff because my portfolio just got utterly mugged in broad daylight!
+**CMC Comment:** Look at this green spike! I don't know what a BlockDAG is and I don't care, as long as it buys me a golden riding mower by Tuesday!
 
-![AKE Graphic](images/10_DUMP_AKE.png)
+![KAS Graphic](images/04_PUMP_KAS.png)
+
+---
+
+## 5. Dash ($DASH) — +14.06% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Digital cash is booming again, baby! Dusting off my 2017 silk suits because nostalgia is the ultimate fundamental analysis.
+
+![DASH Graphic](images/05_PUMP_DASH.png)
+
+---
+
+## 6. XRP ($XRP) — -1.92% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down almost two percent? I'm callin' my lawyer, the SEC, and my aunt! Someone get my money back right now!
+
+![XRP Graphic](images/06_DUMP_XRP.png)
+
+---
+
+## 7. Injective ($INJ) — -4.15% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** A minor correction in layer-one derivatives was statistically bound to occur. My algorithmic analysis predicts severe weeping among over-leveraged retail holders.
+
+![INJ Graphic](images/07_DUMP_INJ.png)
+
+---
+
+## 8. NEAR Protocol ($NEAR) — -5.71% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** NEAR is teaching us a gentle cosmic lesson in shedding earthly wealth. Embrace the loss as universe-mandated spiritual growth!
+
+![NEAR Graphic](images/08_DUMP_NEAR.png)
+
+---
+
+## 9. Akedo ($AKE) — -9.84% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down nearly 10%? I told my accountant Akedo was a high-risk tax write-off anyway, so technically I am still winning.
+
+![AKE Graphic](images/09_DUMP_AKE.png)
+
+---
+
+## 10. Bitway ($BTW) — -14.81% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Bitway is crashing and taking my jet ski down payment with it! Who do I gotta yell at to get a refund on a 15% drop?!
+
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
