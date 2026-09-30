@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Hedera ($HBAR) — +33.62% (PUMP)
+## 1. Quant ($QNT) — +20.33% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Governing council? More like my personal yacht funding committee! We are printing green candles so fast my broker is sweating through his Armani suit!
+**CMC Comment:** Interoperability just bought me another jet ski! If you aren't all-in on enterprise tech, enjoy staying broke at the local kids table.
 
-![HBAR Graphic](images/01_PUMP_HBAR.png)
+![QNT Graphic](images/01_PUMP_QNT.png)
 
 ---
 
-## 2. Quant ($QNT) — +26.58% (PUMP)
+## 2. Stacks ($STX) — +14.72% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Interoperability metrics suggest a brief parabolic trajectory before retail momentum yields to macro-economic reality. Enjoy this brief statistical anomaly.
+**CMC Comment:** Smart contracts on Bitcoin represent a fundamental paradigm shift that my theoretical model predicted three whitepapers ago.
 
-![QNT Graphic](images/02_PUMP_QNT.png)
-
----
-
-## 3. XDC Network ($XDC) — +12.16% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Enterprise trade finance actually moving the needle for once. I am taking my cut and buying a truckload of meat before the inevitable drop.
-
-![XDC Graphic](images/03_PUMP_XDC.png)
+![STX Graphic](images/02_PUMP_STX.png)
 
 ---
 
-## 4. Algorand ($ALGO) — +11.67% (PUMP)
+## 3. NEAR Protocol ($NEAR) — +10.68% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Silvio's pure proof-of-stake is aligning our chakras with the cosmic ledger today! Breathe in the green candles, beautiful souls!
+**CMC Comment:** Wow, NEAR is getting so close to us all! I think the universe is sending us green energy arrows to heal our digital wallets.
 
-![ALGO Graphic](images/04_PUMP_ALGO.png)
+![NEAR Graphic](images/03_PUMP_NEAR.png)
 
 ---
 
-## 5. Chainlink ($LINK) — +7.26% (PUMP)
+## 4. Worldcoin ($WLD) — +9.09% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Oracles are screaming green and so am I! Sergey's sweater collection is funding my second divorce!
+**CMC Comment:** I scanned both eyes and my third eye for this pump! Cybernetic perfection meets generational wealth, let's keep buying!
 
-![LINK Graphic](images/05_PUMP_LINK.png)
+![WLD Graphic](images/04_PUMP_WLD.png)
 
 ---
 
-## 6. Ethena ($ENA) — -9.79% (DUMP)
+## 5. Ethena ($ENA) — +9.0% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Synthetic dollars, real tears. I told you kids that high-yield magic trick was run by amateurs who couldn't organize a pizza party.
+**CMC Comment:** Synthetic dollars? Listen pal, green is green and my bank account doesn't care if it came from an algorithm or a printing press.
 
-![ENA Graphic](images/06_DUMP_ENA.png)
+![ENA Graphic](images/05_PUMP_ENA.png)
 
 ---
 
-## 7. Arbitrum ($ARB) — -11.61% (DUMP)
+## 6. ​​Stable ($STABLE) — -3.37% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Named 'Stable' and it immediately drops. Hey genius, my mother-in-law's blood pressure is more stable than this trash.
+
+![STABLE Graphic](images/06_DUMP_STABLE.png)
+
+---
+
+## 7. Rain ($RAIN) — -3.48% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Rain drops are falling on my portfolio... but every storm brings flowers eventually, right guys?
+
+![RAIN Graphic](images/07_DUMP_RAIN.png)
+
+---
+
+## 8. Aave ($AAVE) — -3.78% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Layer-2 scaling appears to have successfully scaled down your net worth by nearly twelve percent. A fascinating study in rapid liquidity dissolution.
+**CMC Comment:** Liquidity protocols experiencing localized yield compression is a standard macro stress test, though bagholders seem visibly agitated.
 
-![ARB Graphic](images/07_DUMP_ARB.png)
-
----
-
-## 8. NEAR Protocol ($NEAR) — -11.96% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is merely cleansing our karma through this temporary candle of correction. Let go of the illusion of your initial investment, man.
-
-![NEAR Graphic](images/08_DUMP_NEAR.png)
+![AAVE Graphic](images/08_DUMP_AAVE.png)
 
 ---
 
-## 9. Worldcoin ($WLD) — -12.51% (DUMP)
+## 9. Sky ($SKY) — -7.91% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** I scanned my retinas into a shiny silver orb and all I got was a margin call and a ruined Tuesday!
+**CMC Comment:** Rebranded from Maker and the sky is literally falling! Time to rebrand again to 'Underground' so we can hit rock bottom properly.
 
-![WLD Graphic](images/09_DUMP_WLD.png)
+![SKY Graphic](images/09_DUMP_SKY.png)
 
 ---
 
-## 10. Bitway ($BTW) — -16.76% (DUMP)
+## 10. Lighter ($LIT) — -10.96% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Bitway? Bit-go-away is more like it. Down seventeen percent and my cousin Vinnie says it ain't coming back.
+**CMC Comment:** Down eleven percent? More like lighter on cash! Get this dumpster fire out of my sight before I blow a fuse.
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![LIT Graphic](images/10_DUMP_LIT.png)
 
 ---
