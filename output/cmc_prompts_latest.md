@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +7.79% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Up nearly 8% and I've already quit my day job to focus full-time on staring at this candle.
-
-![BTW Graphic](images/01_PUMP_BTW.png)
-
----
-
-## 2. Stacks ($STX) — +6.54% (PUMP)
+## 1. Midnight ($NIGHT) — +20.6% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** We are stacking gains so high my third ex-wife just texted me asking if I still have the keys to the boat.
+**CMC Comment:** Up over 20% in the dark! I'm leveraging my second mansion before dawn!
 
-![STX Graphic](images/02_PUMP_STX.png)
-
----
-
-## 3. Aave ($AAVE) — +6.3% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A fascinating liquidity surge proving that leverage is merely financial gravity waiting to be briefly defied.
-
-![AAVE Graphic](images/03_PUMP_AAVE.png)
+![NIGHT Graphic](images/01_PUMP_NIGHT.png)
 
 ---
 
-## 4. Sky ($SKY) — +5.26% (PUMP)
+## 2. Sky ($SKY) — +13.42% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The sky is literally the limit when we all believe together and ignore the sell button!
+**CMC Comment:** We are floating right into the heavens, besties! Clear blue skies for true believers!
 
-![SKY Graphic](images/04_PUMP_SKY.png)
-
----
-
-## 5. Pepe ($PEPE) — +2.81% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** A green frog printing green gains is the exact economic indicator my portfolio needed today.
-
-![PEPE Graphic](images/05_PUMP_PEPE.png)
+![SKY Graphic](images/02_PUMP_SKY.png)
 
 ---
 
-## 6. Zcash ($ZEC) — -5.99% (DUMP)
+## 3. Worldcoin ($WLD) — +12.18% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Privacy coins allow one to lose money in absolute secrecy, which is the only dignity left in this market.
+**CMC Comment:** Trading biometric privacy for a 12 percent bump is an entirely rational equation in modern finance.
 
-![ZEC Graphic](images/06_DUMP_ZEC.png)
+![WLD Graphic](images/03_PUMP_WLD.png)
 
 ---
 
-## 7. Ether.fi ($ETHFI) — -6.02% (DUMP)
+## 4. Aave ($AAVE) — +7.71% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Restaking my ETH just so I can earn yield on my catastrophic unrealized losses.
+**CMC Comment:** You lend out the liquidity, you collect the green. Easy money, don't ask questions!
 
-![ETHFI Graphic](images/07_DUMP_ETHFI.png)
-
----
-
-## 8. Worldcoin ($WLD) — -6.4% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Scanning my eyeballs didn't stop the red numbers, but at least the Orb says I have a beautiful iris!
-
-![WLD Graphic](images/08_DUMP_WLD.png)
+![AAVE Graphic](images/04_PUMP_AAVE.png)
 
 ---
 
-## 9. NEAR Protocol ($NEAR) — -8.09% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** NEAR Protocol? More like NEARly broke after watching this bag drop another 8%.
-
-![NEAR Graphic](images/09_DUMP_NEAR.png)
-
----
-
-## 10. Quant ($QNT) — -9.37% (DUMP)
+## 5. Akedo ($AKE) — +6.33% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Institutional adoption is coming, right after I finish liquidating my blood plasma to cover margin.
+**CMC Comment:** I have no idea what Akedo does, but green numbers mean it's time to celebrate!
 
-![QNT Graphic](images/10_DUMP_QNT.png)
+![AKE Graphic](images/05_PUMP_AKE.png)
+
+---
+
+## 6. XDC Network ($XDC) — -3.94% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down almost 4 percent? Who let these amateurs dump on my watch?
+
+![XDC Graphic](images/06_DUMP_XDC.png)
+
+---
+
+## 7. Stacks ($STX) — -5.42% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The structural integrity of these stacks is succumbing to elementary market gravity.
+
+![STX Graphic](images/07_DUMP_STX.png)
+
+---
+
+## 8. Lighter ($LIT) — -7.48% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Someone blew out the Lighter and now we are holding dark, cold bags together!
+
+![LIT Graphic](images/08_DUMP_LIT.png)
+
+---
+
+## 9. Quant ($QNT) — -7.99% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Quant? More like zero quantity left in my bank account after this disaster!
+
+![QNT Graphic](images/09_DUMP_QNT.png)
+
+---
+
+## 10. Rain ($RAIN) — -8.24% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** It is raining pure liquid red and my custom Italian loafers are completely soaked.
+
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
