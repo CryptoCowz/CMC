@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Midnight ($NIGHT) — +8.08% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 8% in the dark! I've already leveraged my third mortgage because nothing screams long-term value like buying financial privacy at 2 AM.
-
-![NIGHT Graphic](images/01_PUMP_NIGHT.png)
-
----
-
-## 2. LayerZero ($ZRO) — +7.99% (PUMP)
+## 1. Pump.fun ($PUMP) — +12.5% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** LayerZero bridging straight to my retirement fund, baby! I don't know what interoperability means, but my chart is green and my wife's lawyer is furious.
+**CMC Comment:** Just refinanced my mom's barn to ape into PUMP because the green candle looked deeply personal. We're either buying matching yachts or eating hay until 2030.
 
-![ZRO Graphic](images/02_PUMP_ZRO.png)
+![PUMP Graphic](images/01_PUMP_PUMP.png)
 
 ---
 
-## 3. JUST ($JST) — +6.82% (PUMP)
+## 2. Rain ($RAIN) — +12.39% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** JUST keep pumping, universe! The cosmos is aligning to make us all millionaires, or at least pay for my organic oat milk lattes.
+**CMC Comment:** It's raining gains and my third eye is practically soaking in financial freedom! Time to harvest this divine abundance and buy a golden pasture.
 
-![JST Graphic](images/03_PUMP_JST.png)
+![RAIN Graphic](images/02_PUMP_RAIN.png)
 
 ---
 
-## 4. Worldcoin ($WLD) — +4.06% (PUMP)
+## 3. Aerodrome Finance ($AERO) — +8.14% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Scanned my retinas for a 4% pump, which statistically covers the cost of my eye drops. Truly a triumph of dystopian behavioral economics.
+**CMC Comment:** Mathematically speaking, this pump defies traditional liquidity dynamics, yet my portfolio is up so I shall suspend my scientific skepticism.
 
-![WLD Graphic](images/04_PUMP_WLD.png)
+![AERO Graphic](images/03_PUMP_AERO.png)
 
 ---
 
-## 5. Stacks ($STX) — +3.8% (PUMP)
+## 4. Akedo ($AKE) — +7.93% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Stacks is building on Bitcoin, which means my gains are practically backed by the founding fathers themselves. Time to order the gold-plated jet ski!
+**CMC Comment:** Akedo is rocketing and I've already ordered three custom velvet suits for the victory lap. Tell the hater cows to stay in the mud!
 
-![STX Graphic](images/05_PUMP_STX.png)
-
----
-
-## 6. Bittensor ($TAO) — -5.22% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** The artificial intelligence network seems to have calculated that your portfolio value should approach zero. Fascinating proof of algorithmic cruelty.
-
-![TAO Graphic](images/06_DUMP_TAO.png)
+![AKE Graphic](images/04_PUMP_AKE.png)
 
 ---
 
-## 7. Sky ($SKY) — -5.58% (DUMP)
+## 5. Sui ($SUI) — +5.95% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Sui moving up like a fine vintage Cabernet after a good harvest season. Smells like unearned wealth and pure triumph, baby!
+
+![SUI Graphic](images/05_PUMP_SUI.png)
+
+---
+
+## 6. Injective ($INJ) — -2.54% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** The sky is falling and so is my net worth. I told my cousin Vinny this was a safe play, now he won't return my lawnmower.
+**CMC Comment:** Down on INJ and my local butcher is looking at me funny. Guess I'm sleeping in the trailer again tonight.
 
-![SKY Graphic](images/07_DUMP_SKY.png)
+![INJ Graphic](images/06_DUMP_INJ.png)
 
 ---
 
-## 8. ​​Stable ($STABLE) — -5.6% (DUMP)
+## 7. Worldcoin ($WLD) — -3.0% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Scanned my iris for this token and all I got was a loss and a slight twitch in my left cornea. Fascinating social experiment in regret.
+
+![WLD Graphic](images/07_DUMP_WLD.png)
+
+---
+
+## 8. Midnight ($NIGHT) — -3.71% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Irony is just the universe telling us to hold hands while we drop 5%. Remember friends, true stability lives in our hearts, not our wallet balance.
+**CMC Comment:** Midnight is fading into darkness, but every moonless night just makes room for the spiritual glow of holding forever! Blessed are the bagholders.
 
-![STABLE Graphic](images/08_DUMP_STABLE.png)
-
----
-
-## 9. Lighter ($LIT) — -6.53% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Lighter? More like my pockets are lighter by six percent. Who turned down the flame on this dumpster fire?
-
-![LIT Graphic](images/09_DUMP_LIT.png)
+![NIGHT Graphic](images/08_DUMP_NIGHT.png)
 
 ---
 
-## 10. Rain ($RAIN) — -7.72% (DUMP)
+## 9. LayerZero ($ZRO) — -5.77% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** It's raining red candles and my broker won't stop crying into his martini. I'm buying the dip with money I borrowed from my mother-in-law!
+**CMC Comment:** LayerZero? More like Layer Hero-to-Zero in 24 hours flat. My financial advisor is currently ignoring my calls from the country club.
 
-![RAIN Graphic](images/10_DUMP_RAIN.png)
+![ZRO Graphic](images/09_DUMP_ZRO.png)
+
+---
+
+## 10. Bitway ($BTW) — -18.48% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Minus eighteen percent on Bitway... By the way, does anyone know if pasture grass is technically digestible for humans?
+
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
