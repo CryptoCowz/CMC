@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pump.fun ($PUMP) — +12.5% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Just refinanced my mom's barn to ape into PUMP because the green candle looked deeply personal. We're either buying matching yachts or eating hay until 2030.
+## 1. Filecoin ($FIL) — +11.63% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Up 11%! I just uploaded my entire hard drive to Filecoin so I can store my future yacht receipts in the decentralized cloud!
 
-![PUMP Graphic](images/01_PUMP_PUMP.png)
+![FIL Graphic](images/01_PUMP_FIL.png)
 
 ---
 
-## 2. Rain ($RAIN) — +12.39% (PUMP)
+## 2. Midnight ($NIGHT) — +10.93% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** It's raining gains and my third eye is practically soaking in financial freedom! Time to harvest this divine abundance and buy a golden pasture.
+**CMC Comment:** Midnight is pumping! The darkness is finally bringing us true financial enlightenment and a very shiny moonlit pasture!
 
-![RAIN Graphic](images/02_PUMP_RAIN.png)
-
----
-
-## 3. Aerodrome Finance ($AERO) — +8.14% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, this pump defies traditional liquidity dynamics, yet my portfolio is up so I shall suspend my scientific skepticism.
-
-![AERO Graphic](images/03_PUMP_AERO.png)
+![NIGHT Graphic](images/02_PUMP_NIGHT.png)
 
 ---
 
-## 4. Akedo ($AKE) — +7.93% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Akedo is rocketing and I've already ordered three custom velvet suits for the victory lap. Tell the hater cows to stay in the mud!
-
-![AKE Graphic](images/04_PUMP_AKE.png)
-
----
-
-## 5. Sui ($SUI) — +5.95% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Sui moving up like a fine vintage Cabernet after a good harvest season. Smells like unearned wealth and pure triumph, baby!
-
-![SUI Graphic](images/05_PUMP_SUI.png)
-
----
-
-## 6. Injective ($INJ) — -2.54% (DUMP)
+## 3. Lighter ($LIT) — +9.66% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down on INJ and my local butcher is looking at me funny. Guess I'm sleeping in the trailer again tonight.
+**CMC Comment:** Lighter is up almost 10%! I am setting fire to my day job right now, my boss can keep the cubicle!
 
-![INJ Graphic](images/06_DUMP_INJ.png)
+![LIT Graphic](images/03_PUMP_LIT.png)
 
 ---
 
-## 7. Worldcoin ($WLD) — -3.0% (DUMP)
+## 4. Cardano ($ADA) — +6.93% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Scanned my iris for this token and all I got was a loss and a slight twitch in my left cornea. Fascinating social experiment in regret.
+**CMC Comment:** A 6.9% increase in Cardano suggests peer-reviewed green candles are finally statistical realities. I shall celebrate with extra oats.
 
-![WLD Graphic](images/07_DUMP_WLD.png)
+![ADA Graphic](images/04_PUMP_ADA.png)
 
 ---
 
-## 8. Midnight ($NIGHT) — -3.71% (DUMP)
+## 5. LayerZero ($ZRO) — +6.06% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** LayerZero bridged me straight into generational wealth today! Moving assets across chains faster than my ex-wife moved her clothes out.
+
+![ZRO Graphic](images/05_PUMP_ZRO.png)
+
+---
+
+## 6. Algorand ($ALGO) — -3.36% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down 3.3%? Algorand is proof-of-stake? More like proof-of-holding-a-heavy-bag while crying in my truck!
+
+![ALGO Graphic](images/06_DUMP_ALGO.png)
+
+---
+
+## 7. Stacks ($STX) — -3.69% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The empirical evidence indicates Stacks is stacking losses today. My portfolio model requires immediate quantitative coping.
+
+![STX Graphic](images/07_DUMP_STX.png)
+
+---
+
+## 8. Venice Token ($VVV) — -3.74% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Midnight is fading into darkness, but every moonless night just makes room for the spiritual glow of holding forever! Blessed are the bagholders.
+**CMC Comment:** Venice Token is sinking faster than the real city! But do not worry, gondolas always float back up eventually right?
 
-![NIGHT Graphic](images/08_DUMP_NIGHT.png)
+![VVV Graphic](images/08_DUMP_VVV.png)
 
 ---
 
-## 9. LayerZero ($ZRO) — -5.77% (DUMP)
+## 9. Sky ($SKY) — -7.76% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** LayerZero? More like Layer Hero-to-Zero in 24 hours flat. My financial advisor is currently ignoring my calls from the country club.
+**CMC Comment:** Sky took a nosebleed plunge down nearly 8%! Turns out the sky was not the limit, it was just the altitude where my parachute failed.
 
-![ZRO Graphic](images/09_DUMP_ZRO.png)
+![SKY Graphic](images/09_DUMP_SKY.png)
 
 ---
 
-## 10. Bitway ($BTW) — -18.48% (DUMP)
+## 10. Akedo ($AKE) — -9.88% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Minus eighteen percent on Bitway... By the way, does anyone know if pasture grass is technically digestible for humans?
+**CMC Comment:** Down 10%! Akedo played us like a cheap arcade machine and stole my last quarter without even giving me a retry!
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![AKE Graphic](images/10_DUMP_AKE.png)
 
 ---
