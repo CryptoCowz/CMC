@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Render ($RENDER) — +9.53% (PUMP)
+## 1. Raydium ($RAY) — +9.69% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** My GPU is rendering digital profit so fast it just melted through my third mortgage paperwork! We are printing pixels straight to the moon baby!
+**CMC Comment:** Up almost ten percent on Solana DEX volume alone, meaning my third ex-wife is officially calling back for alimony adjustments. We are so back, baby!
 
-![RENDER Graphic](images/01_PUMP_RENDER.png)
-
----
-
-## 2. LayerZero ($ZRO) — +8.89% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** The empirical probability of bridging zero foundational value into absolute bullish momentum is fascinatingly irrational, yet economically delightful.
-
-![ZRO Graphic](images/02_PUMP_ZRO.png)
+![RAY Graphic](images/01_PUMP_RAY.png)
 
 ---
 
-## 3. OKB ($OKB) — +8.69% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Hey listen to me, OKB is breaking out so fire up the steakhouse reservations and tell my landlord he gets paid when I say so!
-
-![OKB Graphic](images/03_PUMP_OKB.png)
-
----
-
-## 4. Filecoin ($FIL) — +6.7% (PUMP)
+## 2. Bitway ($BTW) — +5.51% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** I stored all my positive energy and manifestation aura on the decentralized cloud, and the cosmos returned standard green candle blessings!
+**CMC Comment:** The universe alignment is sending Bitway straight into the third eye chakra of massive gains! I can feel my wallet vibrating with pure financial enlightenment.
 
-![FIL Graphic](images/04_PUMP_FIL.png)
-
----
-
-## 5. XDC Network ($XDC) — +6.04% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** I have absolutely no idea what enterprise trade infrastructure means, but my chart drawn in green crayon says we buy the breakout!
-
-![XDC Graphic](images/05_PUMP_XDC.png)
+![BTW Graphic](images/02_PUMP_BTW.png)
 
 ---
 
-## 6. Bitway ($BTW) — -4.49% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Bitway? More like Bit-go-away! I bought the dip and now the dip is digging a basement straight through my subfloor!
-
-![BTW Graphic](images/06_DUMP_BTW.png)
-
----
-
-## 7. Rain ($RAIN) — -4.57% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** It is just a temporary price shower, friends, the market is simply watering our yield crops so we can blossom tomorrow!
-
-![RAIN Graphic](images/07_DUMP_RAIN.png)
-
----
-
-## 8. Aerodrome Finance ($AERO) — -4.73% (DUMP)
+## 3. NEAR Protocol ($NEAR) — +3.04% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Aerodrome appears to be demonstrating classical rapid aerodynamic descent directly toward absolute financial rock bottom.
+**CMC Comment:** A modest three percent ascension indicates an algorithmic stabilization phase before systemic retail frenzy. I recommend recalculating your leverage thresholds immediately.
 
-![AERO Graphic](images/08_DUMP_AERO.png)
-
----
-
-## 9. Ethena ($ENA) — -5.16% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Synthetic dollars and very real losses! I explained delta-neutral yield to my wife, and now she is completely neutral about our marriage!
-
-![ENA Graphic](images/09_DUMP_ENA.png)
+![NEAR Graphic](images/03_PUMP_NEAR.png)
 
 ---
 
-## 10. Mantle ($MNT) — -6.94% (DUMP)
+## 4. Pump.fun ($PUMP) — +0.8% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Mantle is dropping faster than my pants at a casino table. Who in the world unplugged the buying bots?!
+**CMC Comment:** Point-eight percent green? Hey, a pump is a pump, pal, don't look a gift horse in the mouth or I'll break its knees.
 
-![MNT Graphic](images/10_DUMP_MNT.png)
+![PUMP Graphic](images/04_PUMP_PUMP.png)
+
+---
+
+## 5. JUST ($JST) — +0.07% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Zero point zero seven percent green is all the confirmation bias I need to order the gold-plated jet ski. Green is green, stay rich!
+
+![JST Graphic](images/05_PUMP_JST.png)
+
+---
+
+## 6. Jupiter ($JUP) — -9.65% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down nearly ten percent? Somebody better tell these cat-loving paper hands that Jupiter isn't supposed to crash into the ocean.
+
+![JUP Graphic](images/06_DUMP_JUP.png)
+
+---
+
+## 7. Uniswap ($UNI) — -9.8% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Uniswap's current trajectory exhibits a classic panic-induced liquidity exit. Statistically speaking, your bags are now heavy enough to alter localized gravitational fields.
+
+![UNI Graphic](images/07_DUMP_UNI.png)
+
+---
+
+## 8. Aptos ($APT) — -10.69% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down over ten percent in twenty-four hours! Guess my VC buddies are dumping to buy more artisanal yacht polish, but I'm holding until zero!
+
+![APT Graphic](images/08_DUMP_APT.png)
+
+---
+
+## 9. Arbitrum ($ARB) — -11.23% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Arbitrum is just shedding its outer physical layer to cleanse the blockchain of negative aura! Hold hands and breathe through the eleven percent discount, friends.
+
+![ARB Graphic](images/09_DUMP_ARB.png)
+
+---
+
+## 10. Filecoin ($FIL) — -11.73% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Filecoin is dropping faster than my cousin Vinny when the feds showed up. Store your files on a USB stick and cut your losses, pal.
+
+![FIL Graphic](images/10_DUMP_FIL.png)
 
 ---
