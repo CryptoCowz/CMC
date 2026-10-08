@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Raydium ($RAY) — +9.69% (PUMP)
+## 1. Bitway ($BTW) — +10.58% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up almost ten percent on Solana DEX volume alone, meaning my third ex-wife is officially calling back for alimony adjustments. We are so back, baby!
+**CMC Comment:** Bitway to the moon, baby! I just remortgaged my grandma's farm to go 100x leverage on this bad boy!
 
-![RAY Graphic](images/01_PUMP_RAY.png)
+![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. Bitway ($BTW) — +5.51% (PUMP)
+## 2. Akedo ($AKE) — +8.98% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe alignment is sending Bitway straight into the third eye chakra of massive gains! I can feel my wallet vibrating with pure financial enlightenment.
+**CMC Comment:** Oh wow, Akedo is blooming like a beautiful flower today! I knew if we all held hands and wished hard enough, green candles would manifest!
 
-![BTW Graphic](images/02_PUMP_BTW.png)
+![AKE Graphic](images/02_PUMP_AKE.png)
 
 ---
 
-## 3. NEAR Protocol ($NEAR) — +3.04% (PUMP)
+## 3. Jupiter ($JUP) — +8.83% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A modest three percent ascension indicates an algorithmic stabilization phase before systemic retail frenzy. I recommend recalculating your leverage thresholds immediately.
+**CMC Comment:** The parabolic ascent of Jupiter aligns precisely with my proprietary socio-economic algorithms. Clearly, retail investors are recognizing its intrinsic orbital velocity.
 
-![NEAR Graphic](images/03_PUMP_NEAR.png)
-
----
-
-## 4. Pump.fun ($PUMP) — +0.8% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Point-eight percent green? Hey, a pump is a pump, pal, don't look a gift horse in the mouth or I'll break its knees.
-
-![PUMP Graphic](images/04_PUMP_PUMP.png)
+![JUP Graphic](images/03_PUMP_JUP.png)
 
 ---
 
-## 5. JUST ($JST) — +0.07% (PUMP)
+## 4. Ondo ($ONDO) — +3.52% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Zero point zero seven percent green is all the confirmation bias I need to order the gold-plated jet ski. Green is green, stay rich!
+**CMC Comment:** Up 3.5%? That's practically a jet engine warming up! Get in now before the institution whales buy up all the supply!
 
-![JST Graphic](images/05_PUMP_JST.png)
+![ONDO Graphic](images/04_PUMP_ONDO.png)
 
 ---
 
-## 6. Jupiter ($JUP) — -9.65% (DUMP)
+## 5. Aerodrome Finance ($AERO) — +2.71% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down nearly ten percent? Somebody better tell these cat-loving paper hands that Jupiter isn't supposed to crash into the ocean.
+**CMC Comment:** Two percent green and these degenerate kids are acting like they conquered Wall Street. Call me when it pays my property taxes.
 
-![JUP Graphic](images/06_DUMP_JUP.png)
+![AERO Graphic](images/05_PUMP_AERO.png)
 
 ---
 
-## 7. Uniswap ($UNI) — -9.8% (DUMP)
+## 6. Injective ($INJ) — -11.6% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Injective? More like inject some sense into your heads! You guys bought the top again and now you're crying in the discord.
+
+![INJ Graphic](images/06_DUMP_INJ.png)
+
+---
+
+## 7. Pump.fun ($PUMP) — -11.75% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Uniswap's current trajectory exhibits a classic panic-induced liquidity exit. Statistically speaking, your bags are now heavy enough to alter localized gravitational fields.
+**CMC Comment:** The irony of a token named 'PUMP' undergoing a severe negative retracement is an exquisite case study in behavioral cognitive dissonance.
 
-![UNI Graphic](images/07_DUMP_UNI.png)
+![PUMP Graphic](images/07_DUMP_PUMP.png)
 
 ---
 
-## 8. Aptos ($APT) — -10.69% (DUMP)
+## 8. Venice Token ($VVV) — -11.87% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down over ten percent in twenty-four hours! Guess my VC buddies are dumping to buy more artisanal yacht polish, but I'm holding until zero!
+**CMC Comment:** Venice is just sinking a little bit so we can buy the liquid discount, alright?! Do not sell, this is a textbook bear trap!
 
-![APT Graphic](images/08_DUMP_APT.png)
+![VVV Graphic](images/08_DUMP_VVV.png)
 
 ---
 
-## 9. Arbitrum ($ARB) — -11.23% (DUMP)
+## 9. Zcash ($ZEC) — -12.66% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Privacy coin? The only thing private here is how embarrassed you should be for holding this bag all the way down.
+
+![ZEC Graphic](images/09_DUMP_ZEC.png)
+
+---
+
+## 10. NEAR Protocol ($NEAR) — -13.25% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Arbitrum is just shedding its outer physical layer to cleanse the blockchain of negative aura! Hold hands and breathe through the eleven percent discount, friends.
+**CMC Comment:** NEAR is just taking a gentle little nap right now. When it wakes up, it's going to spread so many happy green vibes everywhere!
 
-![ARB Graphic](images/09_DUMP_ARB.png)
-
----
-
-## 10. Filecoin ($FIL) — -11.73% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Filecoin is dropping faster than my cousin Vinny when the feds showed up. Store your files on a USB stick and cut your losses, pal.
-
-![FIL Graphic](images/10_DUMP_FIL.png)
+![NEAR Graphic](images/10_DUMP_NEAR.png)
 
 ---
