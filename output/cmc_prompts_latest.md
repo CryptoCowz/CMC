@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +10.58% (PUMP)
+## 1. Cosmos Hub ($ATOM) — +22.36% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway to the moon, baby! I just remortgaged my grandma's farm to go 100x leverage on this bad boy!
+**CMC Comment:** ATOM is pumping so hard my third mortgage is practically paying for itself. Time to order another round of premium grass for the herd!
 
-![BTW Graphic](images/01_PUMP_BTW.png)
-
----
-
-## 2. Akedo ($AKE) — +8.98% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh wow, Akedo is blooming like a beautiful flower today! I knew if we all held hands and wished hard enough, green candles would manifest!
-
-![AKE Graphic](images/02_PUMP_AKE.png)
+![ATOM Graphic](images/01_PUMP_ATOM.png)
 
 ---
 
-## 3. Jupiter ($JUP) — +8.83% (PUMP)
+## 2. Polkadot ($DOT) — +18.77% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The parabolic ascent of Jupiter aligns precisely with my proprietary socio-economic algorithms. Clearly, retail investors are recognizing its intrinsic orbital velocity.
+**CMC Comment:** Mathematically speaking, this sudden upward velocity in Polkadot suggests a localized breakout of pure, unadulterated FOMO.
+
+![DOT Graphic](images/02_PUMP_DOT.png)
+
+---
+
+## 3. Jupiter ($JUP) — +16.31% (PUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Jupiter is flying straight to the moon and bringing all the happy little bulls along for the magical ride!
 
 ![JUP Graphic](images/03_PUMP_JUP.png)
 
 ---
 
-## 4. Ondo ($ONDO) — +3.52% (PUMP)
+## 4. Aptos ($APT) — +15.07% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Look at Aptos moving! I told ya, keep holding and you will be buying a whole fleet of sports tractors by next Tuesday.
+
+![APT Graphic](images/04_PUMP_APT.png)
+
+---
+
+## 5. XDC Network ($XDC) — +13.19% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 3.5%? That's practically a jet engine warming up! Get in now before the institution whales buy up all the supply!
+**CMC Comment:** Up thirteen percent? That is what I call liquid luxury, folks. Pop the cork on the cheap champagne!
 
-![ONDO Graphic](images/04_PUMP_ONDO.png)
-
----
-
-## 5. Aerodrome Finance ($AERO) — +2.71% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Two percent green and these degenerate kids are acting like they conquered Wall Street. Call me when it pays my property taxes.
-
-![AERO Graphic](images/05_PUMP_AERO.png)
+![XDC Graphic](images/05_PUMP_XDC.png)
 
 ---
 
-## 6. Injective ($INJ) — -11.6% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Injective? More like inject some sense into your heads! You guys bought the top again and now you're crying in the discord.
-
-![INJ Graphic](images/06_DUMP_INJ.png)
-
----
-
-## 7. Pump.fun ($PUMP) — -11.75% (DUMP)
+## 6. Open USD ($OUSD) — -0.22% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The irony of a token named 'PUMP' undergoing a severe negative retracement is an exquisite case study in behavioral cognitive dissonance.
+**CMC Comment:** A 0.22% deviation from peg suggests micro-panic among traders who clearly lack fundamental thermodynamic discipline.
 
-![PUMP Graphic](images/07_DUMP_PUMP.png)
-
----
-
-## 8. Venice Token ($VVV) — -11.87% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Venice is just sinking a little bit so we can buy the liquid discount, alright?! Do not sell, this is a textbook bear trap!
-
-![VVV Graphic](images/08_DUMP_VVV.png)
+![OUSD Graphic](images/06_DUMP_OUSD.png)
 
 ---
 
-## 9. Zcash ($ZEC) — -12.66% (DUMP)
+## 7. KuCoin ($KCS) — -0.45% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Privacy coin? The only thing private here is how embarrassed you should be for holding this bag all the way down.
+**CMC Comment:** Down a tiny fraction and people are already weeping into their cereal like the sky is falling. Get a grip, jabronis!
 
-![ZEC Graphic](images/09_DUMP_ZEC.png)
+![KCS Graphic](images/07_DUMP_KCS.png)
 
 ---
 
-## 10. NEAR Protocol ($NEAR) — -13.25% (DUMP)
+## 8. MemeCore ($M) — -0.71% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** NEAR is just taking a gentle little nap right now. When it wakes up, it's going to spread so many happy green vibes everywhere!
+**CMC Comment:** Oh no, MemeCore dipped slightly, but I am sure it is just taking a quick little nap before its next big adventure!
 
-![NEAR Graphic](images/10_DUMP_NEAR.png)
+![M Graphic](images/08_DUMP_M.png)
+
+---
+
+## 9. ​​Stable ($STABLE) — -0.97% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** When a token literally named Stable starts dumping, you know it is time to hide under the barn desk.
+
+![STABLE Graphic](images/09_DUMP_STABLE.png)
+
+---
+
+## 10. Algorand ($ALGO) — -1.04% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Algorand's negative yield delta further confirms my hypothesis that emotional retail trading consistently defies rational logic.
+
+![ALGO Graphic](images/10_DUMP_ALGO.png)
 
 ---
