@@ -1,80 +1,80 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Starknet ($STRK) — +21.89% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Up 21 percent today! I just remortgaged my cousin's pizza shop to go all-in, don't tell him until we hit Mars!
+## 1. Starknet ($STRK) — +28.04% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Up 28 percent today, which means I have already placed a deposit on a third cyber-yacht. Who needs basic financial literacy when Layer 2 pays for my lifestyle?
 
 ![STRK Graphic](images/01_PUMP_STRK.png)
 
 ---
 
-## 2. NEAR Protocol ($NEAR) — +13.11% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** NEAR is surging and my portfolio is looking smoother than a vintage Cabernet. Time to order the gold-plated pasture gates!
-
-![NEAR Graphic](images/02_PUMP_NEAR.png)
-
----
-
-## 3. Worldcoin ($WLD) — +12.61% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Scanning my irises for digital tokens has mathematically proven to be my highest yielding life decision. The green candles validate the dystopia!
-
-![WLD Graphic](images/03_PUMP_WLD.png)
-
----
-
-## 4. Aerodrome Finance ($AERO) — +11.74% (PUMP)
+## 2. Ether.fi ($ETHFI) — +10.56% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The winds of profit are blowing so gently today! I made enough gains to buy organic alfalfa for the whole herd!
+**CMC Comment:** The universe is aligning and restaking is healing my financial chakras! Up 10 percent today, we are all going to ascend straight to the moon together!
 
-![AERO Graphic](images/04_PUMP_AERO.png)
+![ETHFI Graphic](images/02_PUMP_ETHFI.png)
 
 ---
 
-## 5. Injective ($INJ) — +7.89% (PUMP)
+## 3. Venice Token ($VVV) — +8.51% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Injective is flexing hard today! Forget risk management, I'm backing the truck up and dumping everything into this green candle!
+**CMC Comment:** Venice is pumping, pal! I do not know what gondolas have to do with crypto, but my nephew says we are buying a canal by Tuesday!
 
-![INJ Graphic](images/05_PUMP_INJ.png)
+![VVV Graphic](images/03_PUMP_VVV.png)
 
 ---
 
-## 6. Canton ($CC) — -2.4% (DUMP)
+## 4. Aptos ($APT) — +8.08% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A minor drawdown proves that retail capital allocation remains inherently irrational. I shall continue holding these heavy bags for academic research.
+**CMC Comment:** Mathematically speaking, an eight percent green candle triggers an immediate neurochemical surge of unearned confidence in retail participants.
 
-![CC Graphic](images/06_DUMP_CC.png)
+![APT Graphic](images/04_PUMP_APT.png)
 
 ---
 
-## 7. Cosmos Hub ($ATOM) — -2.66% (DUMP)
+## 5. Algorand ($ALGO) — +7.97% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Cosmos is dropping faster than my net worth at a high-stakes poker table. I am pouring a very heavy drink right now.
+**CMC Comment:** Algorand is moving up! Time to update my social profile to Visionary Tech Architect before the chart remembers gravity exists.
 
-![ATOM Graphic](images/07_DUMP_ATOM.png)
-
----
-
-## 8. Jupiter ($JUP) — -3.07% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Jupiter is taking a tiny little nap right now! I am holding my bag very gently so it does not get scared away.
-
-![JUP Graphic](images/08_DUMP_JUP.png)
+![ALGO Graphic](images/05_PUMP_ALGO.png)
 
 ---
 
-## 9. Figure Heloc ($FIGR_HELOC) — -3.17% (DUMP)
+## 6. Polkadot ($DOT) — -0.6% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down over 3 percent and my liquidation alert is ringing louder than a fire truck! I am pretending my phone is broken.
+**CMC Comment:** Down less than one percent and people are screaming in the telegram like the sky is falling. Take a cold shower and hold the bag!
 
-![FIGR_HELOC Graphic](images/09_DUMP_FIGR_HELOC.png)
+![DOT Graphic](images/06_DUMP_DOT.png)
 
 ---
 
-## 10. MemeCore ($M) — -3.49% (DUMP)
+## 7. Stacks ($STX) — -0.7% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The decay of this meme asset highlights the inevitable thermodynamic entropy of speculative utility. My financial ruin is purely theoretical.
+**CMC Comment:** The slight contraction in valuation proves that stacking smart contracts on top of Bitcoin merely stacks the underlying existential dread.
+
+![STX Graphic](images/07_DUMP_STX.png)
+
+---
+
+## 8. ​​Stable ($STABLE) — -1.3% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh dear, even a token called Stable is losing its delicate balance! Sending pure light and calm energy to everyone whose portfolio is wobbling today.
+
+![STABLE Graphic](images/08_DUMP_STABLE.png)
+
+---
+
+## 9. JUST ($JST) — -1.52% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** It is JUST a tiny dip, folks, which is precisely what I told my landlord right before blocking his number!
+
+![JST Graphic](images/09_DUMP_JST.png)
+
+---
+
+## 10. MemeCore ($M) — -5.06% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down five percent on a coin called MemeCore? What did you expect, a dividend payout? Forget about it!
 
 ![M Graphic](images/10_DUMP_M.png)
 
