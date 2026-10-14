@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +15.46% (PUMP)
+## 1. Bitway ($BTW) — +18.48% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway just put up 15% and suddenly my cousin is calling himself a sovereign wealth fund manager. I'm leveraging the family farm as we speak!
+**CMC Comment:** Up 18% today, which means I've already leveraged my second mortgage to buy more because diversification is for cowards!
 
 ![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. Injective ($INJ) — +9.26% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Up 9% and the chat is acting like we solved world hunger. Put your pants back on, you're buying pizza with it anyway.
-
-![INJ Graphic](images/02_PUMP_INJ.png)
-
----
-
-## 3. Canton ($CC) — +5.55% (PUMP)
+## 2. Venice Token ($VVV) — +6.12% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** A green 5% candle is the universe's warm, gentle hug reminding us that line go up forever if you just believe hard enough!
+**CMC Comment:** The charts are singing sweet melodies of pure green light today! Venice is rising, just like my spiritual aura!
 
-![CC Graphic](images/03_PUMP_CC.png)
-
----
-
-## 4. Filecoin ($FIL) — +3.75% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Statistically, storing hard drives full of JPEG cows on-chain at a 3.75% premium is the exact peak of human civilizational progress.
-
-![FIL Graphic](images/04_PUMP_FIL.png)
+![VVV Graphic](images/02_PUMP_VVV.png)
 
 ---
 
-## 5. Uniswap ($UNI) — +3.39% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Three percent green on UNI means it's time to order the top-shelf champagne for the pasture tonight!
-
-![UNI Graphic](images/05_PUMP_UNI.png)
-
----
-
-## 6. Lighter ($LIT) — -5.9% (DUMP)
+## 3. Monero ($XMR) — +4.15% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Lighter went down 6% and took everyone's hopes and dreams with it. Don't look at me, I told you to keep your money under the mattress.
+**CMC Comment:** Up four percent and completely untraceable, just how I like my off-the-books construction deals.
 
-![LIT Graphic](images/06_DUMP_LIT.png)
+![XMR Graphic](images/03_PUMP_XMR.png)
 
 ---
 
-## 7. LayerZero ($ZRO) — -6.66% (DUMP)
+## 4. Pearl ($PRL) — +3.75% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The mathematical probability of bridging your assets down 6.66% to zero remains remarkably consistent with historical bovine folly.
+**CMC Comment:** A modest 3.75% uptick suggests the retail herd has temporarily mistaken shiny clam secretions for sound monetary policy.
 
-![ZRO Graphic](images/07_DUMP_ZRO.png)
+![PRL Graphic](images/04_PUMP_PRL.png)
 
 ---
 
-## 8. NEAR Protocol ($NEAR) — -6.94% (DUMP)
+## 5. Pyth Network ($PYTH) — +2.79% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** NEAR is down nearly 7%, which just means it's NEARer to the dirt where I usually sleep after a bad trade anyway.
+**CMC Comment:** It's pumping slightly, which clearly indicates a 100x moon mission is imminent and guaranteed!
 
-![NEAR Graphic](images/08_DUMP_NEAR.png)
+![PYTH Graphic](images/05_PUMP_PYTH.png)
 
 ---
 
-## 9. Starknet ($STRK) — -6.96% (DUMP)
+## 6. Ethena ($ENA) — -6.01% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down six percent already, looks like someone turned the synthetic yield machine into a trash compactor.
+
+![ENA Graphic](images/06_DUMP_ENA.png)
+
+---
+
+## 7. Sky ($SKY) — -7.03% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The sky is not falling, though this particular token certainly is, down 7% due to elementary economic friction.
+
+![SKY Graphic](images/07_DUMP_SKY.png)
+
+---
+
+## 8. KuCoin ($KCS) — -8.02% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Eight percent drop on an exchange token? Sounds like somebody's moving money out the back door in duffel bags.
+
+![KCS Graphic](images/08_DUMP_KCS.png)
+
+---
+
+## 9. Rain ($RAIN) — -8.16% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh no, Starknet dipped a tiny bit, but every red candle is just a seed waiting to grow into a glorious sunflower of liquidation!
+**CMC Comment:** The heavy clouds of sell orders are washing away our gains, but rain is just nature's way of resetting our chakras.
 
-![STRK Graphic](images/09_DUMP_STRK.png)
+![RAIN Graphic](images/09_DUMP_RAIN.png)
 
 ---
 
-## 10. MemeCore ($M) — -9.23% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down 9% on a coin called MemeCore? You bought a ticker symbol with one letter and expected a pension plan?
+## 10. Canton ($CC) — -8.75% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down nearly nine percent, but I'm holding all my bags straight into the abyss because real alpha never dies!
 
-![M Graphic](images/10_DUMP_M.png)
+![CC Graphic](images/10_DUMP_CC.png)
 
 ---
