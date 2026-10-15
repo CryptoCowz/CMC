@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +18.48% (PUMP)
+## 1. Akedo ($AKE) — +22.12% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 18% today, which means I've already leveraged my second mortgage to buy more because diversification is for cowards!
+**CMC Comment:** Up 22% in a day because nothing says sound monetary policy like an arcade token outperforming my 401k. Already looking at yacht listings.
 
-![BTW Graphic](images/01_PUMP_BTW.png)
-
----
-
-## 2. Venice Token ($VVV) — +6.12% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The charts are singing sweet melodies of pure green light today! Venice is rising, just like my spiritual aura!
-
-![VVV Graphic](images/02_PUMP_VVV.png)
+![AKE Graphic](images/01_PUMP_AKE.png)
 
 ---
 
-## 3. Monero ($XMR) — +4.15% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Up four percent and completely untraceable, just how I like my off-the-books construction deals.
-
-![XMR Graphic](images/03_PUMP_XMR.png)
-
----
-
-## 4. Pearl ($PRL) — +3.75% (PUMP)
+## 2. Starknet ($STRK) — +20.38% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A modest 3.75% uptick suggests the retail herd has temporarily mistaken shiny clam secretions for sound monetary policy.
+**CMC Comment:** A 20% green candle proves that zero-knowledge proofs are remarkably effective at hiding basic market rationality.
 
-![PRL Graphic](images/04_PUMP_PRL.png)
-
----
-
-## 5. Pyth Network ($PYTH) — +2.79% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** It's pumping slightly, which clearly indicates a 100x moon mission is imminent and guaranteed!
-
-![PYTH Graphic](images/05_PUMP_PYTH.png)
+![STRK Graphic](images/02_PUMP_STRK.png)
 
 ---
 
-## 6. Ethena ($ENA) — -6.01% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down six percent already, looks like someone turned the synthetic yield machine into a trash compactor.
-
-![ENA Graphic](images/06_DUMP_ENA.png)
-
----
-
-## 7. Sky ($SKY) — -7.03% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** The sky is not falling, though this particular token certainly is, down 7% due to elementary economic friction.
-
-![SKY Graphic](images/07_DUMP_SKY.png)
-
----
-
-## 8. KuCoin ($KCS) — -8.02% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Eight percent drop on an exchange token? Sounds like somebody's moving money out the back door in duffel bags.
-
-![KCS Graphic](images/08_DUMP_KCS.png)
-
----
-
-## 9. Rain ($RAIN) — -8.16% (DUMP)
+## 3. Pyth Network ($PYTH) — +18.28% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The heavy clouds of sell orders are washing away our gains, but rain is just nature's way of resetting our chakras.
+**CMC Comment:** The oracle told me we were going to the moon today and I believed every single pixel! Sending warm manifest vibes to the candles!
 
-![RAIN Graphic](images/09_DUMP_RAIN.png)
+![PYTH Graphic](images/03_PUMP_PYTH.png)
 
 ---
 
-## 10. Canton ($CC) — -8.75% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Down nearly nine percent, but I'm holding all my bags straight into the abyss because real alpha never dies!
+## 4. Venice Token ($VVV) — +8.51% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Venice is floatin' higher today and I'm loading up another gondola full of leveraged calls. Fuggetabout it!
 
-![CC Graphic](images/10_DUMP_CC.png)
+![VVV Graphic](images/04_PUMP_VVV.png)
+
+---
+
+## 5. LayerZero ($ZRO) — +7.89% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** LayerZero bridging sweet profits straight into my offshore account today. Smooth operators always find a way to win.
+
+![ZRO Graphic](images/05_PUMP_ZRO.png)
+
+---
+
+## 6. JUST ($JST) — -4.68% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** JUST down nearly five percent? That ain't just a dip, that's an insult to honest hustlers!
+
+![JST Graphic](images/06_DUMP_JST.png)
+
+---
+
+## 7. Pump.fun ($PUMP) — -5.08% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The structural irony of a token named Pump executing a textbook Dump is a fascinating study in psychological despair.
+
+![PUMP Graphic](images/07_DUMP_PUMP.png)
+
+---
+
+## 8. Lighter ($LIT) — -6.52% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh no, Lighter lost its spark! I'm sending positive cosmic energy so the candles find their inner flame again.
+
+![LIT Graphic](images/08_DUMP_LIT.png)
+
+---
+
+## 9. Canton ($CC) — -8.3% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Canton taking an 8% dive right before happy hour. Time to order another martini and pretend I never checked the charts.
+
+![CC Graphic](images/09_DUMP_CC.png)
+
+---
+
+## 10. Bitway ($BTW) — -21.07% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down 21% 'By The Way'? By the way, my landlord is knocking on the door and I'm hiding behind the couch!
+
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
