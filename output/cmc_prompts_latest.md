@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Akedo ($AKE) — +22.12% (PUMP)
+## 1. Injective ($INJ) — +12.4% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 22% in a day because nothing says sound monetary policy like an arcade token outperforming my 401k. Already looking at yacht listings.
+**CMC Comment:** Just refinanced my second barn to leverage long INJ at 50x because real financial freedom requires zero fear and zero basic math. To the stratosphere, fellas!
 
-![AKE Graphic](images/01_PUMP_AKE.png)
-
----
-
-## 2. Starknet ($STRK) — +20.38% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A 20% green candle proves that zero-knowledge proofs are remarkably effective at hiding basic market rationality.
-
-![STRK Graphic](images/02_PUMP_STRK.png)
+![INJ Graphic](images/01_PUMP_INJ.png)
 
 ---
 
-## 3. Pyth Network ($PYTH) — +18.28% (PUMP)
+## 2. Celestia ($TIA) — +10.51% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The oracle told me we were going to the moon today and I believed every single pixel! Sending warm manifest vibes to the candles!
+**CMC Comment:** The modular stars are aligning and TIA is showering us with pure cosmic wealth! I have already bought matching silk pajamas for my entire pasture.
 
-![PYTH Graphic](images/03_PUMP_PYTH.png)
-
----
-
-## 4. Venice Token ($VVV) — +8.51% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Venice is floatin' higher today and I'm loading up another gondola full of leveraged calls. Fuggetabout it!
-
-![VVV Graphic](images/04_PUMP_VVV.png)
+![TIA Graphic](images/02_PUMP_TIA.png)
 
 ---
 
-## 5. LayerZero ($ZRO) — +7.89% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** LayerZero bridging sweet profits straight into my offshore account today. Smooth operators always find a way to win.
-
-![ZRO Graphic](images/05_PUMP_ZRO.png)
-
----
-
-## 6. JUST ($JST) — -4.68% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** JUST down nearly five percent? That ain't just a dip, that's an insult to honest hustlers!
-
-![JST Graphic](images/06_DUMP_JST.png)
-
----
-
-## 7. Pump.fun ($PUMP) — -5.08% (DUMP)
+## 3. Filecoin ($FIL) — +8.56% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The structural irony of a token named Pump executing a textbook Dump is a fascinating study in psychological despair.
+**CMC Comment:** Storing decentralised data is finally yielding exponential capital appreciation, proving that basic server rack physics can indeed trigger irrational retail euphoria.
 
-![PUMP Graphic](images/07_DUMP_PUMP.png)
-
----
-
-## 8. Lighter ($LIT) — -6.52% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh no, Lighter lost its spark! I'm sending positive cosmic energy so the candles find their inner flame again.
-
-![LIT Graphic](images/08_DUMP_LIT.png)
+![FIL Graphic](images/03_PUMP_FIL.png)
 
 ---
 
-## 9. Canton ($CC) — -8.3% (DUMP)
+## 4. Bitway ($BTW) — +7.14% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Look at BTW moving up, baby! I told my wife's lawyer we are holding all the profits in offshore hardware wallets.
+
+![BTW Graphic](images/04_PUMP_BTW.png)
+
+---
+
+## 5. Ether.fi ($ETHFI) — +7.05% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Canton taking an 8% dive right before happy hour. Time to order another martini and pretend I never checked the charts.
+**CMC Comment:** Restaking yield on top of liquid staking yield on top of pure, unadulterated green candles is my favorite morning smoothie.
+
+![ETHFI Graphic](images/05_PUMP_ETHFI.png)
+
+---
+
+## 6. Pump.fun ($PUMP) — -3.78% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Pump.fun is currently dumping fun straight into my empty checking account. Who do I call to sue the dev who rugpulled my rent?
+
+![PUMP Graphic](images/06_DUMP_PUMP.png)
+
+---
+
+## 7. PancakeSwap ($CAKE) — -4.09% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh dear, the syrup is burning and everyone is running for the exit! I am holding my batter tight, but my soul feels deeply undercooked.
+
+![CAKE Graphic](images/07_DUMP_CAKE.png)
+
+---
+
+## 8. Venice Token ($VVV) — -4.63% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Venice Token appears to be sinking faster than its geographical namesake, confirming my thesis on aquatic liquidity decay.
+
+![VVV Graphic](images/08_DUMP_VVV.png)
+
+---
+
+## 9. Canton ($CC) — -6.24% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down six percent? That is just a tactical discount for visionary chads who enjoy buying falling knives in broad daylight!
 
 ![CC Graphic](images/09_DUMP_CC.png)
 
 ---
 
-## 10. Bitway ($BTW) — -21.07% (DUMP)
+## 10. Pyth Network ($PYTH) — -9.41% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down 21% 'By The Way'? By the way, my landlord is knocking on the door and I'm hiding behind the couch!
+**CMC Comment:** The oracle predicted my complete financial ruin down to the fourth decimal place. Thanks for the precision forecast, fellas!
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![PYTH Graphic](images/10_DUMP_PYTH.png)
 
 ---
