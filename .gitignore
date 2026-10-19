@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Retired per-coin chart art. The review digest stays tracked.
+output/images/
