@@ -1,0 +1,140 @@
+# Coins left off the CMC radar.
+#
+# One entry per line. A line matches the symbol, the coin name, or the
+# CoinGecko id. Matching ignores case. A # starts a note.
+#
+# Add a symbol, a name, or an id when scam or fraud news is already known.
+# This file does not fetch news.
+#
+# WhiteBIT Coin (WBT, id whitebit) is an exchange coin, so it is absent here.
+
+# Pegged cash, stablecoins, and tokenized treasury funds
+USDT
+tether
+USDC
+usd-coin
+USD Coin
+DAI
+dai
+USDS
+usds
+USDE
+ethena-usde
+Ethena USDe
+USD1
+usd1-wlfi
+USDG
+global-dollar
+Global Dollar
+PYUSD
+paypal-usd
+PayPal USD
+RLUSD
+ripple-usd
+Ripple USD
+USYC
+hashnote-usyc
+Circle USYC
+USDY
+ondo-us-dollar-yield
+Ondo US Dollar Yield
+BUIDL
+blackrock-usd-institutional-digital-liquidity-fund
+USDF
+falcon-finance
+Falcon USD
+USDD
+usdd
+united-stables
+United Stables
+BFUSD
+bfusd
+USDGO
+usdgo
+OUSD
+open-usd
+Open USD
+USTB
+superstate-short-duration-us-government-securities-fund-ustb
+GHO
+gho
+STABLE
+stable-2
+Stable
+spiko-amundi-overnight-swap-fund-eur
+FDUSD
+first-digital-usd
+TUSD
+true-usd
+USDP
+paxos-standard
+GUSD
+gemini-dollar
+FRAX
+frax
+LUSD
+liquity-usd
+CRVUSD
+crvusd
+EURC
+euro-coin
+EURS
+stasis-eurs
+SUSD
+nusd
+USDN
+neutrino
+USTC
+terrausd
+ALUSD
+alchemix-usd
+DOLA
+dola-usd
+MIM
+magic-internet-money
+SUSDE
+ethena-staked-usde
+SUSDS
+susds
+
+# Wrapped or staked stand-ins of a major coin
+WBTC
+wrapped-bitcoin
+WETH
+weth
+STETH
+staked-ether
+steth
+WSTETH
+wrapped-steth
+lido-finance-wsteth
+WEETH
+wrapped-eeth
+EETH
+WBETH
+wrapped-beacon-eth
+CBETH
+coinbase-wrapped-staked-eth
+RETH
+rocket-pool-eth
+CBBTC
+coinbase-wrapped-btc
+BTCB
+binance-bitcoin
+JITOSOL
+jito-staked-sol
+MSOL
+msol
+marinade-staked-sol
+BNSOL
+binance-staked-sol
+WSOL
+wrapped-solana
+WBNB
+wbnb
+LBTC
+lombard-staked-btc
+RSETH
+kelp-dao-restaked-eth
+EZETH
+renzo-restaked-eth

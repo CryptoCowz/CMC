@@ -1,54 +1,61 @@
-name: Daily Top Movers Market Scan & CMC Graphics
+name: CMC lesson radar
 
 on:
   schedule:
-    # Runs every day at 12:00 UTC (8:00 AM EDT)
+    # Daily 12:00 UTC. The script writes a digest only on Wednesday and
+    # Friday in America/New_York. Other days it exits cleanly.
     - cron: '0 12 * * *'
-  workflow_dispatch: # Allows manual run anytime from the GitHub Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write # Required for git push back to the repository
+  contents: write
 
 jobs:
-  run-market-scan:
+  radar:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          lfs: true # Ensures binary images tracked by Git LFS are fully pulled
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install system fonts
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y fonts-dejavu-core
-
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests google-genai pillow pydantic
+          pip install -r requirements.txt
 
-      - name: Run market scanner & image generator
+      - name: Build review digest
+        id: radar
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Optional. The public CoinGecko endpoint works with no key.
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+          FORCE_DIGEST: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: |
-          python scripts/scan_and_prompt.py
-
-      - name: Commit and push generated assets
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A output/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
+          set -o pipefail
+          python scripts/scan_and_prompt.py | tee /tmp/radar.log
+          if grep -qx 'DIGEST_WRITTEN=1' /tmp/radar.log; then
+            echo "wrote=true" >> "$GITHUB_OUTPUT"
           else
-            git commit -m "Auto-generate daily 10 CMC graphics & cleanup old images [skip ci]"
+            echo "wrote=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish digest in the job summary
+        if: steps.radar.outputs.wrote == 'true'
+        run: cat output/cmc_movers_latest.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit digest
+        if: steps.radar.outputs.wrote == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/cmc_movers_latest.md
+          if git diff --staged --quiet; then
+            echo "Digest unchanged"
+          else
+            git commit -m "chore: refresh CMC review digest"
             git push
           fi
