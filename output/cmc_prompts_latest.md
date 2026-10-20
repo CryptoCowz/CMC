@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Venice Token ($VVV) — +9.99% (PUMP)
+## 1. Pearl ($PEARL) — +13.16% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Venice Token is floating higher than my third alimony payment! Time to trade the gondola for a golden yacht, boys!
+**CMC Comment:** We are diving straight into liquid luxury with this green candle! I am trading my finest barn for a yacht with pearl-encrusted steering wheels.
 
-![VVV Graphic](images/01_PUMP_VVV.png)
+![PEARL Graphic](images/01_PUMP_PEARL.png)
 
 ---
 
-## 2. Arbitrum ($ARB) — +7.95% (PUMP)
+## 2. Worldcoin ($WLD) — +10.91% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, this sudden upward vector suggests retail traders have once again mistaken temporary liquidity for infinite prosperity.
+**CMC Comment:** Scanning your eyeballs for double-digit gains is a perfectly rational exchange of biological data. The empirical data proves that dystopia pays remarkably well.
 
-![ARB Graphic](images/02_PUMP_ARB.png)
+![WLD Graphic](images/02_PUMP_WLD.png)
 
 ---
 
-## 3. Morpho ($MORPHO) — +7.41% (PUMP)
+## 3. Pepe ($PEPE) — +10.18% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Morpho is changing shapes and soaring into the clouds! I knew if we all held hands and believed hard enough, green candle magic would happen!
+**CMC Comment:** The happy green froggy is leaping up to the clouds! I drew a picture of him riding a rocket made of pure joy and green candles.
 
-![MORPHO Graphic](images/03_PUMP_MORPHO.png)
+![PEPE Graphic](images/03_PUMP_PEPE.png)
 
 ---
 
-## 4. Worldcoin ($WLD) — +7.35% (PUMP)
+## 4. Aerodrome Finance ($AERO) — +9.91% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Scanned my eyeballs into the chrome orb and now I am up seven percent! Who needs privacy when you got green candles, pal?
+**CMC Comment:** We are taking off, baby! Strap me to this aerodynamic rocket and fly it straight to my offshore account before altitude sickness kicks in.
 
-![WLD Graphic](images/04_PUMP_WLD.png)
+![AERO Graphic](images/04_PUMP_AERO.png)
 
 ---
 
-## 5. LayerZero ($ZRO) — +6.94% (PUMP)
+## 5. MemeCore ($M) — +8.08% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** LayerZero going hero! Bridging my funds straight into a brand new sports car before the market realizes what happened.
+**CMC Comment:** MemeCore is pumping so fast I just renamed my prize heifer 'Meme'! True utility is whatever makes the green line shoot straight into the stratosphere.
 
-![ZRO Graphic](images/05_PUMP_ZRO.png)
+![M Graphic](images/05_PUMP_M.png)
 
 ---
 
-## 6. Aerodrome Finance ($AERO) — -2.71% (DUMP)
+## 6. World Liberty Financial ($WLFI) — -1.67% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Aerodrome just dumped out of the sky like a wet sack of concrete. Guess who is holding the propeller? Yours truly.
+**CMC Comment:** World Liberty? More like World Liability. I have seen fake gold chains on canal street with better structural integrity than this chart.
 
-![AERO Graphic](images/06_DUMP_AERO.png)
-
----
-
-## 7. Pearl ($PRL) — -4.18% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh no, Pearl is falling down the well! Don't worry little coin, I will keep holding you at the bottom forever and ever!
-
-![PRL Graphic](images/07_DUMP_PRL.png)
+![WLFI Graphic](images/06_DUMP_WLFI.png)
 
 ---
 
-## 8. World Liberty Financial ($WLFI) — -4.44% (DUMP)
+## 7. Figure Heloc ($FIGR_HELOC) — -2.15% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** World Liberty Financial taking a freedom dive straight into my emergency fund. Down four percent, but my patriotism remains unhedged!
+**CMC Comment:** Taking a home equity loan to buy a coin named HELOC was supposed to be financial synergy! Now the bank owns my tractor and my private key.
 
-![WLFI Graphic](images/08_DUMP_WLFI.png)
+![FIGR_HELOC Graphic](images/07_DUMP_FIGR_HELOC.png)
 
 ---
 
-## 9. MemeCore ($M) — -4.64% (DUMP)
+## 8. Arbitrum ($ARB) — -4.06% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Empirical evidence confirms that calling your token MemeCore yields an outcome as structurally sound as a house of cards in a hurricane.
+**CMC Comment:** My theoretical models predicted efficient Layer 2 scaling, yet failed to account for mass psychological capitulation. A truly fascinating study in unmitigated panic.
 
-![M Graphic](images/09_DUMP_M.png)
+![ARB Graphic](images/08_DUMP_ARB.png)
 
 ---
 
-## 10. Bitway ($BTW) — -18.56% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down eighteen percent on Bitway? By the way, my landlord is currently banging on the door and I am hiding under the kitchen sink.
+## 9. Stacks ($STX) — -5.02% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh no, the stacks are tumbling down like a game of Jenga! Don't worry little bagholders, I am sending warm hugs to your sad crypto wallets.
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![STX Graphic](images/09_DUMP_STX.png)
+
+---
+
+## 10. Morpho ($MORPHO) — -5.17% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Morpho is morphing straight into a puddle of my financial ruin. Get me out of this trade before my loan shark finds out!
+
+![MORPHO Graphic](images/10_DUMP_MORPHO.png)
 
 ---
