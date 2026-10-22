@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Ethena ($ENA) — +13.57% (PUMP)
+## 1. MemeCore ($M) — +24.95% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Just refinanced my barn to ape into Ethena because yield is a lifestyle, not a metric. Green candles do not lie, but my accountant definitely will.
+**CMC Comment:** I just leveraged my second pasture to long MemeCore, and honestly, retirement in Saint-Tropez is looking udderly guaranteed!
 
-![ENA Graphic](images/01_PUMP_ENA.png)
-
----
-
-## 2. Lighter ($LIT) — +9.82% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Lighter is sparking up again and I am already measuring my second yacht. Buy now or cry later when I buy your neighborhood!
-
-![LIT Graphic](images/02_PUMP_LIT.png)
+![M Graphic](images/01_PUMP_M.png)
 
 ---
 
-## 3. Zcash ($ZEC) — +9.81% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** My algorithmic models predicted Zcash privacy gains, though my colleagues insist it is purely statistical noise. Either way, green charts correlate strongly with my immediate happiness.
-
-![ZEC Graphic](images/03_PUMP_ZEC.png)
-
----
-
-## 4. XDC Network ($XDC) — +9.48% (PUMP)
+## 2. Akedo ($AKE) — +15.46% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** XDC is flying to the moon on good vibes and pure stardust today! I am sending cosmic hugs to everyone who held through the dark times.
+**CMC Comment:** The cosmic energy around Akedo is beaming green light straight into our third eye chakra today!
 
-![XDC Graphic](images/04_PUMP_XDC.png)
-
----
-
-## 5. Stacks ($STX) — +8.68% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Stacks is stacking gains so fast I had to order a second silk robe just to feel eligible to hold it. Bitcoin layer twos are making me dangerously wealthy!
-
-![STX Graphic](images/05_PUMP_STX.png)
+![AKE Graphic](images/02_PUMP_AKE.png)
 
 ---
 
-## 6. Morpho ($MORPHO) — -0.34% (DUMP)
+## 3. Bitway ($BTW) — +10.75% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down a fraction of a percent and people are already weeping in the chat. Liquidate your weak hands so real men can buy the microscopic dip!
+**CMC Comment:** Bitway is pumping so hard my wife stopped asking where the kids' college fund went.
 
-![MORPHO Graphic](images/06_DUMP_MORPHO.png)
+![BTW Graphic](images/03_PUMP_BTW.png)
 
 ---
 
-## 7. Aerodrome Finance ($AERO) — -0.52% (DUMP)
+## 4. Lighter ($LIT) — +4.07% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Up four percent and I am already browsing luxury pontoon boats online!
+
+![LIT Graphic](images/04_PUMP_LIT.png)
+
+---
+
+## 5. Monero ($XMR) — +1.64% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Aerodrome experienced a minor trajectory decay of 0.52 percent. Mathematically insignificant, yet sufficient to induce existential dread in novice retail investors.
+**CMC Comment:** A mathematically modest green tick, yet delightfully untraceable by tax authorities and barn accountants alike.
 
-![AERO Graphic](images/07_DUMP_AERO.png)
-
----
-
-## 8. MemeCore ($M) — -2.49% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** MemeCore slipping a bit, but real degens know a red day is just a discount on future delusion. Holding until I own a helicopter or a cardboard box.
-
-![M Graphic](images/08_DUMP_M.png)
+![XMR Graphic](images/05_PUMP_XMR.png)
 
 ---
 
-## 9. Monero ($XMR) — -2.75% (DUMP)
+## 6. Ether.fi ($ETHFI) — -9.2% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Monero is down slightly, probably because the tax man could not find the buy button. Keep dumping, losers, more ghost money for me.
+**CMC Comment:** Down nine percent? Great, now I gotta explain to my mother-in-law why restaking ruined our weekend.
 
-![XMR Graphic](images/09_DUMP_XMR.png)
+![ETHFI Graphic](images/06_DUMP_ETHFI.png)
 
 ---
 
-## 10. Bitway ($BTW) — -13.05% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh dear, Bitway took a nasty little tumble today! Remember sweet spirits, money is temporary but cosmic karma is forever, so hold those heavy bags with love!
+## 7. Filecoin ($FIL) — -9.43% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Decentralized storage seems to be storing nothing but acute psychological pain for current bagholders.
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![FIL Graphic](images/07_DUMP_FIL.png)
+
+---
+
+## 8. Ethena ($ENA) — -9.58% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Do not panic over the red candles, the universe is simply cleansing our portfolios of material attachment!
+
+![ENA Graphic](images/08_DUMP_ENA.png)
+
+---
+
+## 9. Stacks ($STX) — -9.77% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Stacks is stacking nothing but pure disappointment today. My portfolio is bleeding like a stuck pig.
+
+![STX Graphic](images/09_DUMP_STX.png)
+
+---
+
+## 10. LayerZero ($ZRO) — -14.94% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** LayerZero? More like Layer Hero-to-Zero, I am currently drafting a letter to my landlord asking for a grace decade.
+
+![ZRO Graphic](images/10_DUMP_ZRO.png)
 
 ---
