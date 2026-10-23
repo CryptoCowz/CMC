@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. MemeCore ($M) — +24.95% (PUMP)
+## 1. Akedo ($AKE) — +17.61% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** I just leveraged my second pasture to long MemeCore, and honestly, retirement in Saint-Tropez is looking udderly guaranteed!
+**CMC Comment:** Already leased a yacht I clearly can't afford. AKE to the moon, baby!
 
-![M Graphic](images/01_PUMP_M.png)
+![AKE Graphic](images/01_PUMP_AKE.png)
 
 ---
 
-## 2. Akedo ($AKE) — +15.46% (PUMP)
+## 2. Pepe ($PEPE) — +9.49% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The cosmic energy around Akedo is beaming green light straight into our third eye chakra today!
+**CMC Comment:** The green frog spirit revealed in a vision that wealth and eternal happiness are finally ours!
 
-![AKE Graphic](images/02_PUMP_AKE.png)
+![PEPE Graphic](images/02_PUMP_PEPE.png)
 
 ---
 
-## 3. Bitway ($BTW) — +10.75% (PUMP)
+## 3. Dash ($DASH) — +6.62% (PUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Quantitative models confirm that ancient cryptographic relics can indeed perform high-velocity pivots when market mania spikes.
+
+![DASH Graphic](images/03_PUMP_DASH.png)
+
+---
+
+## 4. Ethena ($ENA) — +5.24% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Bitway is pumping so hard my wife stopped asking where the kids' college fund went.
+**CMC Comment:** Look at that green candle! Forget risk management, I am taking out a second mortgage on the barn right now.
 
-![BTW Graphic](images/03_PUMP_BTW.png)
+![ENA Graphic](images/04_PUMP_ENA.png)
 
 ---
 
-## 4. Lighter ($LIT) — +4.07% (PUMP)
+## 5. Bitcoin Cash ($BCH) — +4.42% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up four percent and I am already browsing luxury pontoon boats online!
+**CMC Comment:** Satoshi's real vision is pumping and my new velvet suit is officially fully funded!
 
-![LIT Graphic](images/04_PUMP_LIT.png)
-
----
-
-## 5. Monero ($XMR) — +1.64% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A mathematically modest green tick, yet delightfully untraceable by tax authorities and barn accountants alike.
-
-![XMR Graphic](images/05_PUMP_XMR.png)
+![BCH Graphic](images/05_PUMP_BCH.png)
 
 ---
 
-## 6. Ether.fi ($ETHFI) — -9.2% (DUMP)
+## 6. Stacks ($STX) — -5.07% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down nine percent? Great, now I gotta explain to my mother-in-law why restaking ruined our weekend.
+**CMC Comment:** Unbelievable. Down five percent and my wife is already packing her bags for her mother's house.
 
-![ETHFI Graphic](images/06_DUMP_ETHFI.png)
-
----
-
-## 7. Filecoin ($FIL) — -9.43% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Decentralized storage seems to be storing nothing but acute psychological pain for current bagholders.
-
-![FIL Graphic](images/07_DUMP_FIL.png)
+![STX Graphic](images/06_DUMP_STX.png)
 
 ---
 
-## 8. Ethena ($ENA) — -9.58% (DUMP)
+## 7. MemeCore ($M) — -6.21% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Do not panic over the red candles, the universe is simply cleansing our portfolios of material attachment!
+**CMC Comment:** The red charts are just the cosmos testing our spiritual resolve before the ultimate karma rebirth!
 
-![ENA Graphic](images/08_DUMP_ENA.png)
+![M Graphic](images/07_DUMP_M.png)
 
 ---
 
-## 9. Stacks ($STX) — -9.77% (DUMP)
+## 8. Aerodrome Finance ($AERO) — -6.58% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Fascinating market dynamics where aerodynamic principles completely fail to prevent structural freefall.
+
+![AERO Graphic](images/08_DUMP_AERO.png)
+
+---
+
+## 9. Pearl ($PEARL) — -7.25% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Stacks is stacking nothing but pure disappointment today. My portfolio is bleeding like a stuck pig.
+**CMC Comment:** Clutching my pearls while my portfolio bleeds directly into the gutter. Absolute disaster!
 
-![STX Graphic](images/09_DUMP_STX.png)
+![PEARL Graphic](images/09_DUMP_PEARL.png)
 
 ---
 
-## 10. LayerZero ($ZRO) — -14.94% (DUMP)
+## 10. Lighter ($LIT) — -8.17% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** LayerZero? More like Layer Hero-to-Zero, I am currently drafting a letter to my landlord asking for a grace decade.
+**CMC Comment:** Looks like someone took a literal lighter to my life savings. Anyone got a spare couch in the pasture?
 
-![ZRO Graphic](images/10_DUMP_ZRO.png)
+![LIT Graphic](images/10_DUMP_LIT.png)
 
 ---
