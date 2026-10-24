@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Akedo ($AKE) — +17.61% (PUMP)
+## 1. MemeCore ($M) — +9.51% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Already leased a yacht I clearly can't afford. AKE to the moon, baby!
+**CMC Comment:** Up almost ten percent on pure, unadulterated vibes! I have already quit my day job and leased a second jet ski.
 
-![AKE Graphic](images/01_PUMP_AKE.png)
+![M Graphic](images/01_PUMP_M.png)
 
 ---
 
-## 2. Pepe ($PEPE) — +9.49% (PUMP)
+## 2. Bitway ($BTW) — +2.38% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** A green day is a green day, pal, even if it barely covers my morning coffee. Upward chart means we eat steak tonight!
+
+![BTW Graphic](images/02_PUMP_BTW.png)
+
+---
+
+## 3. JUST ($JST) — +0.41% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The green frog spirit revealed in a vision that wealth and eternal happiness are finally ours!
+**CMC Comment:** A zero point four percent pump is nature's gentle whisper that financial freedom is blossoming! Every tiny step brings us closer to the moon pasture.
 
-![PEPE Graphic](images/02_PUMP_PEPE.png)
+![JST Graphic](images/03_PUMP_JST.png)
 
 ---
 
-## 3. Dash ($DASH) — +6.62% (PUMP)
+## 4. Spiko Amundi Overnight Swap Fund (EUR) ($EURSAFO) — +0.08% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Quantitative models confirm that ancient cryptographic relics can indeed perform high-velocity pivots when market mania spikes.
+**CMC Comment:** Fascinating, a 0.08% surge in institutional yield derivatives. The sheer velocity of this gain is practically quantum in nature.
 
-![DASH Graphic](images/03_PUMP_DASH.png)
-
----
-
-## 4. Ethena ($ENA) — +5.24% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Look at that green candle! Forget risk management, I am taking out a second mortgage on the barn right now.
-
-![ENA Graphic](images/04_PUMP_ENA.png)
+![EURSAFO Graphic](images/04_PUMP_EURSAFO.png)
 
 ---
 
-## 5. Bitcoin Cash ($BCH) — +4.42% (PUMP)
+## 5. Ondo US Dollar Yield ($USDY) — +0.08% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Satoshi's real vision is pumping and my new velvet suit is officially fully funded!
+**CMC Comment:** Look at that massive decimal move! Time to pop the cheap champagne and pretend we understand global yields.
 
-![BCH Graphic](images/05_PUMP_BCH.png)
+![USDY Graphic](images/05_PUMP_USDY.png)
 
 ---
 
-## 6. Stacks ($STX) — -5.07% (DUMP)
+## 6. Cosmos Hub ($ATOM) — -9.22% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Unbelievable. Down five percent and my wife is already packing her bags for her mother's house.
+**CMC Comment:** The cosmos is expanding, but my portfolio is shrinking into a black hole. Time to sell the kid's college fund to average down!
 
-![STX Graphic](images/06_DUMP_STX.png)
+![ATOM Graphic](images/06_DUMP_ATOM.png)
 
 ---
 
-## 7. MemeCore ($M) — -6.21% (DUMP)
+## 7. NEAR Protocol ($NEAR) — -9.8% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The red charts are just the cosmos testing our spiritual resolve before the ultimate karma rebirth!
+**CMC Comment:** The universe is just resetting NEAR's energy so it can grow stronger later. Please ignore the crying sounds coming from my wallet.
 
-![M Graphic](images/07_DUMP_M.png)
+![NEAR Graphic](images/07_DUMP_NEAR.png)
 
 ---
 
-## 8. Aerodrome Finance ($AERO) — -6.58% (DUMP)
+## 8. Pepe ($PEPE) — -11.77% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Fascinating market dynamics where aerodynamic principles completely fail to prevent structural freefall.
+**CMC Comment:** Empirically speaking, amphibian-based assets exhibit extreme volatility during liquidity drains. The statistical probability of bagholding is now nearing 100%.
 
-![AERO Graphic](images/08_DUMP_AERO.png)
-
----
-
-## 9. Pearl ($PEARL) — -7.25% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Clutching my pearls while my portfolio bleeds directly into the gutter. Absolute disaster!
-
-![PEARL Graphic](images/09_DUMP_PEARL.png)
+![PEPE Graphic](images/08_DUMP_PEPE.png)
 
 ---
 
-## 10. Lighter ($LIT) — -8.17% (DUMP)
+## 9. Worldcoin ($WLD) — -12.63% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Looks like someone took a literal lighter to my life savings. Anyone got a spare couch in the pasture?
+**CMC Comment:** I scanned my eyeballs for this coin and all I got was a twelve percent loss and a blurry retina.
 
-![LIT Graphic](images/10_DUMP_LIT.png)
+![WLD Graphic](images/09_DUMP_WLD.png)
+
+---
+
+## 10. Akedo ($AKE) — -16.21% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down sixteen percent faster than a greasy anvil dropped off a roof. Downside momentum is the only thing working around here!
+
+![AKE Graphic](images/10_DUMP_AKE.png)
 
 ---
