@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. MemeCore ($M) — +9.51% (PUMP)
+## 1. Ethena ($ENA) — +10.03% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up almost ten percent on pure, unadulterated vibes! I have already quit my day job and leased a second jet ski.
+**CMC Comment:** Synthetic dollars are pumping so hard I just remortgaged the pasture to buy more yield. Generational wealth is back on the menu, boys!
 
-![M Graphic](images/01_PUMP_M.png)
-
----
-
-## 2. Bitway ($BTW) — +2.38% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** A green day is a green day, pal, even if it barely covers my morning coffee. Upward chart means we eat steak tonight!
-
-![BTW Graphic](images/02_PUMP_BTW.png)
+![ENA Graphic](images/01_PUMP_ENA.png)
 
 ---
 
-## 3. JUST ($JST) — +0.41% (PUMP)
+## 2. Rain ($RAIN) — +8.41% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** A zero point four percent pump is nature's gentle whisper that financial freedom is blossoming! Every tiny step brings us closer to the moon pasture.
+**CMC Comment:** When it rains gainz, everybody gets soaked in pure cosmic energy! I'm holding this green candle until my third eye fully opens.
 
-![JST Graphic](images/03_PUMP_JST.png)
+![RAIN Graphic](images/02_PUMP_RAIN.png)
 
 ---
 
-## 4. Spiko Amundi Overnight Swap Fund (EUR) ($EURSAFO) — +0.08% (PUMP)
+## 3. Quant ($QNT) — +7.38% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Fascinating, a 0.08% surge in institutional yield derivatives. The sheer velocity of this gain is practically quantum in nature.
+**CMC Comment:** The interoperability metrics are displaying a statistically significant upward trajectory. Clearly, institutional capital has finally recognized my algorithmic superiority.
 
-![EURSAFO Graphic](images/04_PUMP_EURSAFO.png)
-
----
-
-## 5. Ondo US Dollar Yield ($USDY) — +0.08% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Look at that massive decimal move! Time to pop the cheap champagne and pretend we understand global yields.
-
-![USDY Graphic](images/05_PUMP_USDY.png)
+![QNT Graphic](images/03_PUMP_QNT.png)
 
 ---
 
-## 6. Cosmos Hub ($ATOM) — -9.22% (DUMP)
+## 4. Dash ($DASH) — +7.37% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** The cosmos is expanding, but my portfolio is shrinking into a black hole. Time to sell the kid's college fund to average down!
+**CMC Comment:** What year is it, 2017? Hey, if it makes me fast cash so I can pay off my bookie, I ain't asking no questions!
 
-![ATOM Graphic](images/06_DUMP_ATOM.png)
+![DASH Graphic](images/04_PUMP_DASH.png)
 
 ---
 
-## 7. NEAR Protocol ($NEAR) — -9.8% (DUMP)
+## 5. Zcash ($ZEC) — +6.7% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Privacy coins pumping means somebody's moving clean cash under the table. Keep your mouth shut and enjoy the green rocket!
+
+![ZEC Graphic](images/05_PUMP_ZEC.png)
+
+---
+
+## 6. Pi Network ($PI) — -0.72% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** You spent three years tapping your smartphone screen once a day for a price drop? Absolute financial genius right there.
+
+![PI Graphic](images/06_DUMP_PI.png)
+
+---
+
+## 7. Akedo ($AKE) — -1.85% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** A downward variance, yet bagholders remain convinced their pixelated ecosystem holds intrinsic economic value. Fascinating delusion.
+
+![AKE Graphic](images/07_DUMP_AKE.png)
+
+---
+
+## 8. XDC Network ($XDC) — -3.35% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down three percent and the Telegram group is screaming market manipulation. Listen up, kids: you bought a bag, now sit on it like a real boss.
+
+![XDC Graphic](images/08_DUMP_XDC.png)
+
+---
+
+## 9. MemeCore ($M) — -4.4% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is just resetting NEAR's energy so it can grow stronger later. Please ignore the crying sounds coming from my wallet.
+**CMC Comment:** The universe is just clearing out the toxic paper hands to make room for higher vibrational hodlers. Unplug from the charts and manifest the bounce!
 
-![NEAR Graphic](images/07_DUMP_NEAR.png)
-
----
-
-## 8. Pepe ($PEPE) — -11.77% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Empirically speaking, amphibian-based assets exhibit extreme volatility during liquidity drains. The statistical probability of bagholding is now nearing 100%.
-
-![PEPE Graphic](images/08_DUMP_PEPE.png)
+![M Graphic](images/09_DUMP_M.png)
 
 ---
 
-## 9. Worldcoin ($WLD) — -12.63% (DUMP)
+## 10. Bitway ($BTW) — -5.78% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** I scanned my eyeballs for this coin and all I got was a twelve percent loss and a blurry retina.
+**CMC Comment:** More like Bitway to the food stamp line, am I right? Dumped my bag straight into the liquidator's lap and didn't look back.
 
-![WLD Graphic](images/09_DUMP_WLD.png)
-
----
-
-## 10. Akedo ($AKE) — -16.21% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down sixteen percent faster than a greasy anvil dropped off a roof. Downside momentum is the only thing working around here!
-
-![AKE Graphic](images/10_DUMP_AKE.png)
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
