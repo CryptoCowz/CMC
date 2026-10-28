@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +16.02% (PUMP)
+## 1. Bitway ($BTW) — +12.78% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 16% today, which means I am officially taking out a third mortgage to double down on Bitway. We are taking this rocket ship straight to financial freedom or total ruin, baby!
+**CMC Comment:** Bitway is pumping so hard I just remortgaged my barn to buy more before we hit the stratosphere! We are all gonna make it, moon cows!
 
 ![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. MemeCore ($M) — +8.5% (PUMP)
+## 2. Pepe ($PEPE) — +10.26% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** A green frog making green money, listen to me, if you ain't buying PEPE right now you're an absolute clown.
+
+![PEPE Graphic](images/02_PUMP_PEPE.png)
+
+---
+
+## 3. MemeCore ($M) — +5.76% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is aligning through MemeCore today! When the green candles glow this brightly, my chakras practically vibrate with sheer unadulterated prosperity.
+**CMC Comment:** The universe is aligning through MemeCore's divine green candle, sending love and generational wealth to all our pasture friends!
 
-![M Graphic](images/02_PUMP_M.png)
-
----
-
-## 3. Zcash ($ZEC) — +5.11% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Look at Zcash moving up over five percent! If anyone asks, I was never here, you never saw me, and this profit is untraceable.
-
-![ZEC Graphic](images/03_PUMP_ZEC.png)
+![M Graphic](images/03_PUMP_M.png)
 
 ---
 
-## 4. Bitcoin Cash ($BCH) — +4.26% (PUMP)
+## 4. LEO Token ($LEO) — +4.05% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A 4.26% expansion in Bitcoin Cash demonstrates classical momentum elasticity. Statistically speaking, retail investors will FOMO at the absolute peak in approximately three hours.
+**CMC Comment:** Statistically speaking, a 4 percent increase in LEO token signifies a temporary localized anomaly in market greed index parameters.
 
-![BCH Graphic](images/04_PUMP_BCH.png)
+![LEO Graphic](images/04_PUMP_LEO.png)
 
 ---
 
-## 5. Dash ($DASH) — +3.62% (PUMP)
+## 5. Litecoin ($LTC) — +3.58% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Dash is pumping again and my wife's boyfriend just asked me for trading advice. We are so back, fellas!
+**CMC Comment:** Digital silver is back, baby! I've already picked out the color of my second yacht!
 
-![DASH Graphic](images/05_PUMP_DASH.png)
+![LTC Graphic](images/05_PUMP_LTC.png)
 
 ---
 
-## 6. Midnight ($NIGHT) — -2.89% (DUMP)
+## 6. XDC Network ($XDC) — -2.89% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Midnight is down almost three percent and my wallet looks pitch black. Time to call my guys down at the docks to clean up this disaster.
+**CMC Comment:** XDC is dropping faster than my patience with these weak-handed paper-cut bagholders. Unbelievable.
 
-![NIGHT Graphic](images/06_DUMP_NIGHT.png)
+![XDC Graphic](images/06_DUMP_XDC.png)
 
 ---
 
-## 7. Pyth Network ($PYTH) — -3.18% (DUMP)
+## 7. Injective ($INJ) — -3.02% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Pyth Network's oracle feed failed to predict its own price collapse today. A fascinating empirical study in cognitive dissonance and bags of holding.
+**CMC Comment:** The current structural collapse of Injective perfectly illustrates the entropy inherent to speculative liquidity pools.
 
-![PYTH Graphic](images/07_DUMP_PYTH.png)
+![INJ Graphic](images/07_DUMP_INJ.png)
 
 ---
 
-## 8. Quant ($QNT) — -3.55% (DUMP)
+## 8. Lighter ($LIT) — -3.92% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Quant is experiencing a temporary realignment of energy, standard market recalibration! Please send positive vibrations to my portfolio so it stops bleeding red.
+**CMC Comment:** Lighter token is burning down our portfolio dreams, but remember that out of the ashes comes spiritual growth and cheaper entry points.
 
-![QNT Graphic](images/08_DUMP_QNT.png)
-
----
-
-## 9. Sky ($SKY) — -4.24% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Sky is falling faster than my self-esteem on a Sunday night. Good thing I only invested my kid's college fund and my life savings!
-
-![SKY Graphic](images/09_DUMP_SKY.png)
+![LIT Graphic](images/08_DUMP_LIT.png)
 
 ---
 
-## 10. Rain ($RAIN) — -9.61% (DUMP)
+## 9. Ethena ($ENA) — -4.26% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Rain is washing away nearly ten percent of my net worth today. Someone get me a shovel and a bag of concrete, because this token is officially dead to me.
+**CMC Comment:** Down over 4 percent in a day? I'm callin' my cousin Tony to figure out who turned off the buy button on ENA.
 
-![RAIN Graphic](images/10_DUMP_RAIN.png)
+![ENA Graphic](images/09_DUMP_ENA.png)
+
+---
+
+## 10. Venice Token ($VVV) — -6.1% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Venice Token is sinking faster than the actual city of Venice, and my wife's lawyer is already drafting the divorce papers!
+
+![VVV Graphic](images/10_DUMP_VVV.png)
 
 ---
