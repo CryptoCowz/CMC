@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Sky ($SKY) — +3.99% (PUMP)
+## 1. Stacks ($STX) — +15.62% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up nearly 4% and I'm already ordering a custom leather jacket to match the trajectory. The sky is literally the limit, or at least my credit line is!
+**CMC Comment:** Just quit my day job to stack smart contracts full time. Satoshi himself couldn't stop this glorious green candle from buying my next yacht.
 
-![SKY Graphic](images/01_PUMP_SKY.png)
-
----
-
-## 2. Midnight ($NIGHT) — +1.12% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Up 1.12% into the magical night! The stars are aligning for pure organic cosmic gains and the baseline energy feels super dreamy!
-
-![NIGHT Graphic](images/02_PUMP_NIGHT.png)
+![STX Graphic](images/01_PUMP_STX.png)
 
 ---
 
-## 3. LayerZero ($ZRO) — +1.05% (PUMP)
+## 2. Morpho ($MORPHO) — +14.1% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** LayerZero up one percent? Hey, a win's a win pal, I'm buying the whole diner coffee for everyone on my tab!
+**CMC Comment:** Yield optimizations are morphing straight into my offshore account, keep pumping it you beautiful idiots!
 
-![ZRO Graphic](images/03_PUMP_ZRO.png)
+![MORPHO Graphic](images/02_PUMP_MORPHO.png)
 
 ---
 
-## 4. TRON ($TRX) — +0.75% (PUMP)
+## 3. Ether.fi ($ETHFI) — +7.99% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Statistically speaking, a 0.75% increase in TRON merely demonstrates micro-velocity stability, but the retail herd insists on calling it a parabolic moonshot.
+**CMC Comment:** Economically speaking, liquid restaking surges are driven by collective cognitive dissonance, yet my portfolio is up eight percent so logic is irrelevant.
 
-![TRX Graphic](images/04_PUMP_TRX.png)
+![ETHFI Graphic](images/03_PUMP_ETHFI.png)
 
 ---
 
-## 5. Bitcoin Cash ($BCH) — +0.32% (PUMP)
+## 4. Aave ($AAVE) — +7.97% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** A solid 0.32% pump! Put on your shades folks, generational wealth isn't coming, it is already knocking gently at the door!
+**CMC Comment:** Liquidation protocols? More like liquidity straight into my champagne bucket! We are never seeing double digits again, boys!
 
-![BCH Graphic](images/05_PUMP_BCH.png)
-
----
-
-## 6. Ethena ($ENA) — -10.88% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down almost eleven percent? Forget about it, my nephew told me this was a sure thing and now I am sleeping in my Chrysler!
-
-![ENA Graphic](images/06_DUMP_ENA.png)
+![AAVE Graphic](images/04_PUMP_AAVE.png)
 
 ---
 
-## 7. Venice Token ($VVV) — -11.04% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** The mathematical regression of Venice Token suggests the gondola is taking on heavy ballast, yet bagholders remain utterly fascinated by the descent.
-
-![VVV Graphic](images/07_DUMP_VVV.png)
-
----
-
-## 8. Injective ($INJ) — -11.21% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Injective injected a giant hole straight into my kids' college fund! Who do I gotta talk to around here to reverse a blockchain transaction?!
-
-![INJ Graphic](images/08_DUMP_INJ.png)
-
----
-
-## 9. Lighter ($LIT) — -13.6% (DUMP)
+## 5. Lighter ($LIT) — +6.35% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh dear, Lighter got extinguished super fast! Sending gentle soothing vibrations to everyone currently holding these heavy charred bags!
+**CMC Comment:** The universe shines so brightly today as Lighter ignites our spiritual wealth! Spread the positive vibes and buy the top!
 
-![LIT Graphic](images/09_DUMP_LIT.png)
+![LIT Graphic](images/05_PUMP_LIT.png)
 
 ---
 
-## 10. Bitway ($BTW) — -23.61% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Down 23%? By the way, that's just a tactical flash sale before we hit intergalactic valuation! Buy the dip, baby!
+## 6. Rain ($RAIN) — -4.43% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Rain is falling alright, straight onto my burning trash fire of a portfolio. Who turned off the damn tap?
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![RAIN Graphic](images/06_DUMP_RAIN.png)
+
+---
+
+## 7. Hyperliquid ($HYPE) — -4.56% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Empirical data suggests that purchasing assets at peak hype results in standard retail capitulation, a phenomenon currently metastasizing in your accounts.
+
+![HYPE Graphic](images/07_DUMP_HYPE.png)
+
+---
+
+## 8. MemeCore ($M) — -5.36% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** MemeCore? More like Core Disaster, I am holding a bag so heavy it is actively warping space-time.
+
+![M Graphic](images/08_DUMP_M.png)
+
+---
+
+## 9. Bitway ($BTW) — -5.46% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh no, Bitway is dipping, but maybe the red candles are just the cosmos teaching us to practice spiritual detachment from earthly gains?
+
+![BTW Graphic](images/09_DUMP_BTW.png)
+
+---
+
+## 10. TRON ($TRX) — -7.25% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Justin Sun told me to stay calm, but my margin call doesn't read Telegram messages. Time to liquidate the family lawnmower.
+
+![TRX Graphic](images/10_DUMP_TRX.png)
 
 ---
