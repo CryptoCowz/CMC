@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Monero ($XMR) — +1.97% (PUMP)
+## 1. Lighter ($LIT) — +9.49% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Nothing says total financial freedom like a subtle green tick while tax authorities sweat in the dark. Time to start window shopping for untraceable yachts.
+**CMC Comment:** Just remortgaged the pasture to put it all into LIT! Who needs shelter when you are riding a rocket straight to financial freedom?
 
-![XMR Graphic](images/01_PUMP_XMR.png)
-
----
-
-## 2. Beldex ($BDX) — +1.81% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, a modest micro-surge in privacy infrastructure validates our hypothesis of relentless retail optimism. We are destined for galactic wealth, or at least a warm muffin.
-
-![BDX Graphic](images/02_PUMP_BDX.png)
+![LIT Graphic](images/01_PUMP_LIT.png)
 
 ---
 
-## 3. TRON ($TRX) — +1.76% (PUMP)
+## 2. LayerZero ($ZRO) — +8.6% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Look at Justin Sun pumping the charts again. I'm taking out a second mortgage and buying the whole neighborhood back with this green candle.
+**CMC Comment:** LayerZero is up eight percent and suddenly every degenerate thinks they are a genius trader. Take your profits before the smart money pulls the plug, pal.
 
-![TRX Graphic](images/03_PUMP_TRX.png)
+![ZRO Graphic](images/02_PUMP_ZRO.png)
 
 ---
 
-## 4. HTX DAO ($HTX) — +1.71% (PUMP)
+## 3. Pump.fun ($PUMP) — +8.19% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh look, the little green numbers are floating up like happy bubblegum bubbles! Everyone holding a fraction of a penny is about to become a trillionaire.
+**CMC Comment:** The cosmic vibrations on Pump.fun are soaring today! I manifested this green candle by aligning my third eye with the liquidity pool.
 
-![HTX Graphic](images/04_PUMP_HTX.png)
-
----
-
-## 5. Tether Gold ($XAUT) — +1.5% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Gold backed by digital promises is pumping, baby! Cash out your real estate, we are boomer-metal maxis now.
-
-![XAUT Graphic](images/05_PUMP_XAUT.png)
+![PUMP Graphic](images/03_PUMP_PUMP.png)
 
 ---
 
-## 6. Ether.fi ($ETHFI) — -6.43% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Liquid restaking? More like liquidating my entire retirement into a sewer. Who sold, tell me who I gotta call!
-
-![ETHFI Graphic](images/06_DUMP_ETHFI.png)
-
----
-
-## 7. Ethena ($ENA) — -6.55% (DUMP)
+## 4. Midnight ($NIGHT) — +5.6% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Synthetic dollar yield algorithms have predictably degraded into widespread emotional trauma. Panic selling at a severe loss remains the most human reaction possible.
+**CMC Comment:** The mathematical probability of this Midnight rally sustaining itself is mathematically negligible, yet retail greed remains utterly indifferent to physics.
 
-![ENA Graphic](images/07_DUMP_ENA.png)
-
----
-
-## 8. Zcash ($ZEC) — -6.98% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The privacy shields couldn't hide my tears from this giant red candle. Don't worry friends, bagholding builds wonderful spiritual character!
-
-![ZEC Graphic](images/08_DUMP_ZEC.png)
+![NIGHT Graphic](images/04_PUMP_NIGHT.png)
 
 ---
 
-## 9. Venice Token ($VVV) — -7.35% (DUMP)
+## 5. Venice Token ($VVV) — +5.56% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** The gondola is taking on heavy water, folks! Grab a life vest and panic-dump at the bottom before we hit the canal bed.
+**CMC Comment:** Venice Token is floating up faster than a speed boat on champagne! I am already customizing my second neon yacht.
 
-![VVV Graphic](images/09_DUMP_VVV.png)
+![VVV Graphic](images/05_PUMP_VVV.png)
 
 ---
 
-## 10. NEAR Protocol ($NEAR) — -9.09% (DUMP)
+## 6. NEAR Protocol ($NEAR) — -1.58% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** NEAR is getting way too far away from my breakeven point. I'm holding these heavy bags until my knuckles bleed.
+**CMC Comment:** NEAR is dropping like a sack of wet cement. Keep holding those heavy bags, buddy, while real men short you into the ground.
 
-![NEAR Graphic](images/10_DUMP_NEAR.png)
+![NEAR Graphic](images/06_DUMP_NEAR.png)
+
+---
+
+## 7. Stacks ($STX) — -1.68% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** A fascinating psychological display: Stacks investors routinely confuse a slow portfolio hemorrhage with a calculated accumulation phase.
+
+![STX Graphic](images/07_DUMP_STX.png)
+
+---
+
+## 8. Quant ($QNT) — -1.94% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Quant is just taking a gentle sleep to cleanse its aura. I sprayed essential oils on my ledger to help the chart heal!
+
+![QNT Graphic](images/08_DUMP_QNT.png)
+
+---
+
+## 9. Kaspa ($KAS) — -3.62% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Kaspa drops three percent and the tears in the group chat are glorious. Panic sell your tokens so I can buy your trash for dirt cheap.
+
+![KAS Graphic](images/09_DUMP_KAS.png)
+
+---
+
+## 10. Bitway ($BTW) — -6.31% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Bitway down six percent? That is not a loss, that is a golden ultra-discount before the guaranteed thousand-percent moonshot!
+
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
