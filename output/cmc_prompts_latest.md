@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Injective ($INJ) — +9.42% (PUMP)
+## 1. Pearl ($PEARL) — +4.83% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Just refinanced my barn to market-buy INJ at the local peak because risk management is for poor people. See you on Mars, exit liquidity!
+**CMC Comment:** Clam digging paid off, boys! Up four percent means I can afford real caviar on my jet ski this weekend.
 
-![INJ Graphic](images/01_PUMP_INJ.png)
-
----
-
-## 2. PancakeSwap ($CAKE) — +8.98% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** I am flipping sweet syrup-covered yield until my wallet explodes with pure joy! Who needs real calories when digital pastries send you straight to the stratosphere?
-
-![CAKE Graphic](images/02_PUMP_CAKE.png)
+![PEARL Graphic](images/01_PUMP_PEARL.png)
 
 ---
 
-## 3. Stacks ($STX) — +8.05% (PUMP)
+## 2. Bitway ($BTW) — +4.65% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Look here pal, STX is pumping and I already told my wife's divorce lawyer we're settled in green candles. Don't you dare touch my 50x leverage!
+**CMC Comment:** Look at this beauty moving up! Keep buying or I send my cousin Tony to audit your portfolio.
 
-![STX Graphic](images/03_PUMP_STX.png)
+![BTW Graphic](images/02_PUMP_BTW.png)
 
 ---
 
-## 4. Bitway ($BTW) — +7.23% (PUMP)
+## 3. Injective ($INJ) — +3.39% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, this parabolic trajectory of Bitway represents pure irrational euphoria. Yet my quantitative algorithms insist we hold until cosmic heat death.
+**CMC Comment:** A modest upward variance in Injective; clearly the market is finally appreciating my theoretical whitepaper on decentralization.
 
-![BTW Graphic](images/04_PUMP_BTW.png)
-
----
-
-## 5. Quant ($QNT) — +7.15% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Interoperability is just a fancy word for buying another yacht. Up seven percent means champagne for breakfast and zero questions asked!
-
-![QNT Graphic](images/05_PUMP_QNT.png)
+![INJ Graphic](images/03_PUMP_INJ.png)
 
 ---
 
-## 6. Filecoin ($FIL) — -2.24% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** You're telling me decentralized storage can't even store the value of my original investment? What a complete dump job, get out of here!
-
-![FIL Graphic](images/06_DUMP_FIL.png)
-
----
-
-## 7. Venice Token ($VVV) — -2.61% (DUMP)
+## 4. Figure Heloc ($FIGR_HELOC) — +1.61% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The gondolas in Venice are sinking so softly today, but true love and dedicated bagholding endure forever under the red sky.
+**CMC Comment:** Borrowing against my home to buy home-equity tokens feels like a beautiful cosmic feedback loop of pure abundance!
 
-![VVV Graphic](images/07_DUMP_VVV.png)
-
----
-
-## 8. LayerZero ($ZRO) — -3.62% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** LayerZero seems to be living up to its numerical suffix as portfolio capital vanishes seamlessly into a quantum void of negative returns.
-
-![ZRO Graphic](images/08_DUMP_ZRO.png)
+![FIGR_HELOC Graphic](images/04_PUMP_FIGR_HELOC.png)
 
 ---
 
-## 9. MemeCore ($M) — -3.92% (DUMP)
+## 5. Tether Gold ($XAUT) — +1.06% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** MemeCore is dumping faster than my third marriage, but real alpha male traders just average down until complete financial ruin.
+**CMC Comment:** One percent green on digital shiny metal! Time to order the gold-leaf steak and leverage my entire retirement account.
 
-![M Graphic](images/09_DUMP_M.png)
+![XAUT Graphic](images/05_PUMP_XAUT.png)
 
 ---
 
-## 10. World Liberty Financial ($WLFI) — -7.63% (DUMP)
+## 6. Ondo ($ONDO) — -8.76% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** World Liberty Financial? More like World Liberty Free-Fall! My cousin's neighborhood bookie runs tighter risk management than this chart.
+**CMC Comment:** Down almost nine percent? I've seen kneecaps break with less painful drops than this junk.
 
-![WLFI Graphic](images/10_DUMP_WLFI.png)
+![ONDO Graphic](images/06_DUMP_ONDO.png)
+
+---
+
+## 7. NEAR Protocol ($NEAR) — -8.82% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The term NEAR is fitting, as retail investors are now dangerously near total economic ruin.
+
+![NEAR Graphic](images/07_DUMP_NEAR.png)
+
+---
+
+## 8. Ethena ($ENA) — -8.94% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** The charts are just shedding negative energy right now, so please send your love and remaining liquidity to the universe.
+
+![ENA Graphic](images/08_DUMP_ENA.png)
+
+---
+
+## 9. Ether.fi ($ETHFI) — -9.8% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down nearly ten percent and my margin call is ringing louder than my ex-wife's lawyer!
+
+![ETHFI Graphic](images/09_DUMP_ETHFI.png)
+
+---
+
+## 10. Uniswap ($UNI) — -10.13% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Unicorn? More like a donkey taking a massive dump right on my life savings!
+
+![UNI Graphic](images/10_DUMP_UNI.png)
 
 ---
