@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pearl ($PEARL) — +4.83% (PUMP)
+## 1. Ether.fi ($ETHFI) — +10.93% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Clam digging paid off, boys! Up four percent means I can afford real caviar on my jet ski this weekend.
+**CMC Comment:** Up nearly eleven percent today! I just put my third mortgage into liquid restaking because financial freedom is only one smart contract away.
 
-![PEARL Graphic](images/01_PUMP_PEARL.png)
-
----
-
-## 2. Bitway ($BTW) — +4.65% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Look at this beauty moving up! Keep buying or I send my cousin Tony to audit your portfolio.
-
-![BTW Graphic](images/02_PUMP_BTW.png)
+![ETHFI Graphic](images/01_PUMP_ETHFI.png)
 
 ---
 
-## 3. Injective ($INJ) — +3.39% (PUMP)
+## 2. Zcash ($ZEC) — +9.81% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A modest upward variance in Injective; clearly the market is finally appreciating my theoretical whitepaper on decentralization.
+**CMC Comment:** Privacy features are pumping, proving once again that true monetary utility lies in hiding your transaction history from both your spouse and the tax authorities.
 
-![INJ Graphic](images/03_PUMP_INJ.png)
+![ZEC Graphic](images/02_PUMP_ZEC.png)
 
 ---
 
-## 4. Figure Heloc ($FIGR_HELOC) — +1.61% (PUMP)
+## 3. Pearl ($PEARL) — +9.17% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Borrowing against my home to buy home-equity tokens feels like a beautiful cosmic feedback loop of pure abundance!
+**CMC Comment:** The universe is showering us with shiny pearls today! I knew if we all meditated on green candles hard enough, financial enlightenment would follow.
 
-![FIGR_HELOC Graphic](images/04_PUMP_FIGR_HELOC.png)
-
----
-
-## 5. Tether Gold ($XAUT) — +1.06% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** One percent green on digital shiny metal! Time to order the gold-leaf steak and leverage my entire retirement account.
-
-![XAUT Graphic](images/05_PUMP_XAUT.png)
+![PEARL Graphic](images/03_PUMP_PEARL.png)
 
 ---
 
-## 6. Ondo ($ONDO) — -8.76% (DUMP)
+## 4. Bitway ($BTW) — +8.33% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down almost nine percent? I've seen kneecaps break with less painful drops than this junk.
+**CMC Comment:** Eight percent gain? Forget the mob, this is how real men make a honest living without getting their suits dirty.
 
-![ONDO Graphic](images/06_DUMP_ONDO.png)
+![BTW Graphic](images/04_PUMP_BTW.png)
 
 ---
 
-## 7. NEAR Protocol ($NEAR) — -8.82% (DUMP)
+## 5. Arbitrum ($ARB) — +6.74% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Layer 2 scalability is finally paying for my artisan oat milk lattes. Upward and onward to financial validation!
+
+![ARB Graphic](images/05_PUMP_ARB.png)
+
+---
+
+## 6. KuCoin ($KCS) — -1.97% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down two percent and people are sweating? Put on a jacket and hold the line, ya cowards.
+
+![KCS Graphic](images/06_DUMP_KCS.png)
+
+---
+
+## 7. Stacks ($STX) — -2.57% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The term NEAR is fitting, as retail investors are now dangerously near total economic ruin.
+**CMC Comment:** A minor correction for Smart Contracts on Bitcoin. Statistically speaking, pain builds character in distributed ledger systems.
 
-![NEAR Graphic](images/07_DUMP_NEAR.png)
-
----
-
-## 8. Ethena ($ENA) — -8.94% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The charts are just shedding negative energy right now, so please send your love and remaining liquidity to the universe.
-
-![ENA Graphic](images/08_DUMP_ENA.png)
+![STX Graphic](images/07_DUMP_STX.png)
 
 ---
 
-## 9. Ether.fi ($ETHFI) — -9.8% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Down nearly ten percent and my margin call is ringing louder than my ex-wife's lawyer!
-
-![ETHFI Graphic](images/09_DUMP_ETHFI.png)
-
----
-
-## 10. Uniswap ($UNI) — -10.13% (DUMP)
+## 8. Bitcoin Cash ($BCH) — -3.28% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Unicorn? More like a donkey taking a massive dump right on my life savings!
+**CMC Comment:** Satoshi would be shaking his head. If I held bags like this back in Jersey, I'd throw myself off the boardwalk.
 
-![UNI Graphic](images/10_DUMP_UNI.png)
+![BCH Graphic](images/08_DUMP_BCH.png)
+
+---
+
+## 9. XRP ($XRP) — -3.77% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** The SEC aura is disrupting the vibe today, but remember, every red dip is just the universe cleansing our bags.
+
+![XRP Graphic](images/09_DUMP_XRP.png)
+
+---
+
+## 10. Rain ($RAIN) — -3.81% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** It's literally raining losses right now, but I'm told real crypto chads don't use umbrellas.
+
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
