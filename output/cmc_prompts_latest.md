@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Ether.fi ($ETHFI) — +10.93% (PUMP)
+## 1. Stacks ($STX) — +3.69% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up nearly eleven percent today! I just put my third mortgage into liquid restaking because financial freedom is only one smart contract away.
+**CMC Comment:** Up 3.69% today! I just put my entire retirement fund into Stacks because Bitcoin smart contracts sound like something a billionaire would invent while sipping expensive cabernet.
 
-![ETHFI Graphic](images/01_PUMP_ETHFI.png)
-
----
-
-## 2. Zcash ($ZEC) — +9.81% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Privacy features are pumping, proving once again that true monetary utility lies in hiding your transaction history from both your spouse and the tax authorities.
-
-![ZEC Graphic](images/02_PUMP_ZEC.png)
+![STX Graphic](images/01_PUMP_STX.png)
 
 ---
 
-## 3. Pearl ($PEARL) — +9.17% (PUMP)
+## 2. Uniswap ($UNI) — +2.88% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is showering us with shiny pearls today! I knew if we all meditated on green candles hard enough, financial enlightenment would follow.
+**CMC Comment:** A whole 2.88% up! The governance liquidity pools are blooming so beautifully, I might buy a silk ribbon for my prize heifer.
 
-![PEARL Graphic](images/03_PUMP_PEARL.png)
+![UNI Graphic](images/02_PUMP_UNI.png)
 
 ---
 
-## 4. Bitway ($BTW) — +8.33% (PUMP)
+## 3. Midnight ($NIGHT) — +2.72% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Eight percent gain? Forget the mob, this is how real men make a honest living without getting their suits dirty.
+**CMC Comment:** Midnight up 2.7%? Listen pal, I don't care if it operates in the dark, green is green and my wallet is getting thick.
 
-![BTW Graphic](images/04_PUMP_BTW.png)
-
----
-
-## 5. Arbitrum ($ARB) — +6.74% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Layer 2 scalability is finally paying for my artisan oat milk lattes. Upward and onward to financial validation!
-
-![ARB Graphic](images/05_PUMP_ARB.png)
+![NIGHT Graphic](images/03_PUMP_NIGHT.png)
 
 ---
 
-## 6. KuCoin ($KCS) — -1.97% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down two percent and people are sweating? Put on a jacket and hold the line, ya cowards.
-
-![KCS Graphic](images/06_DUMP_KCS.png)
-
----
-
-## 7. Stacks ($STX) — -2.57% (DUMP)
+## 4. Quant ($QNT) — +2.64% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A minor correction for Smart Contracts on Bitcoin. Statistically speaking, pain builds character in distributed ledger systems.
+**CMC Comment:** Quant rising 2.64% aligns perfectly with my theoretical model of enterprise interoperability, though my students still prefer buying worthless dog tokens.
 
-![STX Graphic](images/07_DUMP_STX.png)
-
----
-
-## 8. Bitcoin Cash ($BCH) — -3.28% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Satoshi would be shaking his head. If I held bags like this back in Jersey, I'd throw myself off the boardwalk.
-
-![BCH Graphic](images/08_DUMP_BCH.png)
+![QNT Graphic](images/04_PUMP_QNT.png)
 
 ---
 
-## 9. XRP ($XRP) — -3.77% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The SEC aura is disrupting the vibe today, but remember, every red dip is just the universe cleansing our bags.
-
-![XRP Graphic](images/09_DUMP_XRP.png)
-
----
-
-## 10. Rain ($RAIN) — -3.81% (DUMP)
+## 5. Mantle ($MNT) — +1.97% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** It's literally raining losses right now, but I'm told real crypto chads don't use umbrellas.
+**CMC Comment:** Mantle gaining 1.97% is all the confirmation I need to lease a second yacht before lunch.
 
-![RAIN Graphic](images/10_DUMP_RAIN.png)
+![MNT Graphic](images/05_PUMP_MNT.png)
+
+---
+
+## 6. Ethena ($ENA) — -4.05% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down 4.05%? Ethena bagholders are sweating through their cheap suits right now while I short their tears.
+
+![ENA Graphic](images/06_DUMP_ENA.png)
+
+---
+
+## 7. Rain ($RAIN) — -4.27% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Oh dear, down 4.27%! Rain is falling on our portfolio today, but every puddle is just a chance to wash our poor dusty hooves.
+
+![RAIN Graphic](images/07_DUMP_RAIN.png)
+
+---
+
+## 8. Lighter ($LIT) — -4.6% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Lighter shedding 4.6% confirms my hypothesis that friction-free trading protocols eventually burn out the retail investor's capital base.
+
+![LIT Graphic](images/08_DUMP_LIT.png)
+
+---
+
+## 9. Zcash ($ZEC) — -6.19% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down 6.19%! Zcash privacy features are great because now nobody can see me quietly sobbing into my artisanal gin.
+
+![ZEC Graphic](images/09_DUMP_ZEC.png)
+
+---
+
+## 10. Pump.fun ($PUMP) — -8.77% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Pump.fun down 8.77%? Irony is dead, the market is a crime scene, and you suckers are holding the murder weapon.
+
+![PUMP Graphic](images/10_DUMP_PUMP.png)
 
 ---
