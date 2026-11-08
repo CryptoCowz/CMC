@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Stacks ($STX) — +3.69% (PUMP)
+## 1. Pepe ($PEPE) — +2.93% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 3.69% today! I just put my entire retirement fund into Stacks because Bitcoin smart contracts sound like something a billionaire would invent while sipping expensive cabernet.
+**CMC Comment:** Up under three percent and I've already put down a deposit on a gold-plated yacht for my frog.
 
-![STX Graphic](images/01_PUMP_STX.png)
-
----
-
-## 2. Uniswap ($UNI) — +2.88% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** A whole 2.88% up! The governance liquidity pools are blooming so beautifully, I might buy a silk ribbon for my prize heifer.
-
-![UNI Graphic](images/02_PUMP_UNI.png)
+![PEPE Graphic](images/01_PUMP_PEPE.png)
 
 ---
 
-## 3. Midnight ($NIGHT) — +2.72% (PUMP)
+## 2. Dash ($DASH) — +2.32% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Midnight up 2.7%? Listen pal, I don't care if it operates in the dark, green is green and my wallet is getting thick.
+**CMC Comment:** Two percent gains? Put the coffee down kid, that ain't even enough to cover my blood pressure meds.
 
-![NIGHT Graphic](images/03_PUMP_NIGHT.png)
+![DASH Graphic](images/02_PUMP_DASH.png)
 
 ---
 
-## 4. Quant ($QNT) — +2.64% (PUMP)
+## 3. Figure Heloc ($FIGR_HELOC) — +1.59% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Quant rising 2.64% aligns perfectly with my theoretical model of enterprise interoperability, though my students still prefer buying worthless dog tokens.
+**CMC Comment:** Fascinating how leverage on home equity can stimulate such trivial green candles in modern liquidity pools.
+
+![FIGR_HELOC Graphic](images/03_PUMP_FIGR_HELOC.png)
+
+---
+
+## 4. Quant ($QNT) — +1.53% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Institutional tech is pumping so hard I might actually pay my tax debt this year, dynamic leverage baby!
 
 ![QNT Graphic](images/04_PUMP_QNT.png)
 
 ---
 
-## 5. Mantle ($MNT) — +1.97% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Mantle gaining 1.97% is all the confirmation I need to lease a second yacht before lunch.
-
-![MNT Graphic](images/05_PUMP_MNT.png)
-
----
-
-## 6. Ethena ($ENA) — -4.05% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down 4.05%? Ethena bagholders are sweating through their cheap suits right now while I short their tears.
-
-![ENA Graphic](images/06_DUMP_ENA.png)
-
----
-
-## 7. Rain ($RAIN) — -4.27% (DUMP)
+## 5. Gate ($GT) — +1.15% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh dear, down 4.27%! Rain is falling on our portfolio today, but every puddle is just a chance to wash our poor dusty hooves.
+**CMC Comment:** Oh look, the green line went up a tiny bit! Does this mean everyone in the pasture gets free smoothies now?
 
-![RAIN Graphic](images/07_DUMP_RAIN.png)
-
----
-
-## 8. Lighter ($LIT) — -4.6% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Lighter shedding 4.6% confirms my hypothesis that friction-free trading protocols eventually burn out the retail investor's capital base.
-
-![LIT Graphic](images/08_DUMP_LIT.png)
+![GT Graphic](images/05_PUMP_GT.png)
 
 ---
 
-## 9. Zcash ($ZEC) — -6.19% (DUMP)
+## 6. MemeCore ($M) — -4.96% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down 6.19%! Zcash privacy features are great because now nobody can see me quietly sobbing into my artisanal gin.
+**CMC Comment:** Down five percent? Relax, it's just a healthy structural correction before we launch to Alpha Centauri.
 
-![ZEC Graphic](images/09_DUMP_ZEC.png)
+![M Graphic](images/06_DUMP_M.png)
 
 ---
 
-## 10. Pump.fun ($PUMP) — -8.77% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Pump.fun down 8.77%? Irony is dead, the market is a crime scene, and you suckers are holding the murder weapon.
+## 7. Filecoin ($FIL) — -5.06% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The decentralized storage protocol appears to be leaking value far faster than it stores hard data.
 
-![PUMP Graphic](images/10_DUMP_PUMP.png)
+![FIL Graphic](images/07_DUMP_FIL.png)
+
+---
+
+## 8. Bitcoin Cash ($BCH) — -5.21% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Another red day for Satoshi's red-headed stepchild. Sell it off and buy real estate, you degenerates.
+
+![BCH Graphic](images/08_DUMP_BCH.png)
+
+---
+
+## 9. Stacks ($STX) — -5.32% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** My little Bitcoin layer-two tokens are taking a sleepy nap today, but I'm sure they'll wake up happy!
+
+![STX Graphic](images/09_DUMP_STX.png)
+
+---
+
+## 10. Rain ($RAIN) — -5.95% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** It's raining pain and my portfolio is soaked. Get me out of this liquid garbage before I lose my shoes.
+
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
