@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pepe ($PEPE) — +2.93% (PUMP)
+## 1. Pieverse ($PIEVERSE) — +40.11% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up under three percent and I've already put down a deposit on a gold-plated yacht for my frog.
+**CMC Comment:** Up 40% in a day because nothing screams sound monetary policy like literal digital baked goods. I am taking out a second mortgage to buy the crust.
 
-![PEPE Graphic](images/01_PUMP_PEPE.png)
-
----
-
-## 2. Dash ($DASH) — +2.32% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Two percent gains? Put the coffee down kid, that ain't even enough to cover my blood pressure meds.
-
-![DASH Graphic](images/02_PUMP_DASH.png)
+![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
 
 ---
 
-## 3. Figure Heloc ($FIGR_HELOC) — +1.59% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Fascinating how leverage on home equity can stimulate such trivial green candles in modern liquidity pools.
-
-![FIGR_HELOC Graphic](images/03_PUMP_FIGR_HELOC.png)
-
----
-
-## 4. Quant ($QNT) — +1.53% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Institutional tech is pumping so hard I might actually pay my tax debt this year, dynamic leverage baby!
-
-![QNT Graphic](images/04_PUMP_QNT.png)
-
----
-
-## 5. Gate ($GT) — +1.15% (PUMP)
+## 2. Jupiter ($JUP) — +9.79% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh look, the green line went up a tiny bit! Does this mean everyone in the pasture gets free smoothies now?
+**CMC Comment:** We are shooting past the moon straight to Jupiter! My spiritual advisor said alignment with gas giants brings cosmic wealth, so I sold my car.
 
-![GT Graphic](images/05_PUMP_GT.png)
-
----
-
-## 6. MemeCore ($M) — -4.96% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Down five percent? Relax, it's just a healthy structural correction before we launch to Alpha Centauri.
-
-![M Graphic](images/06_DUMP_M.png)
+![JUP Graphic](images/02_PUMP_JUP.png)
 
 ---
 
-## 7. Filecoin ($FIL) — -5.06% (DUMP)
+## 3. Ether.fi ($ETHFI) — +9.14% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Look at this green candle, you degenerates! Restaking liquid Ethereum until the yields burn a hole right through your leather wallets!
+
+![ETHFI Graphic](images/03_PUMP_ETHFI.png)
+
+---
+
+## 4. Avalanche ($AVAX) — +8.81% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The decentralized storage protocol appears to be leaking value far faster than it stores hard data.
+**CMC Comment:** Mathematically speaking, an avalanche usually moves downhill, yet here we observe a statistical anomaly driven by collective delusion. Fascinating.
 
-![FIL Graphic](images/07_DUMP_FIL.png)
+![AVAX Graphic](images/04_PUMP_AVAX.png)
 
 ---
 
-## 8. Bitcoin Cash ($BCH) — -5.21% (DUMP)
+## 5. Venice Token ($VVV) — +8.32% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Gondolas do not go this high, folks! Venice Token is pumping so hard I have already ordered three fake Rolexes to celebrate.
+
+![VVV Graphic](images/05_PUMP_VVV.png)
+
+---
+
+## 6. LayerZero ($ZRO) — -4.05% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Another red day for Satoshi's red-headed stepchild. Sell it off and buy real estate, you degenerates.
+**CMC Comment:** LayerZero? More like Layer Hero-to-Zero! My portfolio just bridged itself directly into the dumpster.
 
-![BCH Graphic](images/08_DUMP_BCH.png)
+![ZRO Graphic](images/06_DUMP_ZRO.png)
 
 ---
 
-## 9. Stacks ($STX) — -5.32% (DUMP)
+## 7. Zcash ($ZEC) — -4.05% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Privacy features ensure nobody can see you crying while holding this bag. The utility of anonymity in tragic financial ruin is truly remarkable.
+
+![ZEC Graphic](images/07_DUMP_ZEC.png)
+
+---
+
+## 8. Pearl ($PEARL) — -6.58% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** My little Bitcoin layer-two tokens are taking a sleepy nap today, but I'm sure they'll wake up happy!
+**CMC Comment:** Clams close up when they are scared, and right now my financial future is tightly shut at the bottom of the sea. Sending peaceful vibrations to my liquidity pool!
 
-![STX Graphic](images/09_DUMP_STX.png)
+![PEARL Graphic](images/08_DUMP_PEARL.png)
 
 ---
 
-## 10. Rain ($RAIN) — -5.95% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** It's raining pain and my portfolio is soaked. Get me out of this liquid garbage before I lose my shoes.
+## 9. Rain ($RAIN) — -10.18% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** It is raining down 10%, but real alpha males just stand in the storm without an umbrella. Wash away my life savings, baby!
 
-![RAIN Graphic](images/10_DUMP_RAIN.png)
+![RAIN Graphic](images/09_DUMP_RAIN.png)
+
+---
+
+## 10. Bitway ($BTW) — -11.69% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Bitway is giving us the highway! Down 11% today and my wife is already looking for a divorce lawyer.
+
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
