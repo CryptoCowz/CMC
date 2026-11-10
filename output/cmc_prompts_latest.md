@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pieverse ($PIEVERSE) — +40.11% (PUMP)
+## 1. Bitway ($BTW) — +14.14% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 40% in a day because nothing screams sound monetary policy like literal digital baked goods. I am taking out a second mortgage to buy the crust.
+**CMC Comment:** Bitway is flying straight to the moon and taking my second mortgage right along with it! We are all gonna buy yachts by Tuesday!
 
-![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
+![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. Jupiter ($JUP) — +9.79% (PUMP)
+## 2. Gram (prev. Toncoin) ($GRAM) — +6.55% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** We are shooting past the moon straight to Jupiter! My spiritual advisor said alignment with gas giants brings cosmic wealth, so I sold my car.
+**CMC Comment:** The universe is aligning so beautifully for Gram today, sending warm golden energy to every validator node in existence.
 
-![JUP Graphic](images/02_PUMP_JUP.png)
+![GRAM Graphic](images/02_PUMP_GRAM.png)
 
 ---
 
-## 3. Ether.fi ($ETHFI) — +9.14% (PUMP)
+## 3. Pi Network ($PI) — +5.99% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Look at this green candle, you degenerates! Restaking liquid Ethereum until the yields burn a hole right through your leather wallets!
+**CMC Comment:** Listen to me, you tap your phone screen twice and suddenly you're a Wall Street titan? I love this stupid game.
 
-![ETHFI Graphic](images/03_PUMP_ETHFI.png)
+![PI Graphic](images/03_PUMP_PI.png)
 
 ---
 
-## 4. Avalanche ($AVAX) — +8.81% (PUMP)
+## 4. Midnight ($NIGHT) — +4.97% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, an avalanche usually moves downhill, yet here we observe a statistical anomaly driven by collective delusion. Fascinating.
+**CMC Comment:** A modest green candle during Midnight hours merely confirms my empirical theorem on irrational nocturnal exuberance.
 
-![AVAX Graphic](images/04_PUMP_AVAX.png)
+![NIGHT Graphic](images/04_PUMP_NIGHT.png)
 
 ---
 
-## 5. Venice Token ($VVV) — +8.32% (PUMP)
+## 5. Lighter ($LIT) — +3.05% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Gondolas do not go this high, folks! Venice Token is pumping so hard I have already ordered three fake Rolexes to celebrate.
+**CMC Comment:** Lighter is sparking up a green candle that has my inner degenerate screaming for maximum leverage!
 
-![VVV Graphic](images/05_PUMP_VVV.png)
+![LIT Graphic](images/05_PUMP_LIT.png)
 
 ---
 
-## 6. LayerZero ($ZRO) — -4.05% (DUMP)
+## 6. Dash ($DASH) — -8.18% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** LayerZero? More like Layer Hero-to-Zero! My portfolio just bridged itself directly into the dumpster.
+**CMC Comment:** Dash? More like dash for the exit before your portfolio looks like a total crime scene.
 
-![ZRO Graphic](images/06_DUMP_ZRO.png)
+![DASH Graphic](images/06_DUMP_DASH.png)
 
 ---
 
-## 7. Zcash ($ZEC) — -4.05% (DUMP)
+## 7. Arbitrum ($ARB) — -10.03% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Privacy features ensure nobody can see you crying while holding this bag. The utility of anonymity in tragic financial ruin is truly remarkable.
+**CMC Comment:** The statistical velocity of Arbitrum's current decline suggests bagholders are experiencing severe emotional entropy.
 
-![ZEC Graphic](images/07_DUMP_ZEC.png)
+![ARB Graphic](images/07_DUMP_ARB.png)
 
 ---
 
-## 8. Pearl ($PEARL) — -6.58% (DUMP)
+## 8. Venice Token ($VVV) — -11.29% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Clams close up when they are scared, and right now my financial future is tightly shut at the bottom of the sea. Sending peaceful vibrations to my liquidity pool!
+**CMC Comment:** Venice Token is just washing away negative aura so we can rebuild our spirit from a place of pure, heavy bagholding.
 
-![PEARL Graphic](images/08_DUMP_PEARL.png)
+![VVV Graphic](images/08_DUMP_VVV.png)
 
 ---
 
-## 9. Rain ($RAIN) — -10.18% (DUMP)
+## 9. Zcash ($ZEC) — -12.18% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** It is raining down 10%, but real alpha males just stand in the storm without an umbrella. Wash away my life savings, baby!
+**CMC Comment:** Privacy coins are great because nobody can see me crying in absolute pitch darkness right now.
 
-![RAIN Graphic](images/09_DUMP_RAIN.png)
+![ZEC Graphic](images/09_DUMP_ZEC.png)
 
 ---
 
-## 10. Bitway ($BTW) — -11.69% (DUMP)
+## 10. Rain ($RAIN) — -15.23% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Bitway is giving us the highway! Down 11% today and my wife is already looking for a divorce lawyer.
+**CMC Comment:** It is raining blood on this chart, capish? Grab an umbrella or get washed straight down the sewer.
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
