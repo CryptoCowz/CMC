@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +14.14% (PUMP)
+## 1. Midnight ($NIGHT) — +13.73% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway is flying straight to the moon and taking my second mortgage right along with it! We are all gonna buy yachts by Tuesday!
+**CMC Comment:** Up nearly 14% past midnight? Time to quit my day job and buy a second jet ski before dawn.
 
-![BTW Graphic](images/01_PUMP_BTW.png)
+![NIGHT Graphic](images/01_PUMP_NIGHT.png)
 
 ---
 
-## 2. Gram (prev. Toncoin) ($GRAM) — +6.55% (PUMP)
+## 2. Gram (prev. Toncoin) ($GRAM) — +10.1% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is aligning so beautifully for Gram today, sending warm golden energy to every validator node in existence.
+**CMC Comment:** A 10% gain means the universe is aligned and Gram's aura is practically beaming pure gold right now!
 
 ![GRAM Graphic](images/02_PUMP_GRAM.png)
 
 ---
 
-## 3. Pi Network ($PI) — +5.99% (PUMP)
+## 3. LayerZero ($ZRO) — +7.93% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Listen to me, you tap your phone screen twice and suddenly you're a Wall Street titan? I love this stupid game.
+**CMC Comment:** LayerZero bridged straight into my wallet with nearly 8% gains, so don't ask where the money came from, capiche?
 
-![PI Graphic](images/03_PUMP_PI.png)
+![ZRO Graphic](images/03_PUMP_ZRO.png)
 
 ---
 
-## 4. Midnight ($NIGHT) — +4.97% (PUMP)
+## 4. Internet Computer ($ICP) — +7.28% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A modest green candle during Midnight hours merely confirms my empirical theorem on irrational nocturnal exuberance.
+**CMC Comment:** Mathematically speaking, a 7% surge in Internet Computer suggests the decentralized web is finally outsmarting traditional digital entropy.
 
-![NIGHT Graphic](images/04_PUMP_NIGHT.png)
+![ICP Graphic](images/04_PUMP_ICP.png)
 
 ---
 
-## 5. Lighter ($LIT) — +3.05% (PUMP)
+## 5. Monero ($XMR) — +6.12% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Monero is up over 6% today and there is zero paper trail on these gains, just the way I like it.
+
+![XMR Graphic](images/05_PUMP_XMR.png)
+
+---
+
+## 6. Rain ($RAIN) — -2.61% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Lighter is sparking up a green candle that has my inner degenerate screaming for maximum leverage!
+**CMC Comment:** It's raining red candles and my portfolio is soaked, but real alpha degens don't use umbrellas.
 
-![LIT Graphic](images/05_PUMP_LIT.png)
-
----
-
-## 6. Dash ($DASH) — -8.18% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Dash? More like dash for the exit before your portfolio looks like a total crime scene.
-
-![DASH Graphic](images/06_DUMP_DASH.png)
+![RAIN Graphic](images/06_DUMP_RAIN.png)
 
 ---
 
-## 7. Arbitrum ($ARB) — -10.03% (DUMP)
+## 7. XDC Network ($XDC) — -3.52% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The statistical velocity of Arbitrum's current decline suggests bagholders are experiencing severe emotional entropy.
+**CMC Comment:** A 3.5% retraction indicates systemic user hesitation within the enterprise network infrastructure paradigm.
 
-![ARB Graphic](images/07_DUMP_ARB.png)
+![XDC Graphic](images/07_DUMP_XDC.png)
 
 ---
 
-## 8. Venice Token ($VVV) — -11.29% (DUMP)
+## 8. Zcash ($ZEC) — -3.89% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Venice Token is just washing away negative aura so we can rebuild our spirit from a place of pure, heavy bagholding.
+**CMC Comment:** Zcash is down almost 4%, but privacy is a peaceful state of mind that market dips can never erase!
 
-![VVV Graphic](images/08_DUMP_VVV.png)
-
----
-
-## 9. Zcash ($ZEC) — -12.18% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Privacy coins are great because nobody can see me crying in absolute pitch darkness right now.
-
-![ZEC Graphic](images/09_DUMP_ZEC.png)
+![ZEC Graphic](images/08_DUMP_ZEC.png)
 
 ---
 
-## 10. Rain ($RAIN) — -15.23% (DUMP)
+## 9. Pepe ($PEPE) — -6.95% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** It is raining blood on this chart, capish? Grab an umbrella or get washed straight down the sewer.
+**CMC Comment:** The frog took a 7% dive straight into the gutter, but I am holding these heavy bags till the bitter end.
 
-![RAIN Graphic](images/10_DUMP_RAIN.png)
+![PEPE Graphic](images/09_DUMP_PEPE.png)
+
+---
+
+## 10. Bitway ($BTW) — -16.81% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down almost 17% today. By the way, my 50x leverage position just completely vaporized.
+
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
