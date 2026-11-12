@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Midnight ($NIGHT) — +13.73% (PUMP)
+## 1. Beldex ($BDX) — +5.07% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up nearly 14% past midnight? Time to quit my day job and buy a second jet ski before dawn.
+**CMC Comment:** Privacy is cool, but privacy while printing green candles is absolute luxury. I just bought three invisible yachts.
 
-![NIGHT Graphic](images/01_PUMP_NIGHT.png)
+![BDX Graphic](images/01_PUMP_BDX.png)
 
 ---
 
-## 2. Gram (prev. Toncoin) ($GRAM) — +10.1% (PUMP)
+## 2. MemeCore ($M) — +3.44% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** A 10% gain means the universe is aligned and Gram's aura is practically beaming pure gold right now!
+**CMC Comment:** The universe told me that holding single letter tokens aligns my chakras. We are all ascending together!
 
-![GRAM Graphic](images/02_PUMP_GRAM.png)
+![M Graphic](images/02_PUMP_M.png)
 
 ---
 
-## 3. LayerZero ($ZRO) — +7.93% (PUMP)
+## 3. XDC Network ($XDC) — +1.84% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** LayerZero bridged straight into my wallet with nearly 8% gains, so don't ask where the money came from, capiche?
+**CMC Comment:** You call under two percent a pump? Back in my day, we did not open the chart for less than double digits, capiche?
 
-![ZRO Graphic](images/03_PUMP_ZRO.png)
+![XDC Graphic](images/03_PUMP_XDC.png)
 
 ---
 
-## 4. Internet Computer ($ICP) — +7.28% (PUMP)
+## 4. Jupiter ($JUP) — +1.76% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, a 7% surge in Internet Computer suggests the decentralized web is finally outsmarting traditional digital entropy.
+**CMC Comment:** Mathematically speaking, a tiny upward trajectory toward Jupiter still leaves your portfolio stuck in middle-class stratosphere.
 
-![ICP Graphic](images/04_PUMP_ICP.png)
-
----
-
-## 5. Monero ($XMR) — +6.12% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Monero is up over 6% today and there is zero paper trail on these gains, just the way I like it.
-
-![XMR Graphic](images/05_PUMP_XMR.png)
+![JUP Graphic](images/04_PUMP_JUP.png)
 
 ---
 
-## 6. Rain ($RAIN) — -2.61% (DUMP)
+## 5. JUST ($JST) — +1.09% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** It's raining red candles and my portfolio is soaked, but real alpha degens don't use umbrellas.
+**CMC Comment:** JUST keep buying, baby! A one percent gain today means custom leather interior on my tractor by Tuesday.
 
-![RAIN Graphic](images/06_DUMP_RAIN.png)
-
----
-
-## 7. XDC Network ($XDC) — -3.52% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A 3.5% retraction indicates systemic user hesitation within the enterprise network infrastructure paradigm.
-
-![XDC Graphic](images/07_DUMP_XDC.png)
+![JST Graphic](images/05_PUMP_JST.png)
 
 ---
 
-## 8. Zcash ($ZEC) — -3.89% (DUMP)
+## 6. Uniswap ($UNI) — -8.06% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Who drained the liquidity pool? I come back from my lunch break and my UNI bags are lighter than a paper towel!
+
+![UNI Graphic](images/06_DUMP_UNI.png)
+
+---
+
+## 7. NEAR Protocol ($NEAR) — -8.19% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Zcash is down almost 4%, but privacy is a peaceful state of mind that market dips can never erase!
+**CMC Comment:** Oh no, NEAR is getting further away from my financial freedom! Time to light a scented candle and manifest a recovery.
 
-![ZEC Graphic](images/08_DUMP_ZEC.png)
-
----
-
-## 9. Pepe ($PEPE) — -6.95% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** The frog took a 7% dive straight into the gutter, but I am holding these heavy bags till the bitter end.
-
-![PEPE Graphic](images/09_DUMP_PEPE.png)
+![NEAR Graphic](images/07_DUMP_NEAR.png)
 
 ---
 
-## 10. Bitway ($BTW) — -16.81% (DUMP)
+## 8. Monero ($XMR) — -8.43% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** The untraceable nature of Monero is truly remarkable, especially how quickly my capital untraced itself from the balance sheet.
+
+![XMR Graphic](images/08_DUMP_XMR.png)
+
+---
+
+## 9. Quant ($QNT) — -9.47% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down almost 17% today. By the way, my 50x leverage position just completely vaporized.
+**CMC Comment:** Down nearly ten percent? Perfect time to take out a second mortgage and double down before my wife checks the mail.
 
-![BTW Graphic](images/10_DUMP_BTW.png)
+![QNT Graphic](images/09_DUMP_QNT.png)
+
+---
+
+## 10. Stacks ($STX) — -10.73% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Stacks? More like stacked liabilities! I am getting crushed under these red blocks, somebody call a tow truck!
+
+![STX Graphic](images/10_DUMP_STX.png)
 
 ---
