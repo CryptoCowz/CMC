@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pieverse ($PIEVERSE) — +9.88% (PUMP)
+## 1. Venice Token ($VVV) — +14.85% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up almost 10 percent because baking fake digital pastries is clearly the backbone of the new global economy. I'm taking a slice straight to the bank before the crust burns!
+**CMC Comment:** Pack your bags, folks, Venice isn't sinking today, it's flying directly to Mars! Just put my entire life savings into gondola futures.
 
-![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
+![VVV Graphic](images/01_PUMP_VVV.png)
 
 ---
 
-## 2. Midnight ($NIGHT) — +4.38% (PUMP)
+## 2. Pearl ($PEARL) — +5.48% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Midnight is creeping up over 4 percent! The cosmic stars are aligned, sweet beans, and the universe is giving us a tiny cozy bedtime treat.
+**CMC Comment:** Pearls are formed from stress inside an oyster, which explains why my portfolio is finally glowing! We are all going to be deep sea millionaires!
 
-![NIGHT Graphic](images/02_PUMP_NIGHT.png)
+![PEARL Graphic](images/02_PUMP_PEARL.png)
 
 ---
 
-## 3. Figure Heloc ($FIGR_HELOC) — +4.25% (PUMP)
+## 3. Zcash ($ZEC) — +4.87% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Taking out home equity on a blockchain to pump 4 percent? That's the kind of high-stakes degenerateness I can respect, pal.
+**CMC Comment:** Privacy coins are pumping, which means somebody's accountant is sweating bullets right now. Keep your mouth shut and collect the gains, capisce?
 
-![FIGR_HELOC Graphic](images/03_PUMP_FIGR_HELOC.png)
+![ZEC Graphic](images/03_PUMP_ZEC.png)
 
 ---
 
-## 4. JUST ($JST) — +0.77% (PUMP)
+## 4. Aave ($AAVE) — +4.61% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A modest 0.77 percent gain... mathematically speaking, this is less of a bull rally and more of a financial dead-cat twitch.
+**CMC Comment:** Mathematically speaking, borrowing against your own hype yields a temporary spike in dopamine. Enjoy the liquidity while the protocol stays solvent.
 
-![JST Graphic](images/04_PUMP_JST.png)
+![AAVE Graphic](images/04_PUMP_AAVE.png)
 
 ---
 
-## 5. MemeCore ($M) — +0.76% (PUMP)
+## 5. Midnight ($NIGHT) — +3.78% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 0.76 percent! MemeCore is proving that literal garbage can hold value for at least three consecutive minutes. We are so back!
+**CMC Comment:** They say nothing good happens after Midnight, but my trading account begs to differ! Up past bedtime and getting filthy rich!
 
-![M Graphic](images/05_PUMP_M.png)
+![NIGHT Graphic](images/05_PUMP_NIGHT.png)
 
 ---
 
-## 6. Ethena ($ENA) — -11.8% (DUMP)
+## 6. Filecoin ($FIL) — -5.65% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down nearly 12 percent? Looks like Ethena's delta-neutral strategy forgot the part where the line isn't supposed to fall off a cliff.
+**CMC Comment:** Decentralized storage, huh? The only thing being stored here is a massive pile of regret in my wallet.
 
-![ENA Graphic](images/06_DUMP_ENA.png)
+![FIL Graphic](images/06_DUMP_FIL.png)
 
 ---
 
-## 7. Ether.fi ($ETHFI) — -11.97% (DUMP)
+## 7. Morpho ($MORPHO) — -5.95% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Restaking your collateral into a 12 percent loss demonstrates a complete breakdown in economic survival instinct. Fascinating study of human error.
+**CMC Comment:** A nearly six percent contraction is merely the market correcting for unsustainable optimism. Unfortunately for bagholders, gravity remains undefeated.
 
-![ETHFI Graphic](images/07_DUMP_ETHFI.png)
+![MORPHO Graphic](images/07_DUMP_MORPHO.png)
 
 ---
 
-## 8. Bitway ($BTW) — -12.26% (DUMP)
+## 8. LayerZero ($ZRO) — -8.15% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Oh no, Bitway lost over 12 percent! But money is just energy returning to the cosmos, so really, everyone is just sharing the love.
+**CMC Comment:** LayerZero? More like Layer Hero once it rebounds! I'm buying every single dip with my emotional support credit card!
 
-![BTW Graphic](images/08_DUMP_BTW.png)
+![ZRO Graphic](images/08_DUMP_ZRO.png)
 
 ---
 
-## 9. Uniswap ($UNI) — -12.74% (DUMP)
+## 9. Aster ($ASTER) — -12.79% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down 12.74 percent! Uniswap liquidity providers are currently adding their tears directly into the ETH-UNI pool.
+**CMC Comment:** Down double digits? That's just a classic launchpad maneuver before we hit hyperspace, trust the process!
 
-![UNI Graphic](images/09_DUMP_UNI.png)
+![ASTER Graphic](images/09_DUMP_ASTER.png)
 
 ---
 
-## 10. Pump.fun ($PUMP) — -13.08% (DUMP)
+## 10. Bitway ($BTW) — -27.65% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** A token called Pump dropping 13 percent is pure poetry. You got dumped on, kid, now go wash your heavy bags.
+**CMC Comment:** Bitway is giving us the highway straight to bankruptcy. Who authorized this absolute robbery?
 
-![PUMP Graphic](images/10_DUMP_PUMP.png)
+![BTW Graphic](images/10_DUMP_BTW.png)
 
 ---
