@@ -1,80 +1,80 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Venice Token ($VVV) — +14.85% (PUMP)
+## 1. Rain ($RAIN) — +76.76% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Pack your bags, folks, Venice isn't sinking today, it's flying directly to Mars! Just put my entire life savings into gondola futures.
+**CMC Comment:** It is absolute flash-flooding gains in the pasture today, folks! I just leveraged my third mortgage to buy the top, and my wife's boyfriend couldn't be prouder.
 
-![VVV Graphic](images/01_PUMP_VVV.png)
-
----
-
-## 2. Pearl ($PEARL) — +5.48% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Pearls are formed from stress inside an oyster, which explains why my portfolio is finally glowing! We are all going to be deep sea millionaires!
-
-![PEARL Graphic](images/02_PUMP_PEARL.png)
+![RAIN Graphic](images/01_PUMP_RAIN.png)
 
 ---
 
-## 3. Zcash ($ZEC) — +4.87% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Privacy coins are pumping, which means somebody's accountant is sweating bullets right now. Keep your mouth shut and collect the gains, capisce?
-
-![ZEC Graphic](images/03_PUMP_ZEC.png)
-
----
-
-## 4. Aave ($AAVE) — +4.61% (PUMP)
+## 2. Internet Computer ($ICP) — +13.74% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, borrowing against your own hype yields a temporary spike in dopamine. Enjoy the liquidity while the protocol stays solvent.
+**CMC Comment:** The mathematical probability of this cloud protocol pumping was statistically negligible, yet here we observe pure, unadulterated speculative mania.
 
-![AAVE Graphic](images/04_PUMP_AAVE.png)
-
----
-
-## 5. Midnight ($NIGHT) — +3.78% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** They say nothing good happens after Midnight, but my trading account begs to differ! Up past bedtime and getting filthy rich!
-
-![NIGHT Graphic](images/05_PUMP_NIGHT.png)
+![ICP Graphic](images/02_PUMP_ICP.png)
 
 ---
 
-## 6. Filecoin ($FIL) — -5.65% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Decentralized storage, huh? The only thing being stored here is a massive pile of regret in my wallet.
-
-![FIL Graphic](images/06_DUMP_FIL.png)
-
----
-
-## 7. Morpho ($MORPHO) — -5.95% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A nearly six percent contraction is merely the market correcting for unsustainable optimism. Unfortunately for bagholders, gravity remains undefeated.
-
-![MORPHO Graphic](images/07_DUMP_MORPHO.png)
-
----
-
-## 8. LayerZero ($ZRO) — -8.15% (DUMP)
+## 3. Aster ($ASTER) — +7.78% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** LayerZero? More like Layer Hero once it rebounds! I'm buying every single dip with my emotional support credit card!
+**CMC Comment:** The stars aligned and told me to buy Aster right before this cosmic green candle manifested! Spread the love and keep holding, beautiful souls.
 
-![ZRO Graphic](images/08_DUMP_ZRO.png)
+![ASTER Graphic](images/03_PUMP_ASTER.png)
 
 ---
 
-## 9. Aster ($ASTER) — -12.79% (DUMP)
+## 4. Pieverse ($PIEVERSE) — +5.53% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down double digits? That's just a classic launchpad maneuver before we hit hyperspace, trust the process!
+**CMC Comment:** Save me a slice of that green candle because Pieverse is baking up gains faster than my offshore accountant can hide them!
 
-![ASTER Graphic](images/09_DUMP_ASTER.png)
+![PIEVERSE Graphic](images/04_PUMP_PIEVERSE.png)
 
 ---
 
-## 10. Bitway ($BTW) — -27.65% (DUMP)
+## 5. LayerZero ($ZRO) — +5.28% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Bitway is giving us the highway straight to bankruptcy. Who authorized this absolute robbery?
+**CMC Comment:** Listen up, you retail chumps! LayerZero is pumping, so buy now before I dump my pre-mine allocation directly onto your faces.
+
+![ZRO Graphic](images/05_PUMP_ZRO.png)
+
+---
+
+## 6. Gate ($GT) — -5.32% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** The gate just slammed shut right on my portfolio's fingers. Somebody get me a stiff drink and a fresh line of uncollateralized credit, quick!
+
+![GT Graphic](images/06_DUMP_GT.png)
+
+---
+
+## 7. Sky ($SKY) — -5.67% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** The sky isn't falling, my friends! It's just descending gracefully to offer us a magical discount on cosmic energy alignment.
+
+![SKY Graphic](images/07_DUMP_SKY.png)
+
+---
+
+## 8. Jupiter ($JUP) — -8.19% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Jupiter is taking a crash landing straight into the dirt today, but remember, true degens only sell at the absolute floor!
+
+![JUP Graphic](images/08_DUMP_JUP.png)
+
+---
+
+## 9. Midnight ($NIGHT) — -9.59% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Empirical data confirms Midnight has entered a severe liquidity eclipse, leaving retail bagholders with a textbook case study in buyer remorse.
+
+![NIGHT Graphic](images/09_DUMP_NIGHT.png)
+
+---
+
+## 10. Bitway ($BTW) — -30.04% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down thirty percent in twenty-four hours? By the way, I just declared personal bankruptcy three times in five seconds!
 
 ![BTW Graphic](images/10_DUMP_BTW.png)
 
