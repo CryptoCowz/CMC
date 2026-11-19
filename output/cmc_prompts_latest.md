@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pieverse ($PIEVERSE) — +60.89% (PUMP)
+## 1. Bitway ($BTW) — +22.96% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** I just mortgaged my second yacht to buy more Pieverse because math is for poor people and gains like this build empires!
+**CMC Comment:** Bitway is up nearly 23% and I'm already shopping for a third jet! Remember folks, fundamentals are for people who hate winning.
 
-![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
+![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. Pearl ($PEARL) — +18.85% (PUMP)
+## 2. Venice Token ($VVV) — +6.58% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is sending us shiny pearls of light today, so let us all hold hands and watch our cosmic balances float to heaven!
+**CMC Comment:** Venice Token is floating so peacefully up the canal today! I put all my flower-power energy into this green candle and it worked!
 
-![PEARL Graphic](images/02_PUMP_PEARL.png)
+![VVV Graphic](images/02_PUMP_VVV.png)
 
 ---
 
-## 3. Bitway ($BTW) — +14.92% (PUMP)
+## 3. Ether.fi ($ETHFI) — +5.02% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Listen to me ya bums, Bitway is moving up and if you sell now you deserve to eat cold soup out of a trash can!
+**CMC Comment:** Up five percent? That barely covers my espresso budget, but at least these staking guys haven't run off with my coat yet.
 
-![BTW Graphic](images/03_PUMP_BTW.png)
-
----
-
-## 4. Mantle ($MNT) — +3.57% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A modest vector shift in Mantle proves that the underlying macroeconomic flywheel is stabilizing near optimal structural equilibrium.
-
-![MNT Graphic](images/04_PUMP_MNT.png)
+![ETHFI Graphic](images/03_PUMP_ETHFI.png)
 
 ---
 
-## 5. Venice Token ($VVV) — +2.61% (PUMP)
+## 4. Pump.fun ($PUMP) — +3.26% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Venice is just warming up its engines for a total face-melting run, so buy the dip right now or get left behind!
+**CMC Comment:** It's literally called PUMP and it's pumping, what more DD do you nerds need?! Smells like pure, unadulterated parabolic bliss!
 
-![VVV Graphic](images/05_PUMP_VVV.png)
+![PUMP Graphic](images/04_PUMP_PUMP.png)
 
 ---
 
-## 6. Pi Network ($PI) — -3.89% (DUMP)
+## 5. Lighter ($LIT) — +3.03% (PUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** A three percent upward variance in Lighter merely demonstrates temporary retail irrationality. Mathematically speaking, you will still end up poor.
+
+![LIT Graphic](images/05_PUMP_LIT.png)
+
+---
+
+## 6. Ethena ($ENA) — -4.98% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Pi Network dropping again? I spent three long years tapping a button on my phone every day for this garbage?
+**CMC Comment:** Down five percent already? Unbelievable, every time I buy a synthetic dollar it turns into synthetic dust.
 
-![PI Graphic](images/06_DUMP_PI.png)
+![ENA Graphic](images/06_DUMP_ENA.png)
 
 ---
 
-## 7. Sky ($SKY) — -3.98% (DUMP)
+## 7. Aster ($ASTER) — -5.69% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The Sky isn't falling, friends, it's just coming down closer to Earth so we can give it a gentle, loving hug.
+**CMC Comment:** Aster is just taking a little sleepy nap in the discount soil! Don't sell, just send the chart peaceful healing vibrations!
 
-![SKY Graphic](images/07_DUMP_SKY.png)
+![ASTER Graphic](images/07_DUMP_ASTER.png)
 
 ---
 
-## 8. LayerZero ($ZRO) — -4.17% (DUMP)
+## 8. MemeCore ($M) — -6.11% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** LayerZero seems to be empirical proof of absolute market entropy, mathematically collapsing towards its namesake of literal zero.
+**CMC Comment:** The empirical data for MemeCore confirms my thesis: assets with single-letter tickers correlate directly with single-digit IQ trading decisions.
 
-![ZRO Graphic](images/08_DUMP_ZRO.png)
-
----
-
-## 9. Aster ($ASTER) — -4.53% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Who advised me to buy Aster? I want names, addresses, and full refunds before I completely lose my mind!
-
-![ASTER Graphic](images/09_DUMP_ASTER.png)
+![M Graphic](images/08_DUMP_M.png)
 
 ---
 
-## 10. Pump.fun ($PUMP) — -5.73% (DUMP)
+## 9. Sky ($SKY) — -9.89% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Irony is dead! How does a token literally named PUMP dump five percent in one afternoon? My broker lied to me!
+**CMC Comment:** The Sky is falling down ten percent! Dump it all, run for the hills, and tune into my emergency market crash broadcast!
 
-![PUMP Graphic](images/10_DUMP_PUMP.png)
+![SKY Graphic](images/09_DUMP_SKY.png)
+
+---
+
+## 10. Pieverse ($PIEVERSE) — -13.37% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Thirteen percent in the gutter! They promised me a pie in the sky and all I got was a slap in the face.
+
+![PIEVERSE Graphic](images/10_DUMP_PIEVERSE.png)
 
 ---
