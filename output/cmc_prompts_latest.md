@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +22.96% (PUMP)
+## 1. Bitway ($BTW) — +11.35% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway is up nearly 23% and I'm already shopping for a third jet! Remember folks, fundamentals are for people who hate winning.
+**CMC Comment:** Up 11 percent today! I already put a deposit down on a secondhand jet ski and told my wife we are eating at the fancy steakhouse tonight.
 
 ![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 2. Venice Token ($VVV) — +6.58% (PUMP)
+## 2. MemeCore ($M) — +3.67% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Venice Token is floating so peacefully up the canal today! I put all my flower-power energy into this green candle and it worked!
+**CMC Comment:** The glorious vibrations of pure utility-free culture are lifting us higher! Who needs fundamentals when you have collective cosmic belief?
 
-![VVV Graphic](images/02_PUMP_VVV.png)
+![M Graphic](images/02_PUMP_M.png)
 
 ---
 
-## 3. Ether.fi ($ETHFI) — +5.02% (PUMP)
+## 3. Beldex ($BDX) — +0.8% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Up five percent? That barely covers my espresso budget, but at least these staking guys haven't run off with my coat yet.
+**CMC Comment:** Up almost a whole percent! Don't spend it all in one place, boys, we are practically Wall Street moguls now.
 
-![ETHFI Graphic](images/03_PUMP_ETHFI.png)
-
----
-
-## 4. Pump.fun ($PUMP) — +3.26% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** It's literally called PUMP and it's pumping, what more DD do you nerds need?! Smells like pure, unadulterated parabolic bliss!
-
-![PUMP Graphic](images/04_PUMP_PUMP.png)
+![BDX Graphic](images/03_PUMP_BDX.png)
 
 ---
 
-## 5. Lighter ($LIT) — +3.03% (PUMP)
+## 4. Ondo US Dollar Yield ($USDY) — +0.13% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A three percent upward variance in Lighter merely demonstrates temporary retail irrationality. Mathematically speaking, you will still end up poor.
+**CMC Comment:** A mathematical marvel of yield generation, soaring by a staggering zero-point-one-three percent! Economists worldwide are weeping at such raw velocity.
 
-![LIT Graphic](images/05_PUMP_LIT.png)
+![USDY Graphic](images/04_PUMP_USDY.png)
 
 ---
 
-## 6. Ethena ($ENA) — -4.98% (DUMP)
+## 5. Circle USYC ($USYC) — +0.05% (PUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Green is green, baby! Five basis points means my early retirement just moved five minutes closer!
+
+![USYC Graphic](images/05_PUMP_USYC.png)
+
+---
+
+## 6. LayerZero ($ZRO) — -13.66% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down five percent already? Unbelievable, every time I buy a synthetic dollar it turns into synthetic dust.
+**CMC Comment:** LayerZero? More like Layer Hero-to-Zero! My net worth just took a dirt nap faster than a mob informant.
 
-![ENA Graphic](images/06_DUMP_ENA.png)
+![ZRO Graphic](images/06_DUMP_ZRO.png)
 
 ---
 
-## 7. Aster ($ASTER) — -5.69% (DUMP)
+## 7. Pi Network ($PI) — -14.36% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Aster is just taking a little sleepy nap in the discount soil! Don't sell, just send the chart peaceful healing vibrations!
+**CMC Comment:** The universe is merely asking us to shed our worldly attachment to zero point zero four dollars! Stay serene, fellow phone miners!
 
-![ASTER Graphic](images/07_DUMP_ASTER.png)
+![PI Graphic](images/07_DUMP_PI.png)
 
 ---
 
-## 8. MemeCore ($M) — -6.11% (DUMP)
+## 8. Zcash ($ZEC) — -15.02% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** The empirical data for MemeCore confirms my thesis: assets with single-letter tickers correlate directly with single-digit IQ trading decisions.
+**CMC Comment:** Fascinating! The privacy protocol has effectively hidden fifteen percent of its market capitalization from existing in this physical reality.
 
-![M Graphic](images/08_DUMP_M.png)
+![ZEC Graphic](images/08_DUMP_ZEC.png)
 
 ---
 
-## 9. Sky ($SKY) — -9.89% (DUMP)
+## 9. Lighter ($LIT) — -16.78% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** The Sky is falling down ten percent! Dump it all, run for the hills, and tune into my emergency market crash broadcast!
+**CMC Comment:** LIT is currently setting my life savings on fire! Time to turn off the monitor and pretend I never opened a trading account.
 
-![SKY Graphic](images/09_DUMP_SKY.png)
+![LIT Graphic](images/09_DUMP_LIT.png)
 
 ---
 
-## 10. Pieverse ($PIEVERSE) — -13.37% (DUMP)
+## 10. Rain ($RAIN) — -22.04% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Thirteen percent in the gutter! They promised me a pie in the sky and all I got was a slap in the face.
+**CMC Comment:** It is raining pure blood on the charts and I left my umbrella in the trunk, capiche?
 
-![PIEVERSE Graphic](images/10_DUMP_PIEVERSE.png)
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
