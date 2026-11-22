@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. A7A5 ($A7A5) — +190.63% (PUMP)
+## 1. Pieverse ($PIEVERSE) — +9.39% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up 190% today because fundamental analysis is just astrology for guys who sleep on futons. I am leveraging my wife's retirement fund as we speak!
+**CMC Comment:** PIEVERSE is up over 9% today and I have already leveraged my house to buy virtual bakeries. Green candles mean the pie is infinite, baby!
 
-![A7A5 Graphic](images/01_PUMP_A7A5.png)
+![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
 
 ---
 
-## 2. Venice Token ($VVV) — +23.35% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The sacred gondolas of Venice are floating high on pure green candles! Blessed are the believers who traded their rent money for eternal digital glory.
+## 2. Venice Token ($VVV) — +8.05% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Up 8%? Forget the gondolas, I am buying a solid gold speed boat and racing it straight to the moon!
 
 ![VVV Graphic](images/02_PUMP_VVV.png)
 
 ---
 
-## 3. Pieverse ($PIEVERSE) — +21.71% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** I don't know what a Pieverse is, but it's up 21% so I just put a second mortgage on the deli. We are eatin' baked goods on the moon tonight!
-
-![PIEVERSE Graphic](images/03_PUMP_PIEVERSE.png)
-
----
-
-## 4. Monero ($XMR) — +8.45% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Ah, privacy gains—mathematically proven to correlate with tax evasion vectors. An exquisite 8.45% increase in total financial anonymity.
-
-![XMR Graphic](images/04_PUMP_XMR.png)
-
----
-
-## 5. Pi Network ($PI) — +7.39% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** Tapping a button on your phone once a day finally paid for half a caramel macchiato. Web3 disruption is truly here, baby!
-
-![PI Graphic](images/05_PUMP_PI.png)
-
----
-
-## 6. XDC Network ($XDC) — -2.15% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Down 2%? Great, my nephew told me this was an institutional-grade enterprise chain, and now I am paying for his enterprise-grade mistakes.
-
-![XDC Graphic](images/06_DUMP_XDC.png)
-
----
-
-## 7. Cosmos Hub ($ATOM) — -3.31% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** The interchain hub suffers a minor gravitational collapse, proving once again that cosmic entropy always triumphs over staking yields.
-
-![ATOM Graphic](images/07_DUMP_ATOM.png)
-
----
-
-## 8. Jupiter ($JUP) — -3.4% (DUMP)
+## 3. Midnight ($NIGHT) — +7.48% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Jupiter is taking us on a quiet retreat down into the lower realm to test our spiritual resilience before the grand ascension.
+**CMC Comment:** NIGHT is shining so bright at +7.48%! Staying up past bedtime buying dips unlocked cosmic prosperity for all of us!
 
-![JUP Graphic](images/08_DUMP_JUP.png)
+![NIGHT Graphic](images/03_PUMP_NIGHT.png)
 
 ---
 
-## 9. Internet Computer ($ICP) — -4.09% (DUMP)
+## 4. Ether.fi ($ETHFI) — +6.87% (PUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** A 6.87% upward tick indicates temporary market optimism; do enjoy the liquidity before mathematical gravity reasserts itself.
+
+![ETHFI Graphic](images/04_PUMP_ETHFI.png)
+
+---
+
+## 5. Pump.fun ($PUMP) — +6.25% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** It turns out decentralizing the entire internet just means losing money decentralized-style. Bullish on cloud-based poverty!
+**CMC Comment:** It is literally named PUMP! Up 6.25% today, time to screenshot my paper gains and offer financial masterclasses.
 
-![ICP Graphic](images/09_DUMP_ICP.png)
+![PUMP Graphic](images/05_PUMP_PUMP.png)
 
 ---
 
-## 10. MemeCore ($M) — -11.92% (DUMP)
+## 6. Lighter ($LIT) — -2.11% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down almost 12% in a single day? I have seen mob hits cleaner than this chart, get me out of this core dump!
+**CMC Comment:** LIT drops 2% and my bags are officially taking on water. Who drained the lighter fluid out of this trade?!
 
-![M Graphic](images/10_DUMP_M.png)
+![LIT Graphic](images/06_DUMP_LIT.png)
+
+---
+
+## 7. Cronos ($CRO) — -2.43% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** A 2.43% decline in CRO merely demonstrates that stadium naming rights do not alter structural volatility.
+
+![CRO Graphic](images/07_DUMP_CRO.png)
+
+---
+
+## 8. Sky ($SKY) — -4.72% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** SKY fell 4.72% today, but every downward chart is just the universe clearing away bad vibes for the next rally!
+
+![SKY Graphic](images/08_DUMP_SKY.png)
+
+---
+
+## 9. Canton ($CC) — -5.28% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Down over 5%? I am holding bags heavier than a concrete block at the bottom of the Hudson River.
+
+![CC Graphic](images/09_DUMP_CC.png)
+
+---
+
+## 10. Rain ($RAIN) — -9.41% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Down 9.41% isn't a dump, it is a high-speed wealth redistribution discount for visionaries who hate cash!
+
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
