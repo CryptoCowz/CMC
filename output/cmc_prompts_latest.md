@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pieverse ($PIEVERSE) — +9.39% (PUMP)
+## 1. Pearl ($PEARL) — +14.79% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** PIEVERSE is up over 9% today and I have already leveraged my house to buy virtual bakeries. Green candles mean the pie is infinite, baby!
+**CMC Comment:** Clutching this Pearl like my third ex-wife's alimony settlement. We are flying straight to the moon, baby!
 
-![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
-
----
-
-## 2. Venice Token ($VVV) — +8.05% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Up 8%? Forget the gondolas, I am buying a solid gold speed boat and racing it straight to the moon!
-
-![VVV Graphic](images/02_PUMP_VVV.png)
+![PEARL Graphic](images/01_PUMP_PEARL.png)
 
 ---
 
-## 3. Midnight ($NIGHT) — +7.48% (PUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** NIGHT is shining so bright at +7.48%! Staying up past bedtime buying dips unlocked cosmic prosperity for all of us!
-
-![NIGHT Graphic](images/03_PUMP_NIGHT.png)
-
----
-
-## 4. Ether.fi ($ETHFI) — +6.87% (PUMP)
+## 2. Cosmos Hub ($ATOM) — +8.67% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** A 6.87% upward tick indicates temporary market optimism; do enjoy the liquidity before mathematical gravity reasserts itself.
+**CMC Comment:** Mathematically speaking, the interchain alignment has achieved maximum FOMO velocity. Do not ask about fundamentals, just enjoy the green candle.
 
-![ETHFI Graphic](images/04_PUMP_ETHFI.png)
-
----
-
-## 5. Pump.fun ($PUMP) — +6.25% (PUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** It is literally named PUMP! Up 6.25% today, time to screenshot my paper gains and offer financial masterclasses.
-
-![PUMP Graphic](images/05_PUMP_PUMP.png)
+![ATOM Graphic](images/02_PUMP_ATOM.png)
 
 ---
 
-## 6. Lighter ($LIT) — -2.11% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** LIT drops 2% and my bags are officially taking on water. Who drained the lighter fluid out of this trade?!
-
-![LIT Graphic](images/06_DUMP_LIT.png)
-
----
-
-## 7. Cronos ($CRO) — -2.43% (DUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A 2.43% decline in CRO merely demonstrates that stadium naming rights do not alter structural volatility.
-
-![CRO Graphic](images/07_DUMP_CRO.png)
-
----
-
-## 8. Sky ($SKY) — -4.72% (DUMP)
+## 3. Algorand ($ALGO) — +8.26% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** SKY fell 4.72% today, but every downward chart is just the universe clearing away bad vibes for the next rally!
+**CMC Comment:** The universe is healing and Algorand is shining bright! I just traded my sacred chakra crystals for more bags!
 
-![SKY Graphic](images/08_DUMP_SKY.png)
+![ALGO Graphic](images/03_PUMP_ALGO.png)
 
 ---
 
-## 9. Canton ($CC) — -5.28% (DUMP)
+## 4. Quant ($QNT) — +8.14% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Down over 5%? I am holding bags heavier than a concrete block at the bottom of the Hudson River.
+**CMC Comment:** Enterprise interoperability? I don't care what it means, the line goes up so I bought another gold chain.
 
-![CC Graphic](images/09_DUMP_CC.png)
+![QNT Graphic](images/04_PUMP_QNT.png)
 
 ---
 
-## 10. Rain ($RAIN) — -9.41% (DUMP)
+## 5. Canton ($CC) — +6.9% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Down 9.41% isn't a dump, it is a high-speed wealth redistribution discount for visionaries who hate cash!
+**CMC Comment:** Up almost seven percent and my heart rate is up two hundred. I'm leveraging my second house for Canton right now!
 
-![RAIN Graphic](images/10_DUMP_RAIN.png)
+![CC Graphic](images/05_PUMP_CC.png)
+
+---
+
+## 6. Sky ($SKY) — -2.64% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** The sky is falling and so is my net worth. Somebody turn off the gravity before I lose my boots.
+
+![SKY Graphic](images/06_DUMP_SKY.png)
+
+---
+
+## 7. Beldex ($BDX) — -3.05% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Privacy features cannot conceal the absolute tragedy occurring on this order book. A statistical disaster.
+
+![BDX Graphic](images/07_DUMP_BDX.png)
+
+---
+
+## 8. Bitway ($BTW) — -3.45% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** By the way, my portfolio is sending negative vibrations today. I am holding hands with my losses and breathing deeply.
+
+![BTW Graphic](images/08_DUMP_BTW.png)
+
+---
+
+## 9. World Liberty Financial ($WLFI) — -5.05% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** World Liberty Financial? More like World Financial Disaster! Time to blame the Fed and sell the speedboat.
+
+![WLFI Graphic](images/09_DUMP_WLFI.png)
+
+---
+
+## 10. Venice Token ($VVV) — -6.6% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Veni, vidi, lost all my money. Venice is sinking and taking my kids' college fund down with it.
+
+![VVV Graphic](images/10_DUMP_VVV.png)
 
 ---
