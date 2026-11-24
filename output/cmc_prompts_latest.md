@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Pearl ($PEARL) — +14.79% (PUMP)
+## 1. Bitway ($BTW) — +7.54% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Clutching this Pearl like my third ex-wife's alimony settlement. We are flying straight to the moon, baby!
+**CMC Comment:** Bitway is up over 7% today! I just remortgaged the barn because green candles like this simply do not lie.
 
-![PEARL Graphic](images/01_PUMP_PEARL.png)
-
----
-
-## 2. Cosmos Hub ($ATOM) — +8.67% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** Mathematically speaking, the interchain alignment has achieved maximum FOMO velocity. Do not ask about fundamentals, just enjoy the green candle.
-
-![ATOM Graphic](images/02_PUMP_ATOM.png)
+![BTW Graphic](images/01_PUMP_BTW.png)
 
 ---
 
-## 3. Algorand ($ALGO) — +8.26% (PUMP)
+## 2. Monero ($XMR) — +3.15% (PUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Monero up 3% means someone somewhere just bought a jet ski completely off the grid. You love to see it.
+
+![XMR Graphic](images/02_PUMP_XMR.png)
+
+---
+
+## 3. Sky ($SKY) — +2.04% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** The universe is healing and Algorand is shining bright! I just traded my sacred chakra crystals for more bags!
+**CMC Comment:** Sky is climbing higher! The cosmic winds are lifting our financial spirits right up into the clouds today!
 
-![ALGO Graphic](images/03_PUMP_ALGO.png)
-
----
-
-## 4. Quant ($QNT) — +8.14% (PUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Enterprise interoperability? I don't care what it means, the line goes up so I bought another gold chain.
-
-![QNT Graphic](images/04_PUMP_QNT.png)
+![SKY Graphic](images/03_PUMP_SKY.png)
 
 ---
 
-## 5. Canton ($CC) — +6.9% (PUMP)
+## 4. Pepe ($PEPE) — +1.45% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Up almost seven percent and my heart rate is up two hundred. I'm leveraging my second house for Canton right now!
+**CMC Comment:** A 1.4% frog pump? Time to post 'we are so back' and pretend my student loans don't exist anymore!
 
-![CC Graphic](images/05_PUMP_CC.png)
-
----
-
-## 6. Sky ($SKY) — -2.64% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** The sky is falling and so is my net worth. Somebody turn off the gravity before I lose my boots.
-
-![SKY Graphic](images/06_DUMP_SKY.png)
+![PEPE Graphic](images/04_PUMP_PEPE.png)
 
 ---
 
-## 7. Beldex ($BDX) — -3.05% (DUMP)
+## 5. Figure Heloc ($FIGR_HELOC) — +0.67% (PUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Privacy features cannot conceal the absolute tragedy occurring on this order book. A statistical disaster.
+**CMC Comment:** A 0.67% upward variance in Figure Heloc represents statistically negligible velocity, yet retail will undoubtedly celebrate it as a triumph.
 
-![BDX Graphic](images/07_DUMP_BDX.png)
-
----
-
-## 8. Bitway ($BTW) — -3.45% (DUMP)
-**Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** By the way, my portfolio is sending negative vibrations today. I am holding hands with my losses and breathing deeply.
-
-![BTW Graphic](images/08_DUMP_BTW.png)
+![FIGR_HELOC Graphic](images/05_PUMP_FIGR_HELOC.png)
 
 ---
 
-## 9. World Liberty Financial ($WLFI) — -5.05% (DUMP)
-**Cast Member:** Skip Zinfandel
-**CMC Comment:** World Liberty Financial? More like World Financial Disaster! Time to blame the Fed and sell the speedboat.
-
-![WLFI Graphic](images/09_DUMP_WLFI.png)
-
----
-
-## 10. Venice Token ($VVV) — -6.6% (DUMP)
+## 6. Injective ($INJ) — -9.5% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Veni, vidi, lost all my money. Venice is sinking and taking my kids' college fund down with it.
+**CMC Comment:** Injective down nearly 10%. Injecting your life savings directly into a shredder would have saved you the gas fees.
 
-![VVV Graphic](images/10_DUMP_VVV.png)
+![INJ Graphic](images/06_DUMP_INJ.png)
+
+---
+
+## 7. Mantle ($MNT) — -9.85% (DUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Mantle's 9.85% decline serves as an empirical demonstration that financial gravity remains entirely undefeated.
+
+![MNT Graphic](images/07_DUMP_MNT.png)
+
+---
+
+## 8. Rain ($RAIN) — -10.97% (DUMP)
+**Cast Member:** Sunshine Innocent Nimbus
+**CMC Comment:** Rain is dumping 11%, but remember that every heavy downpour just helps clean the mud off our bagholding feet!
+
+![RAIN Graphic](images/08_DUMP_RAIN.png)
+
+---
+
+## 9. Pieverse ($PIEVERSE) — -15.48% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Pieverse down 15%? Somebody just smashed that pie right into your face and kept the dish, pal.
+
+![PIEVERSE Graphic](images/09_DUMP_PIEVERSE.png)
+
+---
+
+## 10. Pearl ($PEARL) — -22.63% (DUMP)
+**Cast Member:** Skip Zinfandel
+**CMC Comment:** Pearl dropped 22% today, but I'm told holding heavy bags at the bottom of the ocean is great for upper body strength!
+
+![PEARL Graphic](images/10_DUMP_PEARL.png)
 
 ---
