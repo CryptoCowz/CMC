@@ -1,81 +1,81 @@
 # Daily Top Movers: CMC Community Visuals & Posts
 
-## 1. Bitway ($BTW) — +7.54% (PUMP)
+## 1. Pieverse ($PIEVERSE) — +22.09% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Bitway is up over 7% today! I just remortgaged the barn because green candles like this simply do not lie.
+**CMC Comment:** Just refinanced my tractor to ape into Pieverse at the top. If baking digital pies doesn't bring financial freedom, nothing will.
 
-![BTW Graphic](images/01_PUMP_BTW.png)
+![PIEVERSE Graphic](images/01_PUMP_PIEVERSE.png)
 
 ---
 
-## 2. Monero ($XMR) — +3.15% (PUMP)
+## 2. Bitway ($BTW) — +18.1% (PUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Monero up 3% means someone somewhere just bought a jet ski completely off the grid. You love to see it.
+**CMC Comment:** Bitway is pumping so fast my cousin already tried to sell me a fake ledger. Lock in those gains before the devs go to Cabo!
 
-![XMR Graphic](images/02_PUMP_XMR.png)
+![BTW Graphic](images/02_PUMP_BTW.png)
 
 ---
 
-## 3. Sky ($SKY) — +2.04% (PUMP)
+## 3. Venice Token ($VVV) — +15.34% (PUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Sky is climbing higher! The cosmic winds are lifting our financial spirits right up into the clouds today!
+**CMC Comment:** Gondolas only go up in the digital lagoon of destiny! I can already feel the cosmic wealth vibrating through my portfolio.
 
-![SKY Graphic](images/03_PUMP_SKY.png)
+![VVV Graphic](images/03_PUMP_VVV.png)
 
 ---
 
-## 4. Pepe ($PEPE) — +1.45% (PUMP)
+## 4. Pearl ($PEARL) — +9.06% (PUMP)
+**Cast Member:** Professor Hartmut
+**CMC Comment:** Statistically speaking, finding a green candle of this magnitude in an ocean of mediocrity is rare. I shall hold until the liquidity vanishes completely.
+
+![PEARL Graphic](images/04_PUMP_PEARL.png)
+
+---
+
+## 5. World Liberty Financial ($WLFI) — +5.76% (PUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** A 1.4% frog pump? Time to post 'we are so back' and pretend my student loans don't exist anymore!
+**CMC Comment:** Nothing says financial liberty quite like buying a token up 5 percent while praying for a 100x pump by midnight. Truly patriotic trading!
 
-![PEPE Graphic](images/04_PUMP_PEPE.png)
-
----
-
-## 5. Figure Heloc ($FIGR_HELOC) — +0.67% (PUMP)
-**Cast Member:** Professor Hartmut
-**CMC Comment:** A 0.67% upward variance in Figure Heloc represents statistically negligible velocity, yet retail will undoubtedly celebrate it as a triumph.
-
-![FIGR_HELOC Graphic](images/05_PUMP_FIGR_HELOC.png)
+![WLFI Graphic](images/05_PUMP_WLFI.png)
 
 ---
 
-## 6. Injective ($INJ) — -9.5% (DUMP)
+## 6. Cosmos Hub ($ATOM) — -0.94% (DUMP)
 **Cast Member:** Frank Rizzo
-**CMC Comment:** Injective down nearly 10%. Injecting your life savings directly into a shredder would have saved you the gas fees.
+**CMC Comment:** Down less than one percent and the chat is already crying like a leaky pipe. Wake me up when the whole hub collapses into a black hole!
 
-![INJ Graphic](images/06_DUMP_INJ.png)
+![ATOM Graphic](images/06_DUMP_ATOM.png)
 
 ---
 
-## 7. Mantle ($MNT) — -9.85% (DUMP)
+## 7. Quant ($QNT) — -1.19% (DUMP)
 **Cast Member:** Professor Hartmut
-**CMC Comment:** Mantle's 9.85% decline serves as an empirical demonstration that financial gravity remains entirely undefeated.
+**CMC Comment:** My quantitative models suggested enterprise adoption, yet here we are observing negative micro-fluctuations. A mild setback for true intellectuals.
 
-![MNT Graphic](images/07_DUMP_MNT.png)
+![QNT Graphic](images/07_DUMP_QNT.png)
 
 ---
 
-## 8. Rain ($RAIN) — -10.97% (DUMP)
+## 8. Figure Heloc ($FIGR_HELOC) — -1.51% (DUMP)
 **Cast Member:** Sunshine Innocent Nimbus
-**CMC Comment:** Rain is dumping 11%, but remember that every heavy downpour just helps clean the mud off our bagholding feet!
+**CMC Comment:** Taking out equity on a digital home line of credit seemed so peaceful until the chart dipped. Sending positive light to my collateral!
 
-![RAIN Graphic](images/08_DUMP_RAIN.png)
-
----
-
-## 9. Pieverse ($PIEVERSE) — -15.48% (DUMP)
-**Cast Member:** Frank Rizzo
-**CMC Comment:** Pieverse down 15%? Somebody just smashed that pie right into your face and kept the dish, pal.
-
-![PIEVERSE Graphic](images/09_DUMP_PIEVERSE.png)
+![FIGR_HELOC Graphic](images/08_DUMP_FIGR_HELOC.png)
 
 ---
 
-## 10. Pearl ($PEARL) — -22.63% (DUMP)
+## 9. TRON ($TRX) — -1.58% (DUMP)
 **Cast Member:** Skip Zinfandel
-**CMC Comment:** Pearl dropped 22% today, but I'm told holding heavy bags at the bottom of the ocean is great for upper body strength!
+**CMC Comment:** Justin Sun probably sneezed and dropped the market a point. Time to double down and pretend this was the master plan all along!
 
-![PEARL Graphic](images/10_DUMP_PEARL.png)
+![TRX Graphic](images/09_DUMP_TRX.png)
+
+---
+
+## 10. Rain ($RAIN) — -3.77% (DUMP)
+**Cast Member:** Frank Rizzo
+**CMC Comment:** Rain is falling and so is my net worth. Somebody fetch me an umbrella before this bag pulls me all the way into the sewer!
+
+![RAIN Graphic](images/10_DUMP_RAIN.png)
 
 ---
